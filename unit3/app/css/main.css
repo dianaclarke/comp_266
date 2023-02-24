@@ -1,0 +1,104 @@
+body {
+    color: #53565e;
+    background-color: white;
+    font-family: Arial;
+}
+
+a {
+    color: #53565e;
+}
+
+i {
+    color: #e46e4e;
+}
+
+p {
+    margin: 30px;
+}
+
+h1 a {
+    /* page title links */
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 30px;
+    color: #77a352;
+}
+
+/*
+ * https://blog.hubspot.com/website/center-div-css
+ */
+.center {
+    margin: auto;
+    padding: 5px;
+}
+
+.dots {
+    height: 40px;
+    vertical-align: top;
+}
+
+.splash {
+    width: 80%;
+    padding: 25px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #53565e;
+    border-radius: 25px;
+    overflow: auto;
+}
+
+.splash>p>a:hover {
+    color: #e46e4e;
+}
+
+.submit-button {
+    background-color: #77a352;
+    float: right;
+    clear: both;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.back-button {
+    background-color: #e46e4e;
+    float: left;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.footer {
+    clear: both;
+    font-size: 75%;
+    color: grey;
+    padding: 15px;
+    background-color: #F0F0F0;
+    margin-top: 100px;
+    margin-bottom: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+.contact-link {
+    float: right;
+}
+
+.contact-link a {
+    color: grey;
+}
