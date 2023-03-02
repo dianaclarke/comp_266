@@ -1,0 +1,66 @@
+.splash>p>a>img {
+    height: 275px;
+    overflow: hidden;
+}
+
+.home {
+    font-size: 1.1em;
+    margin-bottom: 50px;
+}
+
+.chapters {
+    text-align: center;
+    width: 80%;
+}
+
+.box a {
+    color: white;
+    text-decoration: none;
+}
+
+.box li:hover>a {
+    color: white;
+}
+
+.box li:hover:nth-child(1n) {
+    background-color: #77a352;
+    opacity: 0.8;
+}
+
+.box li:hover:nth-child(2n) {
+    background-color: #e46e4e;
+    opacity: 0.8;
+}
+
+.box li:hover:nth-child(3n) {
+    background-color: #eccd42;
+    opacity: 0.8;
+}
+
+.box ul {
+    padding: 0;
+}
+
+.box li {
+    list-style-type: none;
+    display: inline-block;
+    background-color: #53565e;
+    opacity: 0.8;
+    margin: 15px;
+    padding: 15px;
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
+    vertical-align: top;
+}
+
+.chapter {
+    height: 75px;
+    display: block;
+}
+
+.box-icon {
+    padding: 25px;
+    font-size: 40px;
+    color: white;
+}
