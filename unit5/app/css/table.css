@@ -1,0 +1,25 @@
+table {
+    width: 50%;
+    border: 1px solid #53565e;
+    border-collapse: separate;
+    border-radius: 5px;
+}
+
+th {
+    border: none;
+    padding: 5px;
+}
+
+td {
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #F0F0F0;
+}
+
+tbody td:nth-child(1) {
+    white-space: nowrap;
+}
