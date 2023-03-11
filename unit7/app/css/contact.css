@@ -1,0 +1,51 @@
+.contact {
+    font-size: 1.1em;
+}
+
+label {
+    float: left;
+    margin: 5px;
+    clear: both;
+}
+
+input[type=text], input[type=email], textarea {
+    float: left;
+    margin: 5px;
+    clear: both;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.test-label {
+    color: white;
+    border-radius: 5px;
+    background-color: #e46e4e;
+    padding: 5px;
+    padding-right: 7px;
+}
+
+.watch-label {
+    color: white;
+    border-radius: 5px;
+    background-color: #eccd42;
+    padding: 5px;
+}
+
+.read-label {
+    color: white;
+    border-radius: 5px;
+    background-color: #77a352;
+    padding: 5px;
+}
+
+.g-recaptcha {
+    padding-top: 10px;
+    padding-left: 5px;
+    float: left;
+    clear: both;
+}
+
+.footer {
+    border: none;
+    margin-top: 0px;
+}

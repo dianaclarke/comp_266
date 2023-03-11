@@ -1,0 +1,465 @@
+{
+    "quiz": [
+        {
+            "question": "What is the primary function of the urinary system?",
+            "options": [
+                "Absorption",
+                "Digestion",
+                "Excretion",
+                "Circulation"
+            ],
+            "answer": "Excretion"
+        },
+        {
+            "question": "What is the functional unit of the kidney?",
+            "options": [
+                "Renal papilla",
+                "Nephron",
+                "Urethra",
+                "Collecting duct"
+            ],
+            "answer": "Nephron"
+        },
+        {
+            "question": "What is the outermost layer of the kidney called?",
+            "options": [
+                "Renal cortex",
+                "Renal pyramid",
+                "Renal pelvis",
+                "Renal medulla"
+            ],
+            "answer": "Renal cortex"
+        },
+        {
+            "question": "What is the triangular area of the urinary bladder called?",
+            "options": [
+                "Trigone",
+                "Sphincter",
+                "Detrusor",
+                "Ureter"
+            ],
+            "answer": "Trigone"
+        },
+        {
+            "question": "Which hormone regulates the reabsorption of water in the kidneys?",
+            "options": [
+                "Antidiuretic hormone (ADH)",
+                "Aldosterone",
+                "Renin",
+                "Erythropoietin"
+            ],
+            "answer": "Antidiuretic hormone (ADH)"
+        },
+        {
+            "question": "What is the tube that carries urine from the kidney to the bladder?",
+            "options": [
+                "Ureter",
+                "Urethra",
+                "Renal artery",
+                "Renal vein"
+            ],
+            "answer": "Ureter"
+        },
+        {
+            "question": "Which structure surrounds the urethra in males and aids in ejaculation?",
+            "options": [
+                "Prostate gland",
+                "Seminal vesicles",
+                "Bulbourethral glands",
+                "Epididymis"
+            ],
+            "answer": "Prostate gland"
+        },
+        {
+            "question": "What is the process of expelling urine from the bladder called?",
+            "options": [
+                "Incontinence",
+                "Micturition",
+                "Retention",
+                "Dysuria"
+            ],
+            "answer": "Micturition"
+        },
+        {
+            "question": "What is the term used for the filtration of blood in the kidneys?",
+            "options": [
+                "Glomerular filtration",
+                "Tubular reabsorption",
+                "Tubular secretion",
+                "Excretion"
+            ],
+            "answer": "Glomerular filtration"
+        },
+        {
+            "question": "What is the hormone produced by the kidneys that stimulates red blood cell production?",
+            "options": [
+                "Antidiuretic hormone (ADH)",
+                "Aldosterone",
+                "Renin",
+                "Erythropoietin"
+            ],
+            "answer": "Erythropoietin"
+        },
+        {
+            "question": "What is the functional unit of the urinary bladder?",
+            "options": [
+                "Rugae",
+                "Trabeculae",
+                "Urethral sphincter",
+                "Detrusor muscle"
+            ],
+            "answer": "Detrusor muscle"
+        },
+        {
+            "question": "What is the term used for the transport of solutes and water from the tubules back into the blood?",
+            "options": [
+                "Glomerular filtration",
+                "Tubular reabsorption",
+                "Tubular secretion",
+                "Urea recycling"
+            ],
+            "answer": "Tubular reabsorption"
+        },
+        {
+            "question": "What is the hormone that regulates the balance of sodium and potassium in the body?",
+            "options": [
+                "Antidiuretic hormone (ADH)",
+                "Aldosterone",
+                "Renin",
+                "Erythropoietin"
+            ],
+            "answer": "Aldosterone"
+        },
+        {
+            "question": "What is the term used for the return of substances from the renal tubules to the blood?",
+            "options": [
+                "Glomerular filtration",
+                "Tubular reabsorption",
+                "Tubular secretion",
+                "Urea recycling"
+            ],
+            "answer": "Tubular reabsorption"
+        },
+        {
+            "question": "What is the term used for the transport of solutes and water from the blood into the tubules?",
+            "options": [
+                "Glomerular filtration",
+                "Tubular reabsorption",
+                "Tubular secretion",
+                "Urea recycling"
+            ],
+            "answer": "Tubular secretion"
+        },
+        {
+            "question": "What is the term used for the accumulation of urine within the bladder?",
+            "options": [
+                "Incontinence",
+                "Micturition",
+                "Retention",
+                "Dysuria"
+            ],
+            "answer": "Retention"
+        },
+        {
+            "question": "Which part of the nephron is responsible for absorbing water, ions, and nutrients?",
+            "options": [
+                "Loop of Henle",
+                "Glomerulus",
+                "Distal tubule",
+                "Proximal tubule"
+            ],
+            "answer": "Proximal tubule"
+        },
+        {
+            "question": "What is the term used to describe the sensation of needing to urinate?",
+            "options": [
+                "Incontinence",
+                "Micturition",
+                "Retention",
+                "Urgency"
+            ],
+            "answer": "Urgency"
+        },
+        {
+            "question": "What is the triangular area of the kidney called?",
+            "options": [
+                "Renal pelvis",
+                "Renal pyramid",
+                "Renal medulla",
+                "Renal cortex"
+            ],
+            "answer": "Renal pyramid"
+        },
+        {
+            "question": "Which part of the nephron is responsible for reabsorbing ions and regulating pH?",
+            "options": [
+                "Loop of Henle",
+                "Glomerulus",
+                "Distal tubule",
+                "Proximal tubule"
+            ],
+            "answer": "Distal tubule"
+        },
+        {
+            "question": "What is the term used for the difficulty or pain when urinating?",
+            "options": [
+                "Incontinence",
+                "Micturition",
+                "Retention",
+                "Dysuria"
+            ],
+            "answer": "Dysuria"
+        },
+        {
+            "question": "What is the term used for the permanent cessation of menstrual periods?",
+            "options": [
+                "Menopause",
+                "Endometriosis",
+                "Ovarian cancer",
+                "Fallopian tube obstruction"
+            ],
+            "answer": "Menopause"
+        },
+        {
+            "question": "What is the term used for the presence of blood in the urine?",
+            "options": [
+                "Hematuria",
+                "Pyuria",
+                "Albuminuria",
+                "Cystitis"
+            ],
+            "answer": "Hematuria"
+        },
+        {
+            "question": "What is the hormone that regulates water balance in the body?",
+            "options": [
+                "Antidiuretic hormone (ADH)",
+                "Aldosterone",
+                "Renin",
+                "Erythropoietin"
+            ],
+            "answer": "Antidiuretic hormone (ADH)"
+        },
+        {
+            "question": "What is the condition in which the kidneys fail and require dialysis?",
+            "options": [
+                "Cystitis",
+                "Nephritis",
+                "Renal failure",
+                "Polycystic kidney disease"
+            ],
+            "answer": "Renal failure"
+        },
+        {
+            "question": "What is the term used for the inflammation of the bladder?",
+            "options": [
+                "Pyelonephritis",
+                "Cystitis",
+                "Nephritis",
+                "Glomerulonephritis"
+            ],
+            "answer": "Cystitis"
+        },
+        {
+            "question": "What is the hormone that regulates blood pressure in the body?",
+            "options": [
+                "Antidiuretic hormone (ADH)",
+                "Aldosterone",
+                "Renin",
+                "Erythropoietin"
+            ],
+            "answer": "Renin"
+        },
+        {
+            "question": "What is the term used for the presence of pus in the urine?",
+            "options": [
+                "Hematuria",
+                "Pyuria",
+                "Albuminuria",
+                "Cystitis"
+            ],
+            "answer": "Pyuria"
+        },
+        {
+            "question": "What is the term used for the inflammation of the kidney?",
+            "options": [
+                "Pyelonephritis",
+                "Cystitis",
+                "Nephritis",
+                "Glomerulonephritis"
+            ],
+            "answer": "Nephritis"
+        },
+        {
+            "question": "What is the term used for the presence of protein in the urine?",
+            "options": [
+                "Hematuria",
+                "Pyuria",
+                "Albuminuria",
+                "Cystitis"
+            ],
+            "answer": "Albuminuria"
+        },
+        {
+            "question": "What is the condition in which the kidneys contain multiple fluid-filled sacs?",
+            "options": [
+                "Polycystic kidney disease",
+                "Cystitis",
+                "Nephritis",
+                "Glomerulonephritis"
+            ],
+            "answer": "Polycystic kidney disease"
+        },
+        {
+            "question": "What is the condition in which the bladder does not empty completely?",
+            "options": [
+                "Incontinence",
+                "Micturition",
+                "Retention",
+                "Dysuria"
+            ],
+            "answer": "Retention"
+        },
+        {
+            "question": "What is the process of breaking down urea into ammonia called?",
+            "options": [
+                "Urea recycling",
+                "Ureolysis",
+                "Ureteral dissolution",
+                "Urokinase activation"
+            ],
+            "answer": "Ureolysis"
+        },
+        {
+            "question": "What is the congenital condition in which the urethral opening is located on the underside of the penis?",
+            "options": [
+                "Hypospadias",
+                "Epispadias",
+                "Ureteropelvic junction obstruction",
+                "Vesicoureteral reflux"
+            ],
+            "answer": "Hypospadias"
+        },
+        {
+            "question": "What is the acute inflammation of the kidney and surrounding tissue called?",
+            "options": [
+                "Pyelonephritis",
+                "Cystitis",
+                "Nephritis",
+                "Perinephric abscess"
+            ],
+            "answer": "Perinephric abscess"
+        },
+        {
+            "question": "What is the term used for the backward flow of urine from the bladder into the kidneys?",
+            "options": [
+                "Hydronephrosis",
+                "Ureteropelvic junction obstruction",
+                "Vesicoureteral reflux",
+                "Nephrotic syndrome"
+            ],
+            "answer": "Vesicoureteral reflux"
+        },
+        {
+            "question": "What is the term used for the buildup of urine in the kidneys due to obstruction of the ureter?",
+            "options": [
+                "Hydronephrosis",
+                "Ureteropelvic junction obstruction",
+                "Vesicoureteral reflux",
+                "Nephropathy"
+            ],
+            "answer": "Ureteropelvic junction obstruction"
+        },
+        {
+            "question": "What is the congenital condition in which the urethral opening is located on the topside of the penis?",
+            "options": [
+                "Hypospadias",
+                "Epispadias",
+                "Ureteropelvic junction obstruction",
+                "Vesicoureteral reflux"
+            ],
+            "answer": "Epispadias"
+        },
+        {
+            "question": "What is the term used for the swelling of the kidney due to urine backup?",
+            "options": [
+                "Hydronephrosis",
+                "Ureteropelvic junction obstruction",
+                "Vesicoureteral reflux",
+                "Nephropathy"
+            ],
+            "answer": "Hydronephrosis"
+        },
+        {
+            "question": "What is the term used for the abnormal excretion of protein in the urine?",
+            "options": [
+                "Glomerulonephritis",
+                "Nephrotic syndrome",
+                "Polycystic kidney disease",
+                "Renal failure"
+            ],
+            "answer": "Nephrotic syndrome"
+        },
+        {
+            "question": "What is the term used for the hardening and loss of function of the kidneys?",
+            "options": [
+                "Glomerulonephritis",
+                "Nephrotic syndrome",
+                "Polycystic kidney disease",
+                "Renal sclerosis"
+            ],
+            "answer": "Renal sclerosis"
+        },
+        {
+            "question": "What is the condition in which the kidneys become inflamed due to an autoimmune disorder?",
+            "options": [
+                "Glomerulonephritis",
+                "Nephrotic syndrome",
+                "Polycystic kidney disease",
+                "Lupus nephritis"
+            ],
+            "answer": "Lupus nephritis"
+        },
+        {
+            "question": "What is the term used for the condition in which the urethra narrows and restricts urine flow?",
+            "options": [
+                "Urethral stricture",
+                "Urethral atresia",
+                "Urethral obstruction",
+                "Urethral patency"
+            ],
+            "answer": "Urethral stricture"
+        },
+        {
+            "question": "What is the term used for the inflammation of the glomeruli in the kidney?",
+            "options": [
+                "Glomerulonephritis",
+                "Nephrotic syndrome",
+                "Polycystic kidney disease",
+                "Renal failure"
+            ],
+            "answer": "Glomerulonephritis"
+        },
+        {
+            "question": "What is the term used for the pain in the area between the ribs and hips?",
+            "options": [
+                "Flank pain",
+                "Epigastric pain",
+                "Lumbar pain",
+                "Abdominal pain"
+            ],
+            "answer": "Flank pain"
+        },
+        {
+            "question": "What is the term used for the abnormal accumulation of fluid in the abdomen?",
+            "options": [
+                "Ascites",
+                "Uremia",
+                "Hyponatremia",
+                "Hyperkalemia"
+            ],
+            "answer": "Ascites"
+        }
+    ]
+}
+

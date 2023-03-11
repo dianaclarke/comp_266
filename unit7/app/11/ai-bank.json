@@ -1,0 +1,414 @@
+{
+    "quiz": [
+        {
+            "question": "What is the function of the salivary glands in the digestive system?",
+            "options": [
+                "To absorb nutrients",
+                "To excrete waste",
+                "To mix food with enzymes to begin digestion",
+                "To store excess stomach acid"
+            ],
+            "answer": "To mix food with enzymes to begin digestion"
+        },
+        {
+            "question": "What is the function of the esophagus?",
+            "options": [
+                "To absorb nutrients",
+                "To excrete waste",
+                "To mix food with enzymes to begin digestion",
+                "To transport food to the stomach"
+            ],
+            "answer": "To transport food to the stomach"
+        },
+        {
+            "question": "What is the function of the stomach?",
+            "options": [
+                "To mix food with enzymes to begin digestion",
+                "To absorb nutrients",
+                "To excrete waste",
+                "To release bile into the small intestine"
+            ],
+            "answer": "To mix food with enzymes to begin digestion"
+        },
+        {
+            "question": "What is the function of the small intestine?",
+            "options": [
+                "To mix food with enzymes to begin digestion",
+                "To transport food to the stomach",
+                "To absorb nutrients",
+                "To excrete waste"
+            ],
+            "answer": "To absorb nutrients"
+        },
+        {
+            "question": "What is the function of the large intestine?",
+            "options": [
+                "To absorb nutrients",
+                "To excrete waste",
+                "To mix food with enzymes to begin digestion",
+                "To transport food to the stomach"
+            ],
+            "answer": "To excrete waste"
+        },
+        {
+            "question": "What is the enzyme in the stomach that breaks down proteins?",
+            "options": [
+                "Pepsin",
+                "Amylase",
+                "Lipase",
+                "Trypsin"
+            ],
+            "answer": "Pepsin"
+        },
+        {
+            "question": "What is the function of bile in the digestive system?",
+            "options": [
+                "To mix food with enzymes to begin digestion",
+                "To absorb nutrients",
+                "To excrete waste",
+                "To break down fats"
+            ],
+            "answer": "To break down fats"
+        },
+        {
+            "question": "What is the name of the ring of muscle at the end of the stomach that opens to allow food into the small intestine?",
+            "options": [
+                "Sphincter of Oddi",
+                "Pyloric sphincter",
+                "Esophageal sphincter",
+                "Anal sphincter"
+            ],
+            "answer": "Pyloric sphincter"
+        },
+        {
+            "question": "What is the name of the first part of the small intestine?",
+            "options": [
+                "Jejunum",
+                "Ileum",
+                "Duodenum",
+                "Colon"
+            ],
+            "answer": "Duodenum"
+        },
+        {
+            "question": "What is the name of the muscular tube that connects the mouth to the stomach?",
+            "options": [
+                "Colon",
+                "Esophagus",
+                "Duodenum",
+                "Jejunum"
+            ],
+            "answer": "Esophagus"
+        },
+        {
+            "question": "What is the name of the wave-like contractions that move food through the digestive system?",
+            "options": [
+                "Myocardial contractions",
+                "Peristalsis",
+                "Axon potentials",
+                "Twitch fibers"
+            ],
+            "answer": "Peristalsis"
+        },
+        {
+            "question": "What is the function of the pancreas in the digestive system?",
+            "options": [
+                "To absorb nutrients",
+                "To excrete waste",
+                "To mix food with enzymes to begin digestion",
+                "To release enzymes to break down fats, carbohydrates, and proteins"
+            ],
+            "answer": "To release enzymes to break down fats, carbohydrates, and proteins"
+        },
+        {
+            "question": "What is the name of the sac that stores bile in the liver?",
+            "options": [
+                "Liver duct",
+                "Pancreatic duct",
+                "Gallbladder",
+                "Biliary tree"
+            ],
+            "answer": "Gallbladder"
+        },
+        {
+            "question": "What is the name of the valve that prevents food from going back up the esophagus?",
+            "options": [
+                "Pyloric valve",
+                "Ileocecal valve",
+                "Cardiac valve",
+                "Esophageal sphincter"
+            ],
+            "answer": "Esophageal sphincter"
+        },
+        {
+            "question": "What is the name of the enzyme in saliva that breaks down carbohydrates?",
+            "options": [
+                "Pepsin",
+                "Amylase",
+                "Lipase",
+                "Trypsin"
+            ],
+            "answer": "Amylase"
+        },
+        {
+            "question": "What is the function of the appendix in the digestive system?",
+            "options": [
+                "To absorb nutrients",
+                "To excrete waste",
+                "To mix food with enzymes to begin digestion",
+                "Unknown"
+            ],
+            "answer": "Unknown"
+        },
+        {
+            "question": "What is the name of the main sugar found in milk?",
+            "options": [
+                "Lactose",
+                "Fructose",
+                "Glucose",
+                "Sucrose"
+            ],
+            "answer": "Lactose"
+        },
+        {
+            "question": "What is the name of the enzyme in the small intestine that breaks down lactose?",
+            "options": [
+                "Lactase",
+                "Fructase",
+                "Amylase",
+                "Lipase"
+            ],
+            "answer": "Lactase"
+        },
+        {
+            "question": "What is the name of the condition where the lining of the stomach is damaged and stomach acid leaks into the esophagus?",
+            "options": [
+                "Irritable bowel syndrome",
+                "Peptic ulcer disease",
+                "Gastroesophageal reflux disease",
+                "Diverticulitis"
+            ],
+            "answer": "Gastroesophageal reflux disease"
+        },
+        {
+            "question": "What is the name of the condition where diverticula (small pockets) form in the lining of the large intestine?",
+            "options": [
+                "Irritable bowel syndrome",
+                "Peptic ulcer disease",
+                "Gastroesophageal reflux disease",
+                "Diverticulitis"
+            ],
+            "answer": "Diverticulitis"
+        },
+        {
+            "question": "What is the name of the condition where the lining of the stomach or small intestine is damaged and a sore (ulcer) forms?",
+            "options": [
+                "Irritable bowel syndrome",
+                "Peptic ulcer disease",
+                "Gastroesophageal reflux disease",
+                "Diverticulitis"
+            ],
+            "answer": "Peptic ulcer disease"
+        },
+        {
+            "question": "What is the name of the condition where the muscles of the large intestine contract abnormally, causing abdominal pain and diarrhea or constipation?",
+            "options": [
+                "Irritable bowel syndrome",
+                "Peptic ulcer disease",
+                "Gastroesophageal reflux disease",
+                "Diverticulitis"
+            ],
+            "answer": "Irritable bowel syndrome"
+        },
+        {
+            "question": "What is the name of the condition where the lining of the large intestine becomes inflamed?",
+            "options": [
+                "Crohn's disease",
+                "Ulcerative colitis",
+                "Hemorrhoids",
+                "Celiac disease"
+            ],
+            "answer": "Ulcerative colitis"
+        },
+        {
+            "question": "What is the name of the condition where the lining of the small intestine is damaged by gluten?",
+            "options": [
+                "Crohn's disease",
+                "Ulcerative colitis",
+                "Hemorrhoids",
+                "Celiac disease"
+            ],
+            "answer": "Celiac disease"
+        },
+        {
+            "question": "What is the name of the condition where the lining of the digestive tract becomes inflamed, causing abdominal pain, diarrhea, and weight loss?",
+            "options": [
+                "Crohn's disease",
+                "Ulcerative colitis",
+                "Hemorrhoids",
+                "Celiac disease"
+            ],
+            "answer": "Crohn's disease"
+        },
+        {
+            "question": "What is the name of the condition where swollen veins in the rectum and anus cause pain and bleeding during bowel movements?",
+            "options": [
+                "Crohn's disease",
+                "Ulcerative colitis",
+                "Hemorrhoids",
+                "Celiac disease"
+            ],
+            "answer": "Hemorrhoids"
+        },
+        {
+            "question": "What is the name of the condition where the muscles of the esophagus do not function properly and allow food and liquid to enter the lungs?",
+            "options": [
+                "Esophageal varices",
+                "Gastroesophageal reflux disease",
+                "Esophageal cancer",
+                "Aspiration"
+            ],
+            "answer": "Aspiration"
+        },
+        {
+            "question": "What is the name of the condition where the lining of the stomach or small intestine is damaged by the bacterium Helicobacter pylori?",
+            "options": [
+                "Peptic ulcer disease",
+                "Diverticulitis",
+                "Gastroesophageal reflux disease",
+                "Irritable bowel syndrome"
+            ],
+            "answer": "Peptic ulcer disease"
+        },
+        {
+            "question": "What is the name of the condition where the muscles of the stomach do not function properly, causing nausea, vomiting, and bloating?",
+            "options": [
+                "Gastroparesis",
+                "Esophageal cancer",
+                "Aspiration",
+                "Esophageal varices"
+            ],
+            "answer": "Gastroparesis"
+        },
+        {
+            "question": "What is the name of the condition where the liver is damaged and scar tissue replaces healthy tissue?",
+            "options": [
+                "Cirrhosis",
+                "Hepatitis",
+                "Gallstones",
+                "Pancreatitis"
+            ],
+            "answer": "Cirrhosis"
+        },
+        {
+            "question": "What is the name of the condition where the liver becomes inflamed?",
+            "options": [
+                "Cirrhosis",
+                "Hepatitis",
+                "Gallstones",
+                "Pancreatitis"
+            ],
+            "answer": "Hepatitis"
+        },
+        {
+            "question": "What is the name of the condition where the pancreas becomes inflamed?",
+            "options": [
+                "Cirrhosis",
+                "Hepatitis",
+                "Gallstones",
+                "Pancreatitis"
+            ],
+            "answer": "Pancreatitis"
+        },
+        {
+            "question": "What is the name of the condition where hard deposits form in the gallbladder?",
+            "options": [
+                "Cirrhosis",
+                "Hepatitis",
+                "Gallstones",
+                "Pancreatitis"
+            ],
+            "answer": "Gallstones"
+        },
+        {
+            "question": "What is the name of the condition where there is too much sugar in the blood?",
+            "options": [
+                "Hyperglycemia",
+                "Hypoglycemia",
+                "Diabetes",
+                "Metabolic syndrome"
+            ],
+            "answer": "Hyperglycemia"
+        },
+        {
+            "question": "What is the name of the condition where there is not enough sugar in the blood?",
+            "options": [
+                "Hyperglycemia",
+                "Hypoglycemia",
+                "Diabetes",
+                "Metabolic syndrome"
+            ],
+            "answer": "Hypoglycemia"
+        },
+        {
+            "question": "What is the name of the condition where the body does not produce or use insulin properly, resulting in high blood sugar?",
+            "options": [
+                "Hyperglycemia",
+                "Hypoglycemia",
+                "Diabetes",
+                "Metabolic syndrome"
+            ],
+            "answer": "Diabetes"
+        },
+        {
+            "question": "What is the name of the condition where a combination of risk factors, such as high blood pressure, high blood sugar, and obesity, increase the risk of developing type 2 diabetes and heart disease?",
+            "options": [
+                "Hyperglycemia",
+                "Hypoglycemia",
+                "Diabetes",
+                "Metabolic syndrome"
+            ],
+            "answer": "Metabolic syndrome"
+        },
+        {
+            "question": "What is the name of the condition where undigested food and waste products pass through the large intestine too quickly, resulting in diarrhea?",
+            "options": [
+                "Malabsorption syndrome",
+                "Fructose intolerance",
+                "Lactose intolerance",
+                "Dumping syndrome"
+            ],
+            "answer": "Dumping syndrome"
+        },
+        {
+            "question": "What is the name of the condition where the body cannot absorb certain key nutrients, such as vitamins and minerals?",
+            "options": [
+                "Malabsorption syndrome",
+                "Fructose intolerance",
+                "Lactose intolerance",
+                "Dumping syndrome"
+            ],
+            "answer": "Malabsorption syndrome"
+        },
+        {
+            "question": "What is the name of the condition where the body cannot properly metabolize fructose, a sugar found in fruits and some vegetables?",
+            "options": [
+                "Malabsorption syndrome",
+                "Fructose intolerance",
+                "Lactose intolerance",
+                "Dumping syndrome"
+            ],
+            "answer": "Fructose intolerance"
+        },
+        {
+            "question": "What is the name of the condition where the body cannot properly metabolize lactose, a sugar found in milk?",
+            "options": [
+                "Malabsorption syndrome",
+                "Fructose intolerance",
+                "Lactose intolerance",
+                "Dumping syndrome"
+            ],
+            "answer": "Lactose intolerance"
+        }
+    ]
+}

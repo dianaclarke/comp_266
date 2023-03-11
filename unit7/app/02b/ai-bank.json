@@ -1,0 +1,464 @@
+{
+    "quiz": [
+        {
+            "question": "Which of the following is a characteristic of epithelial tissue?",
+            "options": [
+                "It is abundant in blood vessels",
+                "It is highly elastic",
+                "It lacks blood vessels",
+                "It is composed of matrix"
+            ],
+            "answer": "It lacks blood vessels"
+        },
+        {
+            "question": "Which type of epithelial tissue lines the stomach?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Simple columnar epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "What is the function of cilia in epithelial tissue?",
+            "options": [
+                "To produce mucus",
+                "To transport air and fluids",
+                "To aid in nutrient absorption",
+                "To protect against pathogens"
+            ],
+            "answer": "To transport air and fluids"
+        },
+        {
+            "question": "Where would you find transitional epithelium in the body?",
+            "options": [
+                "Lining the small intestine",
+                "Lining the bladder",
+                "Surrounding blood vessels",
+                "In the lungs"
+            ],
+            "answer": "Lining the bladder"
+        },
+        {
+            "question": "Which of the following is a type of glandular epithelium?",
+            "options": [
+                "Stratified squamous epithelium",
+                "Simple columnar epithelium",
+                "Pseudostratified columnar epithelium",
+                "Cuboidal epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "Which type of gland secretes its products directly into the bloodstream?",
+            "options": [
+                "Exocrine gland",
+                "Merocrine gland",
+                "Endocrine gland",
+                "Apocrine gland"
+            ],
+            "answer": "Endocrine gland"
+        },
+        {
+            "question": "Which of the following is a characteristic of stratified squamous epithelium?",
+            "options": [
+                "It is highly vascularized",
+                "It is composed of multiple layers of flattened cells",
+                "It contains cilia",
+                "It lines the urinary bladder"
+            ],
+            "answer": "It is composed of multiple layers of flattened cells"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the alveoli of the lungs?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Simple squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a function of epithelial tissue?",
+            "options": [
+                "Storing nutrients",
+                "Supporting bone structure",
+                "Transporting gases",
+                "Protecting underlying tissue"
+            ],
+            "answer": "Protecting underlying tissue"
+        },
+        {
+            "question": "Where would you find ciliated pseudostratified columnar epithelium?",
+            "options": [
+                "Lining the urinary bladder",
+                "Lining the trachea",
+                "Surrounding blood vessels",
+                "In the liver"
+            ],
+            "answer": "Lining the trachea"
+        },
+        {
+            "question": "What is the function of goblet cells in epithelial tissue?",
+            "options": [
+                "To produce hormones",
+                "To aid in nutrient absorption",
+                "To secrete enzymes",
+                "To produce mucus"
+            ],
+            "answer": "To produce mucus"
+        },
+        {
+            "question": "Which of the following is a characteristic of simple cuboidal epithelium?",
+            "options": [
+                "It contains cilia",
+                "It is highly elastic",
+                "It is composed of flattened cells",
+                "It lines the kidney tubules"
+            ],
+            "answer": "It lines the kidney tubules"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the sweat glands?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a characteristic of exocrine glands?",
+            "options": [
+                "They secrete their products directly into the bloodstream",
+                "They are unicellular",
+                "They are ductless",
+                "They have a duct system"
+            ],
+            "answer": "They have a duct system"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the mouth?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a characteristic of merocrine glands?",
+            "options": [
+                "They secrete their products by rupturing the whole cell",
+                "They secrete their products through exocytosis",
+                "They secrete their products through apoptosis",
+                "They secrete their products through pinching off the apex of the cell"
+            ],
+            "answer": "They secrete their products through exocytosis"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the respiratory tract?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Pseudostratified columnar epithelium"
+        },
+        {
+            "question": "What is the function of microvilli in epithelial tissue?",
+            "options": [
+                "To provide structural support",
+                "To secrete hormones",
+                "To aid in nutrient absorption",
+                "To produce mucus"
+            ],
+            "answer": "To aid in nutrient absorption"
+        },
+        {
+            "question": "Which of the following is a characteristic of apocrine glands?",
+            "options": [
+                "They secrete their products by rupturing the whole cell",
+                "They secrete their products through exocytosis",
+                "They secrete their products through apoptosis",
+                "They secrete their products through pinching off the apex of the cell"
+            ],
+            "answer": "They secrete their products by rupturing the whole cell"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the small intestine?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "Which of the following is a characteristic of serous glands?",
+            "options": [
+                "They secrete a watery fluid",
+                "They secrete an oily fluid",
+                "They secrete a thick, viscous fluid",
+                "They secrete a milky fluid"
+            ],
+            "answer": "They secrete a watery fluid"
+        },
+        {
+            "question": "Which type of gland secretes its products into ducts that empty onto an epithelial surface?",
+            "options": [
+                "Endocrine gland",
+                "Merocrine gland",
+                "Exocrine gland",
+                "Apocrine gland"
+            ],
+            "answer": "Exocrine gland"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the fallopian tubes?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "Which of the following is a function of serous membranes?",
+            "options": [
+                "To secrete mucus",
+                "To protect underlying tissue",
+                "To secrete hormones",
+                "To produce synovial fluid"
+            ],
+            "answer": "To protect underlying tissue"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the ducts of the mammary gland?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Cuboidal epithelium"
+        },
+        {
+            "question": "Which of the following is a characteristic of transitional epithelium?",
+            "options": [
+                "It is composed of multiple layers of irregularly shaped cells",
+                "It is highly vascularized",
+                "It contains cilia",
+                "It lines the respiratory tract"
+            ],
+            "answer": "It is composed of multiple layers of irregularly shaped cells"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the uterus?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "What is the function of the basement membrane in epithelial tissue?",
+            "options": [
+                "To provide structural support",
+                "To secrete hormones",
+                "To transport nutrients",
+                "To produce mucus"
+            ],
+            "answer": "To provide structural support"
+        },
+        {
+            "question": "Which of the following is a function of goblet cells in the respiratory tract?",
+            "options": [
+                "To produce mucus",
+                "To transport air and fluids",
+                "To aid in nutrient absorption",
+                "To protect against pathogens"
+            ],
+            "answer": "To produce mucus"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the esophagus?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a function of serous fluid?",
+            "options": [
+                "To lubricate organs",
+                "To produce mucus",
+                "To transport nutrients",
+                "To protect against pathogens"
+            ],
+            "answer": "To lubricate organs"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the renal pelvis?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Transitional epithelium"
+        },
+        {
+            "question": "Which of the following is a characteristic of pseudostratified columnar epithelium?",
+            "options": [
+                "It is composed of multiple layers of flattened cells",
+                "It is highly vascularized",
+                "It contains cilia",
+                "It lines the visceral organs"
+            ],
+            "answer": "It contains cilia"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the urethra?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Transitional epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a function of holocrine glands?",
+            "options": [
+                "They secrete their products through exocytosis",
+                "They secrete their products through pinching off the apex of the cell",
+                "They secrete their products through apoptosis",
+                "They secrete their products by rupturing the whole cell"
+            ],
+            "answer": "They secrete their products by rupturing the whole cell"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the anal canal?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a characteristic of cuboidal epithelium?",
+            "options": [
+                "It is composed of multiple layers of flattened cells",
+                "It lines the respiratory tract",
+                "It is highly vascularized",
+                "It lines the ducts of various glands"
+            ],
+            "answer": "It lines the ducts of various glands"
+        },
+        {
+            "question": "Which type of gland secretes its products by pinching off the apex of the cell?",
+            "options": [
+                "Endocrine gland",
+                "Merocrine gland",
+                "Exocrine gland",
+                "Apocrine gland"
+            ],
+            "answer": "Apocrine gland"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the vagina?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "What is the function of sebum?",
+            "options": [
+                "To lubricate tissue",
+                "To produce mucus",
+                "To transport gases",
+                "To regulate body temperature"
+            ],
+            "answer": "To lubricate tissue"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the cornea?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Stratified squamous epithelium"
+        },
+        {
+            "question": "Which of the following is a function of synovial fluid?",
+            "options": [
+                "To lubricate joints",
+                "To secrete mucus",
+                "To transport gases",
+                "To protect against pathogens"
+            ],
+            "answer": "To lubricate joints"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of blood vessels?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Simple squamous epithelium"
+        },
+        {
+            "question": "What is the function of stratified cuboidal epithelium?",
+            "options": [
+                "To produce mucus",
+                "To transport air and fluids",
+                "To line the ducts of various glands",
+                "To absorb nutrients"
+            ],
+            "answer": "To line the ducts of various glands"
+        },
+        {
+            "question": "Which of the following is a characteristic of stratified columnar epithelium?",
+            "options": [
+                "It is composed of flattened cells",
+                "It is highly vascularized",
+                "It lines the urinary bladder",
+                "It is relatively rare"
+            ],
+            "answer": "It is relatively rare"
+        },
+        {
+            "question": "Which type of epithelial tissue is found in the lining of the seminal vesicles?",
+            "options": [
+                "Simple squamous epithelium",
+                "Stratified squamous epithelium",
+                "Cuboidal epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        }
+    ]
+}

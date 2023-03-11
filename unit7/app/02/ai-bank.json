@@ -1,0 +1,505 @@
+{
+    "quiz": [
+        {
+            "question": "Which of the following is NOT a type of tissue in the human body?",
+            "options": [
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue",
+                "Digestive tissue"
+            ],
+            "answer": "Digestive tissue"
+        },
+        {
+            "question": "Which of the following is responsible for carrying oxygen in the blood?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Plasma"
+            ],
+            "answer": "Red blood cells"
+        },
+        {
+            "question": "Which of the following tissues lines the surface of organs and body cavities?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following tissues stores fat?",
+            "options": [
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue",
+                "Adipose tissue"
+            ],
+            "answer": "Adipose tissue"
+        },
+        {
+            "question": "Which of the following is responsible for transmitting electrical signals in the body?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Neurons",
+                "Plasma"
+            ],
+            "answer": "Neurons"
+        },
+        {
+            "question": "Which of the following tissues forms tendons and ligaments?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Connective tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is found in the walls of the digestive system?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Smooth muscle"
+        },
+        {
+            "question": "Which of the following tissues forms the framework for organs and provides support?",
+            "options": [
+                "Muscle tissue",
+                "Nervous tissue",
+                "Epithelial tissue",
+                "Connective tissue"
+            ],
+            "answer": "Connective tissue"
+        },
+        {
+            "question": "Which of the following is responsible for producing and secreting hormones?",
+            "options": [
+                "Endocrine glands",
+                "Exocrine glands",
+                "Apocrine glands",
+                "Sebaceous glands"
+            ],
+            "answer": "Endocrine glands"
+        },
+        {
+            "question": "Which of the following tissues contains cells that can contract and relax?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Muscle tissue"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the urinary system?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Transitional epithelium"
+            ],
+            "answer": "Transitional epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the outermost layer of the skin?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the outer ear and tip of the nose?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Cartilage"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the respiratory system?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for pumping blood throughout the body?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Cardiac muscle"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in tendons and ligaments?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Dense regular connective tissue"
+        },
+        {
+            "question": "Which of the following is NOT a type of gland in the body?",
+            "options": [
+                "Endocrine gland",
+                "Exocrine gland",
+                "Apocrine gland",
+                "Epithelial gland"
+            ],
+            "answer": "Epithelial gland"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the stomach?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the digestive system?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the body's fat stores?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Adipose tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for voluntary movement?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Skeletal muscle"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the bladder?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Transitional epithelium"
+            ],
+            "answer": "Transitional epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the framework for the liver and spleen?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Reticular connective tissue"
+            ],
+            "answer": "Reticular connective tissue"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the body's bones?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Bone"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the small intestine?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Simple columnar epithelium"
+            ],
+            "answer": "Simple columnar epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the circulatory system?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for involuntary movement and is found in the walls of the heart?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Cardiac muscle"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the esophagus?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the body's joints?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Cartilage"
+        },
+        {
+            "question": "Which of the following is responsible for carrying waste products out of the body?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Renal tissue"
+            ],
+            "answer": "Renal tissue"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the trachea?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Pseudostratified columnar epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the vagina?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for involuntary movement and is found in the walls of hollow organs?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Smooth muscle"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found between organs and nerves and provides support?",
+            "options": [
+                "Adipose tissue",
+                "Loose areolar connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Loose areolar connective tissue"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the mouth and throat?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the bladder?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Transitional epithelium"
+            ],
+            "answer": "Transitional epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the framework for lymphatic organs?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Reticular connective tissue"
+            ],
+            "answer": "Reticular connective tissue"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the body's cartilage and bone cells?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Cartilage"
+        },
+        {
+            "question": "Which of the following is responsible for carrying nutrients and hormones in the blood?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Plasma"
+            ],
+            "answer": "Plasma"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the alveoli in the lungs?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Simple squamous epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the uterus?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for involuntary movement and is found in the walls of blood vessels?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Smooth muscle"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the body's joints?",
+            "options": [
+                "Adipose tissue",
+                "Dense irregular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Cartilage"
+        },
+        {
+            "question": "Which of the following is responsible for protecting the body against infection?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Plasma"
+            ],
+            "answer": "White blood cells"
+        },
+        {
+            "question": "Which of the following types of epithelial tissue is found in the lining of the nasal cavity?",
+            "options": [
+                "Simple squamous epithelium",
+                "Simple cuboidal epithelium",
+                "Stratified squamous epithelium",
+                "Pseudostratified columnar epithelium"
+            ],
+            "answer": "Pseudostratified columnar epithelium"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the anus and rectum?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for involuntary movement and is found in the walls of the digestive system?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Smooth muscle"
+        },
+        {
+            "question": "Which of the following types of connective tissue is found in the body's skin, bones, and tendons?",
+            "options": [
+                "Adipose tissue",
+                "Dense regular connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Dense regular connective tissue"
+        },
+        {
+            "question": "Which of the following tissues forms the lining of the bronchi and larger airways in the lungs?",
+            "options": [
+                "Epithelial tissue",
+                "Muscle tissue",
+                "Nervous tissue",
+                "Connective tissue"
+            ],
+            "answer": "Epithelial tissue"
+        },
+        {
+            "question": "Which of the following types of muscle is responsible for involuntary movement and is found in the walls of the esophagus?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Striated muscle"
+            ],
+            "answer": "Smooth muscle"
+        }
+    ]
+}
+

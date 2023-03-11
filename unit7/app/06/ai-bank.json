@@ -1,0 +1,494 @@
+{
+    "quiz": [
+        {
+            "question": "Which part of the neuron receives signals from other neurons?",
+            "options": [
+                "Soma",
+                "Axon",
+                "Dendrite",
+                "Myelin sheath"
+            ],
+            "answer": "Dendrite"
+        },
+        {
+            "question": "Which part of the nervous system controls voluntary movements?",
+            "options": [
+                "Central nervous system",
+                "Peripheral nervous system",
+                "Autonomic nervous system",
+                "Somatic nervous system"
+            ],
+            "answer": "Somatic nervous system"
+        },
+        {
+            "question": "What is the function of the cerebrum?",
+            "options": [
+                "Regulates body temperature",
+                "Coordinates movement",
+                "Controls memory and learning",
+                "Controls breathing and heart rate"
+            ],
+            "answer": "Controls memory and learning"
+        },
+        {
+            "question": "What is the role of the thalamus in the brain?",
+            "options": [
+                "Regulates body temperature",
+                "Controls memory and learning",
+                "Coordinates movement",
+                "Relays sensory information"
+            ],
+            "answer": "Relays sensory information"
+        },
+        {
+            "question": "Which part of the autonomic nervous system triggers the fight or flight response?",
+            "options": [
+                "Sympathetic nervous system",
+                "Parasympathetic nervous system",
+                "Central nervous system",
+                "Enteric nervous system"
+            ],
+            "answer": "Sympathetic nervous system"
+        },
+        {
+            "question": "What is the function of the cerebellum?",
+            "options": [
+                "Controls memory and learning",
+                "Controls breathing and heart rate",
+                "Coordinates movement",
+                "Regulates body temperature"
+            ],
+            "answer": "Coordinates movement"
+        },
+        {
+            "question": "Which neurotransmitter is associated with pleasure and reward?",
+            "options": [
+                "Serotonin",
+                "GABA",
+                "Dopamine",
+                "Acetylcholine"
+            ],
+            "answer": "Dopamine"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling eye movement?",
+            "options": [
+                "Vagus nerve",
+                "Optic nerve",
+                "Oculomotor nerve",
+                "Facial nerve"
+            ],
+            "answer": "Oculomotor nerve"
+        },
+        {
+            "question": "What is the role of the hypothalamus in the brain?",
+            "options": [
+                "Regulates sleep and wake cycles",
+                "Regulates body temperature",
+                "Coordinates movement",
+                "Controls memory and learning"
+            ],
+            "answer": "Regulates body temperature"
+        },
+        {
+            "question": "Which part of the brain plays a key role in emotion and motivation?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Limbic system"
+            ],
+            "answer": "Limbic system"
+        },
+        {
+            "question": "Which neurotransmitter is associated with relaxation and sleep?",
+            "options": [
+                "Norepinephrine",
+                "Glutamate",
+                "Serotonin",
+                "GABA"
+            ],
+            "answer": "GABA"
+        },
+        {
+            "question": "Which part of the nervous system controls involuntary processes like breathing and digestion?",
+            "options": [
+                "Somatic nervous system",
+                "Autonomic nervous system",
+                "Peripheral nervous system",
+                "Central nervous system"
+            ],
+            "answer": "Autonomic nervous system"
+        },
+        {
+            "question": "Which part of the brain plays a key role in vision?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Occipital lobe"
+        },
+        {
+            "question": "What is the function of the myelin sheath?",
+            "options": [
+                "Allows for faster transmission of signals along the axon",
+                "Regulates body temperature",
+                "Coordinates movement",
+                "Controls memory and learning"
+            ],
+            "answer": "Allows for faster transmission of signals along the axon"
+        },
+        {
+            "question": "Which part of the brain plays a key role in hearing?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Temporal lobe"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating mood and appetite?",
+            "options": [
+                "Dopamine",
+                "Norepinephrine",
+                "Serotonin",
+                "GABA"
+            ],
+            "answer": "Serotonin"
+        },
+        {
+            "question": "Which part of the brain plays a key role in touch and sensation?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Parietal lobe"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling facial expressions?",
+            "options": [
+                "Facial nerve",
+                "Oculomotor nerve",
+                "Optic nerve",
+                "Vagus nerve"
+            ],
+            "answer": "Facial nerve"
+        },
+        {
+            "question": "Which part of the brain plays a key role in decision making and judgment?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Frontal lobe"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating attention and focus?",
+            "options": [
+                "Acetylcholine",
+                "Glutamate",
+                "Serotonin",
+                "Norepinephrine"
+            ],
+            "answer": "Norepinephrine"
+        },
+        {
+            "question": "Which part of the brain stem regulates breathing and heart rate?",
+            "options": [
+                "Medulla oblongata",
+                "Pons",
+                "Midbrain",
+                "Cerebellum"
+            ],
+            "answer": "Medulla oblongata"
+        },
+        {
+            "question": "Which part of the autonomic nervous system regulates rest and digestion?",
+            "options": [
+                "Sympathetic nervous system",
+                "Parasympathetic nervous system",
+                "Central nervous system",
+                "Enteric nervous system"
+            ],
+            "answer": "Parasympathetic nervous system"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling tongue movements?",
+            "options": [
+                "Accessary nerve",
+                "Hypoglossal nerve",
+                "Trigeminal nerve",
+                "Olfactory nerve"
+            ],
+            "answer": "Hypoglossal nerve"
+        },
+        {
+            "question": "Which part of the brain controls circadian rhythms and sleep cycles?",
+            "options": [
+                "Hippocampus",
+                "Amygdala",
+                "Thalamus",
+                "Pineal gland"
+            ],
+            "answer": "Pineal gland"
+        },
+        {
+            "question": "Which part of the brain plays a key role in language and speech?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Temporal lobe"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating memory and learning?",
+            "options": [
+                "Acetylcholine",
+                "Dopamine",
+                "GABA",
+                "Norepinephrine"
+            ],
+            "answer": "Acetylcholine"
+        },
+        {
+            "question": "Which part of the brain plays a key role in the sense of smell?",
+            "options": [
+                "Hippocampus",
+                "Amygdala",
+                "Thalamus",
+                "Olfactory bulb"
+            ],
+            "answer": "Olfactory bulb"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling the sense of smell?",
+            "options": [
+                "Vestibulocochlear nerve",
+                "Glossopharyngeal nerve",
+                "Olfactory nerve",
+                "Trochlear nerve"
+            ],
+            "answer": "Olfactory nerve"
+        },
+        {
+            "question": "Which part of the brain plays a key role in regulating emotions?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Limbic system"
+            ],
+            "answer": "Limbic system"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating pain and mood?",
+            "options": [
+                "Acetylcholine",
+                "Serotonin",
+                "GABA",
+                "Endorphins"
+            ],
+            "answer": "Endorphins"
+        },
+        {
+            "question": "Which part of the brain plays a key role in spatial navigation?",
+            "options": [
+                "Hippocampus",
+                "Amygdala",
+                "Thalamus",
+                "Pineal gland"
+            ],
+            "answer": "Hippocampus"
+        },
+        {
+            "question": "Which part of the brain stem is responsible for transmitting signals from the spinal cord to the brain?",
+            "options": [
+                "Medulla oblongata",
+                "Pons",
+                "Midbrain",
+                "Cerebellum"
+            ],
+            "answer": "Pons"
+        },
+        {
+            "question": "Which part of the brain plays a key role in memory and learning?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Temporal lobe"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating muscle movement?",
+            "options": [
+                "Acetylcholine",
+                "Dopamine",
+                "Norepinephrine",
+                "Serotonin"
+            ],
+            "answer": "Acetylcholine"
+        },
+        {
+            "question": "Which part of the brain plays a key role in fear and anxiety?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Amygdala",
+                "Parietal lobe"
+            ],
+            "answer": "Amygdala"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling hearing and balance?",
+            "options": [
+                "Accessory nerve",
+                "Hypoglossal nerve",
+                "Trigeminal nerve",
+                "Vestibulocochlear nerve"
+            ],
+            "answer": "Vestibulocochlear nerve"
+        },
+        {
+            "question": "Which part of the brain plays a key role in regulating hunger and thirst?",
+            "options": [
+                "Hypothalamus",
+                "Amygdala",
+                "Thalamus",
+                "Pineal gland"
+            ],
+            "answer": "Hypothalamus"
+        },
+        {
+            "question": "Which part of the brain forms new memories?",
+            "options": [
+                "Hippocampus",
+                "Amygdala",
+                "Thalamus",
+                "Pineal gland"
+            ],
+            "answer": "Hippocampus"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating attention and memory?",
+            "options": [
+                "Dopamine",
+                "GABA",
+                "Acetylcholine",
+                "Glutamate"
+            ],
+            "answer": "Glutamate"
+        },
+        {
+            "question": "Which part of the brain plays a key role in coordination and balance?",
+            "options": [
+                "Frontal lobe",
+                "Parietal lobe",
+                "Temporal lobe",
+                "Cerebellum"
+            ],
+            "answer": "Cerebellum"
+        },
+        {
+            "question": "Which part of the brain stem plays a key role in regulating arousal and attention?",
+            "options": [
+                "Medulla oblongata",
+                "Pons",
+                "Midbrain",
+                "Cerebellum"
+            ],
+            "answer": "Midbrain"
+        },
+        {
+            "question": "Which part of the brain plays a key role in processing visual information?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Occipital lobe"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating muscle tone and movement?",
+            "options": [
+                "Dopamine",
+                "Serotonin",
+                "GABA",
+                "Norepinephrine"
+            ],
+            "answer": "Serotonin"
+        },
+        {
+            "question": "Which part of the brain stem plays a key role in regulating breathing and heart rate?",
+            "options": [
+                "Medulla oblongata",
+                "Pons",
+                "Midbrain",
+                "Cerebellum"
+            ],
+            "answer": "Medulla oblongata"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling facial sensations?",
+            "options": [
+                "Facial nerve",
+                "Trochlear nerve",
+                "Oculomotor nerve",
+                "Trigeminal nerve"
+            ],
+            "answer": "Trigeminal nerve"
+        },
+        {
+            "question": "Which part of the brain plays a key role in processing touch and pain?",
+            "options": [
+                "Frontal lobe",
+                "Temporal lobe",
+                "Occipital lobe",
+                "Parietal lobe"
+            ],
+            "answer": "Parietal lobe"
+        },
+        {
+            "question": "Which neurotransmitter is associated with regulating movement, attention, and learning?",
+            "options": [
+                "GABA",
+                "Norepinephrine",
+                "Acetylcholine",
+                "Dopamine"
+            ],
+            "answer": "Dopamine"
+        },
+        {
+            "question": "Which part of the brain stem plays a key role in relaying sensory information to the brain?",
+            "options": [
+                "Medulla oblongata",
+                "Pons",
+                "Midbrain",
+                "Cerebellum"
+            ],
+            "answer": "Midbrain"
+        },
+        {
+            "question": "Which cranial nerve is responsible for controlling swallowing and salivation?",
+            "options": [
+                "Glossopharyngeal nerve",
+                "Accessory nerve",
+                "Facial nerve",
+                "Vagus nerve"
+            ],
+            "answer": "Glossopharyngeal nerve"
+        }
+    ]
+}

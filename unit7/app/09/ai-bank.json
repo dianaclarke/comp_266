@@ -1,0 +1,475 @@
+{
+    "quiz": [
+        {
+            "question": "What is the function of the lymphatic system?",
+            "options": [
+                "To transport oxygen to the body's organs",
+                "To remove waste products from the body",
+                "To regulate blood pressure",
+                "To transport lymph to the bloodstream"
+            ],
+            "answer": "To transport lymph to the bloodstream"
+        },
+        {
+            "question": "What is lymph?",
+            "options": [
+                "A type of blood cell",
+                "A hormone produced by the adrenal gland",
+                "A fluid containing white blood cells",
+                "A protein found in muscle tissue"
+            ],
+            "answer": "A fluid containing white blood cells"
+        },
+        {
+            "question": "What is the role of lymph nodes?",
+            "options": [
+                "To filter and trap foreign particles",
+                "To produce lymphocytes",
+                "To regulate blood sugar levels",
+                "To carry oxygen to the cells"
+            ],
+            "answer": "To filter and trap foreign particles"
+        },
+        {
+            "question": "What is lymphoma?",
+            "options": [
+                "A bacterial infection of the lymph nodes",
+                "A cancer of the cells of the lymphatic system",
+                "An autoimmune disease affecting the lymph nodes",
+                "An allergic reaction caused by exposure to pollen"
+            ],
+            "answer": "A cancer of the cells of the lymphatic system"
+        },
+        {
+            "question": "Which organ is not a part of the lymphatic system?",
+            "options": [
+                "Spleen",
+                "Tonsils",
+                "Pancreas",
+                "Thymus gland"
+            ],
+            "answer": "Pancreas"
+        },
+        {
+            "question": "What is the function of the thymus gland?",
+            "options": [
+                "To produce insulin",
+                "To produce red blood cells",
+                "To produce lymphocytes",
+                "To regulate body temperature"
+            ],
+            "answer": "To produce lymphocytes"
+        },
+        {
+            "question": "What is the largest lymphatic organ?",
+            "options": [
+                "Spleen",
+                "Liver",
+                "Kidney",
+                "Gallbladder"
+            ],
+            "answer": "Spleen"
+        },
+        {
+            "question": "Which type of cell is responsible for producing antibodies?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Neurons"
+            ],
+            "answer": "White blood cells"
+        },
+        {
+            "question": "What is the role of the thoracic duct?",
+            "options": [
+                "To transport lymph from the left upper body to the bloodstream",
+                "To regulate heart rate",
+                "To produce lymphocytes",
+                "To filter foreign particles from the lymph"
+            ],
+            "answer": "To transport lymph from the left upper body to the bloodstream"
+        },
+        {
+            "question": "What is lymphedema?",
+            "options": [
+                "A cancer of the lymph nodes",
+                "An infection of the lymphatic system",
+                "A chronic swelling caused by the accumulation of lymphatic fluid",
+                "An autoimmune disease affecting the lymph nodes"
+            ],
+            "answer": "A chronic swelling caused by the accumulation of lymphatic fluid"
+        },
+        {
+            "question": "Which lymphatic vessel carries lymph from the lower body to the bloodstream?",
+            "options": [
+                "Right lymphatic duct",
+                "Left lymphatic duct",
+                "Thoracic duct",
+                "Subclavian vein"
+            ],
+            "answer": "Thoracic duct"
+        },
+        {
+            "question": "Which type of white blood cell is responsible for attacking and destroying foreign invaders?",
+            "options": [
+                "B cells",
+                "T cells",
+                "Monocytes",
+                "Neutrophils"
+            ],
+            "answer": "T cells"
+        },
+        {
+            "question": "What is the role of the lymphatic vessels?",
+            "options": [
+                "To carry blood to the heart",
+                "To transport lymph from the body's tissues to the bloodstream",
+                "To produce lymphocytes",
+                "To regulate blood pressure"
+            ],
+            "answer": "To transport lymph from the body's tissues to the bloodstream"
+        },
+        {
+            "question": "What is the function of the red pulp in the spleen?",
+            "options": [
+                "To produce lymphocytes",
+                "To filter foreign particles from the blood",
+                "To store platelets",
+                "To produce insulin"
+            ],
+            "answer": "To filter foreign particles from the blood"
+        },
+        {
+            "question": "What is the function of the white pulp in the spleen?",
+            "options": [
+                "To produce insulin",
+                "To produce lymphocytes",
+                "To filter foreign particles from the blood",
+                "To store platelets"
+            ],
+            "answer": "To produce lymphocytes"
+        },
+        {
+            "question": "What is the role of the tonsils?",
+            "options": [
+                "To filter and trap foreign particles in the mouth and throat",
+                "To produce antibodies",
+                "To regulate blood sugar",
+                "To carry oxygen to the cells"
+            ],
+            "answer": "To filter and trap foreign particles in the mouth and throat"
+        },
+        {
+            "question": "What is the function of the lacteals?",
+            "options": [
+                "To transport red blood cells to the body's organs",
+                "To regulate blood pressure",
+                "To absorb fats and fat-soluble vitamins from the digestive tract",
+                "To produce lymphocytes"
+            ],
+            "answer": "To absorb fats and fat-soluble vitamins from the digestive tract"
+        },
+        {
+            "question": "Which lymphatic vessel carries lymph from the right arm to the bloodstream?",
+            "options": [
+                "Right lymphatic duct",
+                "Thoracic duct",
+                "Subclavian vein",
+                "Jugular vein"
+            ],
+            "answer": "Right lymphatic duct"
+        },
+        {
+            "question": "What is the role of the macrophages?",
+            "options": [
+                "To produce antibodies",
+                "To attack and destroy foreign invaders",
+                "To filter foreign particles from the lymph",
+                "To engulf and digest cellular debris and foreign substances"
+            ],
+            "answer": "To engulf and digest cellular debris and foreign substances"
+        },
+        {
+            "question": "What is the role of the natural killer cells?",
+            "options": [
+                "To filter and trap foreign particles in the lymph nodes",
+                "To filter and trap foreign particles in the spleen",
+                "To attack and destroy virus-infected and cancerous cells",
+                "To produce antibodies"
+            ],
+            "answer": "To attack and destroy virus-infected and cancerous cells"
+        },
+        {
+            "question": "What is the function of the lymphatic capillaries?",
+            "options": [
+                "To transport oxygen to the body's organs",
+                "To transport lymph from the body's tissues to the bloodstream",
+                "To regulate blood pressure",
+                "To produce lymphocytes"
+            ],
+            "answer": "To transport lymph from the body's tissues to the bloodstream"
+        },
+        {
+            "question": "What is the role of the lacteals in the small intestine?",
+            "options": [
+                "To transport red blood cells to the body's organs",
+                "To regulate blood sugar",
+                "To filter and trap foreign particles in the intestine",
+                "To absorb fats and fat-soluble vitamins from the digestive tract"
+            ],
+            "answer": "To absorb fats and fat-soluble vitamins from the digestive tract"
+        },
+        {
+            "question": "What is the function of the efferent lymphatic vessels?",
+            "options": [
+                "To transport lymph towards the lymph nodes",
+                "To transport lymph away from the lymph nodes",
+                "To produce lymphocytes",
+                "To regulate blood pressure"
+            ],
+            "answer": "To transport lymph away from the lymph nodes"
+        },
+        {
+            "question": "What is the role of the B cells?",
+            "options": [
+                "To attack and destroy virus-infected and cancerous cells",
+                "To filter foreign particles from the lymph",
+                "To produce antibodies",
+                "To engulf and digest cellular debris and foreign substances"
+            ],
+            "answer": "To produce antibodies"
+        },
+        {
+            "question": "What is the function of the spleen?",
+            "options": [
+                "To produce lymphocytes",
+                "To regulate blood sugar",
+                "To filter foreign particles from the blood",
+                "To transport lymph to the bloodstream"
+            ],
+            "answer": "To filter foreign particles from the blood"
+        },
+        {
+            "question": "What is the role of the lymphatic vessels in cancer treatment?",
+            "options": [
+                "To produce lymphocytes for use in chemotherapy",
+                "To deliver chemotherapy drugs to cancer cells",
+                "To detect cancer cells in the body",
+                "To remove cancer cells from the lymphatic system"
+            ],
+            "answer": "To remove cancer cells from the lymphatic system"
+        },
+        {
+            "question": "What is the function of the lymphocytes?",
+            "options": [
+                "To produce insulin",
+                "To transport oxygen to the body's organs",
+                "To filter foreign particles from the lymph",
+                "To attack and destroy foreign invaders"
+            ],
+            "answer": "To attack and destroy foreign invaders"
+        },
+        {
+            "question": "What is the role of the lymphatic valves?",
+            "options": [
+                "To produce lymphocytes",
+                "To regulate blood sugar",
+                "To prevent the backflow of lymph",
+                "To filter foreign particles from the lymph"
+            ],
+            "answer": "To prevent the backflow of lymph"
+        },
+        {
+            "question": "What is the function of the lymphatic system in immunity?",
+            "options": [
+                "To produce insulin",
+                "To transport oxygen to the body's organs",
+                "To attack and destroy foreign invaders",
+                "To regulate blood pressure"
+            ],
+            "answer": "To attack and destroy foreign invaders"
+        },
+        {
+            "question": "What is the function of the lymphatic system in fluid balance?",
+            "options": [
+                "To regulate blood sugar",
+                "To transport oxygen to the body's organs",
+                "To transport lymph to the bloodstream",
+                "To remove excess interstitial fluid from the tissues"
+            ],
+            "answer": "To remove excess interstitial fluid from the tissues"
+        },
+        {
+            "question": "What is lymphangioma?",
+            "options": [
+                "A cancer of the lymph nodes",
+                "An infection of the lymphatic vessels",
+                "A chronic swelling caused by the accumulation of lymphatic fluid",
+                "An autoimmune disease affecting the lymph nodes"
+            ],
+            "answer": "An infection of the lymphatic vessels"
+        },
+        {
+            "question": "What is the function of the lymphatic system in nutrient absorption?",
+            "options": [
+                "To transport oxygen to the body's organs",
+                "To transport lymph to the bloodstream",
+                "To filter foreign particles from the lymph",
+                "To absorb fats and fat-soluble vitamins from the digestive tract"
+            ],
+            "answer": "To absorb fats and fat-soluble vitamins from the digestive tract"
+        },
+        {
+            "question": "What is the role of the lymphatic system in wound healing?",
+            "options": [
+                "To regulate blood sugar",
+                "To produce insulin",
+                "To transport oxygen to the body's organs",
+                "To remove excess interstitial fluid and cellular debris from the wound"
+            ],
+            "answer": "To remove excess interstitial fluid and cellular debris from the wound"
+        },
+        {
+            "question": "What is the function of the lymphatic system in cancer metastasis?",
+            "options": [
+                "To produce lymphocytes to attack cancer cells",
+                "To remove cancer cells from the body",
+                "To transport cancer cells to other parts of the body",
+                "To prevent the formation of cancer cells"
+            ],
+            "answer": "To transport cancer cells to other parts of the body"
+        },
+        {
+            "question": "What is lymphangitis?",
+            "options": [
+                "A chronic inflammation of the lymph nodes",
+                "An infection of the lymphatic vessels",
+                "An autoimmune disease affecting the lymph nodes",
+                "A cancer of the lymphatic system"
+            ],
+            "answer": "An infection of the lymphatic vessels"
+        },
+        {
+            "question": "What is the role of the lymphatic system in inflammation?",
+            "options": [
+                "To reduce inflammation in the body",
+                "To produce antibodies against inflammatory triggers",
+                "To transport immune cells to the site of inflammation",
+                "To block the actions of inflammatory mediators"
+            ],
+            "answer": "To transport immune cells to the site of inflammation"
+        },
+        {
+            "question": "What is the function of the lymphatic vessels in the lungs?",
+            "options": [
+                "To transport oxygen to the body's organs",
+                "To filter and trap foreign particles in the lungs",
+                "To transport carbon dioxide out of the body",
+                "To regulate blood sugar"
+            ],
+            "answer": "To transport lymph from the lungs to the bloodstream"
+        },
+        {
+            "question": "What is the function of the lymphatic vessels in the liver?",
+            "options": [
+                "To produce insulin",
+                "To filter and trap foreign particles in the liver",
+                "To transport oxygen to the body's organs",
+                "To transport lymph to the bloodstream"
+            ],
+            "answer": "To transport lymph from the liver to the bloodstream"
+        },
+        {
+            "question": "What is the function of the lymphatic vessels in the brain?",
+            "options": [
+                "To transport oxygen to the brain",
+                "To remove waste products from the brain",
+                "To produce lymphocytes",
+                "To carry blood to and from the brain"
+            ],
+            "answer": "To remove waste products from the brain"
+        },
+        {
+            "question": "What is lymphocytopenia?",
+            "options": [
+                "A chronic inflammation of the lymph nodes",
+                "A cancer of the lymphatic system",
+                "A deficiency of lymphocytes in the blood",
+                "An autoimmune disease affecting the lymph nodes"
+            ],
+            "answer": "A deficiency of lymphocytes in the blood"
+        },
+        {
+            "question": "What is lymphadenitis?",
+            "options": [
+                "A chronic inflammation of the lymph nodes",
+                "An infection of the lymphatic vessels",
+                "An autoimmune disease affecting the lymph nodes",
+                "A cancer of the lymphatic system"
+            ],
+            "answer": "A chronic inflammation of the lymph nodes"
+        },
+        {
+            "question": "What is lymphocytosis?",
+            "options": [
+                "A chronic inflammation of the lymph nodes",
+                "A cancer of the lymphatic system",
+                "An excess of lymphocytes in the blood",
+                "An autoimmune disease affecting the lymph nodes"
+            ],
+            "answer": "An excess of lymphocytes in the blood"
+        },
+        {
+            "question": "What is the function of the lymphatic vessels in the skin?",
+            "options": [
+                "To transport oxygen to the skin",
+                "To filter and trap foreign particles in the skin",
+                "To produce lymphocytes",
+                "To transport lymph from the skin to the bloodstream"
+            ],
+            "answer": "To transport lymph from the skin to the bloodstream"
+        },
+        {
+            "question": "What is the role of the lymphatic system in maintaining homeostasis?",
+            "options": [
+                "To regulate body temperature",
+                "To regulate blood pressure",
+                "To transport oxygen to the body's organs",
+                "To remove excess interstitial fluid from the tissues"
+            ],
+            "answer": "To remove excess interstitial fluid from the tissues"
+        },
+        {
+            "question": "What is the function of the lymphatic vessels in the intestines?",
+            "options": [
+                "To transport oxygen to the body's organs",
+                "To regulate blood sugar",
+                "To transport lymph from the intestines to the bloodstream",
+                "To filter and trap foreign particles in the intestines"
+            ],
+            "answer": "To transport lymph from the intestines to the bloodstream"
+        },
+        {
+            "question": "What is the function of the lymphatic vessels in the kidneys?",
+            "options": [
+                "To transport oxygen to the kidneys",
+                "To filter and trap foreign particles in the kidneys",
+                "To transport lymph from the kidneys to the bloodstream",
+                "To produce lymphocytes"
+            ],
+            "answer": "To transport lymph from the kidneys to the bloodstream"
+        },
+        {
+            "question": "How does the lymphatic system contribute to the immune response?",
+            "options": [
+                "By producing antibodies",
+                "By attacking and destroying foreign invaders",
+                "By transporting immune cells to the site of infection",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        }
+    ]
+}
+

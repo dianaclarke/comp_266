@@ -1,0 +1,524 @@
+{
+    "quiz": [
+        {
+            "question": "What is the primary function of the endocrine system?",
+            "options": [
+                "Control movement of the body",
+                "Control sensation and perception",
+                "Control metabolism and growth",
+                "Digestion and absorption of nutrients"
+            ],
+            "answer": "Control metabolism and growth"
+        },
+        {
+            "question": "Which gland produces insulin?",
+            "options": [
+                "Pituitary gland",
+                "Thyroid gland",
+                "Adrenal gland",
+                "Pancreas"
+            ],
+            "answer": "Pancreas"
+        },
+        {
+            "question": "What gland produces the hormone melatonin?",
+            "options": [
+                "Pineal gland",
+                "Thyroid gland",
+                "Adrenal gland",
+                "Hypothalamus"
+            ],
+            "answer": "Pineal gland"
+        },
+        {
+            "question": "Which hormone regulates the body’s circadian rhythm?",
+            "options": [
+                "Oxytocin",
+                "Adrenaline",
+                "Cortisol",
+                "Melatonin"
+            ],
+            "answer": "Melatonin"
+        },
+        {
+            "question": "What gland produces the hormone testosterone?",
+            "options": [
+                "Pancreas",
+                "Thyroid gland",
+                "Testes",
+                "Adrenal gland"
+            ],
+            "answer": "Testes"
+        },
+        {
+            "question": "What hormone is responsible for stimulating uterine contractions during childbirth?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Leptin",
+                "Growth hormone"
+            ],
+            "answer": "Oxytocin"
+        },
+        {
+            "question": "What gland is responsible for producing the hormone thyroxine?",
+            "options": [
+                "Pituitary gland",
+                "Adrenal gland",
+                "Parathyroid gland",
+                "Thyroid gland"
+            ],
+            "answer": "Thyroid gland"
+        },
+        {
+            "question": "What hormone regulates calcium levels in the blood?",
+            "options": [
+                "Calcitonin",
+                "Parathyroid hormone",
+                "Insulin",
+                "Glucagon"
+            ],
+            "answer": "Parathyroid hormone"
+        },
+        {
+            "question": "What hormone is responsible for increasing blood glucose levels?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Cortisol",
+                "Thyroxine"
+            ],
+            "answer": "Glucagon"
+        },
+        {
+            "question": "What gland produces the hormone adrenaline?",
+            "options": [
+                "Adrenal gland",
+                "Thyroid gland",
+                "Pancreas",
+                "Hypothalamus"
+            ],
+            "answer": "Adrenal gland"
+        },
+        {
+            "question": "What hormone regulates water balance in the body?",
+            "options": [
+                "Antidiuretic hormone",
+                "Aldosterone",
+                "Growth hormone",
+                "Luteinizing hormone"
+            ],
+            "answer": "Antidiuretic hormone"
+        },
+        {
+            "question": "What hormone regulates the menstrual cycle in females?",
+            "options": [
+                "Estrogen",
+                "Testosterone",
+                "Progesterone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What gland produces the hormone oxytocin?",
+            "options": [
+                "Hypothalamus",
+                "Adrenal gland",
+                "Pituitary gland",
+                "Thyroid gland"
+            ],
+            "answer": "Hypothalamus"
+        },
+        {
+            "question": "What hormone stimulates milk production in lactating females?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Vasopressin",
+                "Aldosterone"
+            ],
+            "answer": "Prolactin"
+        },
+        {
+            "question": "What hormone is responsible for regulating the body’s response to stress?",
+            "options": [
+                "Adrenaline",
+                "Cortisol",
+                "Melatonin",
+                "Thyroxine"
+            ],
+            "answer": "Cortisol"
+        },
+        {
+            "question": "What hormone regulates the body’s metabolism?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Thyroxine",
+                "Parathyroid hormone"
+            ],
+            "answer": "Thyroxine"
+        },
+        {
+            "question": "What gland produces the hormone progesterone?",
+            "options": [
+                "Adrenal gland",
+                "Thyroid gland",
+                "Ovaries",
+                "Pineal gland"
+            ],
+            "answer": "Ovaries"
+        },
+        {
+            "question": "What hormone stimulates the development of male secondary sex characteristics?",
+            "options": [
+                "Testosterone",
+                "Estrogen",
+                "Progesterone",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What hormone is responsible for lowering blood glucose levels?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Cortisol",
+                "Thyroxine"
+            ],
+            "answer": "Insulin"
+        },
+        {
+            "question": "What hormone stimulates the growth of ovarian follicles in females?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Follicle-stimulating hormone",
+                "Luteinizing hormone"
+            ],
+            "answer": "Follicle-stimulating hormone"
+        },
+        {
+            "question": "What hormone promotes the reabsorption of sodium and the excretion of potassium in the kidneys?",
+            "options": [
+                "Aldosterone",
+                "Antidiuretic hormone",
+                "Growth hormone",
+                "Oxytocin"
+            ],
+            "answer": "Aldosterone"
+        },
+        {
+            "question": "What hormone is responsible for regulating bone growth and maintenance?",
+            "options": [
+                "Calcitonin",
+                "Parathyroid hormone",
+                "Estrogen",
+                "Progesterone"
+            ],
+            "answer": "Calcitonin"
+        },
+        {
+            "question": "What gland produces the hormone cortisol?",
+            "options": [
+                "Adrenal gland",
+                "Thyroid gland",
+                "Parathyroid gland",
+                "Pituitary gland"
+            ],
+            "answer": "Adrenal gland"
+        },
+        {
+            "question": "What hormone stimulates the release of milk from lactating females?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Vasopressin",
+                "Estrogen"
+            ],
+            "answer": "Oxytocin"
+        },
+        {
+            "question": "What hormone promotes the growth of breast tissue in females?",
+            "options": [
+                "Progesterone",
+                "Testosterone",
+                "Prolactin",
+                "Oxytocin"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What hormone stimulates ovulation in females?",
+            "options": [
+                "Follicle-stimulating hormone",
+                "Luteinizing hormone",
+                "Prolactin",
+                "Estrogen"
+            ],
+            "answer": "Luteinizing hormone"
+        },
+        {
+            "question": "What hormone promotes the growth and repair of muscle tissue?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Growth hormone",
+                "Antidiuretic hormone"
+            ],
+            "answer": "Growth hormone"
+        },
+        {
+            "question": "What gland produces the hormone estrogen?",
+            "options": [
+                "Adrenal gland",
+                "Thyroid gland",
+                "Ovaries",
+                "Pituitary gland"
+            ],
+            "answer": "Ovaries"
+        },
+        {
+            "question": "What hormone stimulates the production of sperm in males?",
+            "options": [
+                "Testosterone",
+                "Estrogen",
+                "Progesterone",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What hormone promotes the absorption of glucose by cells?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Cortisol",
+                "Thyroxine"
+            ],
+            "answer": "Insulin"
+        },
+        {
+            "question": "What hormone regulates the body’s response to hunger and satiety?",
+            "options": [
+                "Leptin",
+                "Adrenaline",
+                "Cortisol",
+                "Melatonin"
+            ],
+            "answer": "Leptin"
+        },
+        {
+            "question": "What hormone promotes the development of ovarian follicles in females?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Follicle-stimulating hormone",
+                "Luteinizing hormone"
+            ],
+            "answer": "Follicle-stimulating hormone"
+        },
+        {
+            "question": "What hormone stimulates the growth of bone tissue?",
+            "options": [
+                "Calcitonin",
+                "Parathyroid hormone",
+                "Estrogen",
+                "Growth hormone"
+            ],
+            "answer": "Estrogen"
+        },
+        {
+            "question": "What hormone promotes the development of male reproductive organs?",
+            "options": [
+                "Testosterone",
+                "Estrogen",
+                "Progesterone",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What hormone regulates the body’s response to stress and anxiety?",
+            "options": [
+                "Adrenaline",
+                "Serotonin",
+                "Dopamine",
+                "Oxytocin"
+            ],
+            "answer": "Serotonin"
+        },
+        {
+            "question": "What hormone promotes the breakdown of glycogen in the liver to release glucose into the bloodstream?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Cortisol",
+                "Thyroxine"
+            ],
+            "answer": "Glucagon"
+        },
+        {
+            "question": "What hormone regulates the body’s temperature?",
+            "options": [
+                "Calcitonin",
+                "Parathyroid hormone",
+                "Thyroxine",
+                "Melatonin"
+            ],
+            "answer": "Thyroxine"
+        },
+        {
+            "question": "What hormone promotes the reabsorption of water in the kidneys?",
+            "options": [
+                "Aldosterone",
+                "Antidiuretic hormone",
+                "Growth hormone",
+                "Oxytocin"
+            ],
+            "answer": "Antidiuretic hormone"
+        },
+        {
+            "question": "What gland produces the hormone vasopressin?",
+            "options": [
+                "Adrenal gland",
+                "Pituitary gland",
+                "Thyroid gland",
+                "Pancreas"
+            ],
+            "answer": "Pituitary gland"
+        },
+        {
+            "question": "What hormone promotes the development of milk-producing glands in lactating females?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Vasopressin",
+                "Estrogen"
+            ],
+            "answer": "Prolactin"
+        },
+        {
+            "question": "What hormone promotes the growth of uterine tissue in females?",
+            "options": [
+                "Progesterone",
+                "Testosterone",
+                "Prolactin",
+                "Oxytocin"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What hormone promotes the growth of ovarian follicles in females?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Follicle-stimulating hormone",
+                "Luteinizing hormone"
+            ],
+            "answer": "Follicle-stimulating hormone"
+        },
+        {
+            "question": "What hormone regulates the body’s response to thirst?",
+            "options": [
+                "Leptin",
+                "Aldosterone",
+                "Antidiuretic hormone",
+                "Cortisol"
+            ],
+            "answer": "Antidiuretic hormone"
+        },
+        {
+            "question": "What gland produces the hormone prolactin-releasing hormone?",
+            "options": [
+                "Adrenal gland",
+                "Thyroid gland",
+                "Pineal gland",
+                "Hypothalamus"
+            ],
+            "answer": "Hypothalamus"
+        },
+        {
+            "question": "What hormone stimulates the development of male sexual characteristics?",
+            "options": [
+                "Testosterone",
+                "Estrogen",
+                "Progesterone",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What hormone promotes the uptake of amino acids by cells?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Thyroxine",
+                "Leptin"
+            ],
+            "answer": "Insulin"
+        },
+        {
+            "question": "What hormone regulates blood pressure and fluid balance in the body?",
+            "options": [
+                "Aldosterone",
+                "Calcitonin",
+                "Parathyroid hormone",
+                "Estrogen"
+            ],
+            "answer": "Aldosterone"
+        },
+        {
+            "question": "What hormone promotes the development of male accessory sex organs?",
+            "options": [
+                "Testosterone",
+                "Estrogen",
+                "Progesterone",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What hormone regulates the body’s response to pain and inflammation?",
+            "options": [
+                "Adrenaline",
+                "Cortisol",
+                "Melatonin",
+                "Serotonin"
+            ],
+            "answer": "Cortisol"
+        },
+        {
+            "question": "What hormone promotes the synthesis and storage of glycogen in the liver?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Cortisol",
+                "Thyroxine"
+            ],
+            "answer": "Insulin"
+        },
+        {
+            "question": "What hormone is responsible for promoting the contraction of the uterus during childbirth?",
+            "options": [
+                "Oxytocin",
+                "Prolactin",
+                "Estrogen",
+                "Progesterone"
+            ],
+            "answer": "Oxytocin"
+        },
+        {
+            "question": "What hormone regulates the body’s response to thirst and hunger?",
+            "options": [
+                "Leptin",
+                "Antidiuretic hormone",
+                "Growth hormone",
+                "Cortisol"
+            ],
+            "answer": "Leptin"
+        }
+    ]
+}

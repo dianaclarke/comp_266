@@ -1,0 +1,484 @@
+{
+    "quiz": [
+        {
+            "question": "What is the study of human body structure called?",
+            "options": [
+                "Anatomy",
+                "Physiology",
+                "Pathology",
+                "Histology"
+            ],
+            "answer": "Anatomy"
+        },
+        {
+            "question": "Which system is responsible for circulating blood throughout the body?",
+            "options": [
+                "Nervous System",
+                "Muscular System",
+                "Digestive System",
+                "Circulatory System"
+            ],
+            "answer": "Circulatory System"
+        },
+        {
+            "question": "Which of the following is NOT part of the digestive system?",
+            "options": [
+                "Esophagus",
+                "Stomach",
+                "Liver",
+                "Kidney"
+            ],
+            "answer": "Kidney"
+        },
+        {
+            "question": "Which body cavity contains the heart and lungs?",
+            "options": [
+                "Abdominal Cavity",
+                "Pelvic Cavity",
+                "Thoracic Cavity",
+                "Cranial Cavity"
+            ],
+            "answer": "Thoracic Cavity"
+        },
+        {
+            "question": "Which of the following is a bone in the arm?",
+            "options": [
+                "Tibia",
+                "Femur",
+                "Ulna",
+                "Fibula"
+            ],
+            "answer": "Ulna"
+        },
+        {
+            "question": "Which muscle is responsible for bending the elbow?",
+            "options": [
+                "Biceps",
+                "Triceps",
+                "Quadriceps",
+                "Hamstring"
+            ],
+            "answer": "Biceps"
+        },
+        {
+            "question": "Which of the following is a type of connective tissue?",
+            "options": [
+                "Epithelial Tissue",
+                "Muscle Tissue",
+                "Nervous Tissue",
+                "Bone Tissue"
+            ],
+            "answer": "Bone Tissue"
+        },
+        {
+            "question": "Which organ is responsible for filtering waste products from the blood?",
+            "options": [
+                "Kidney",
+                "Liver",
+                "Pancreas",
+                "Spleen"
+            ],
+            "answer": "Kidney"
+        },
+        {
+            "question": "Which of the following is NOT a part of the respiratory system?",
+            "options": [
+                "Nose",
+                "Trachea",
+                "Bronchus",
+                "Kidney"
+            ],
+            "answer": "Kidney"
+        },
+        {
+            "question": "Which of the following is a type of joint in the body?",
+            "options": [
+                "Cardiac Joint",
+                "Fibrous Joint",
+                "Cerebral Joint",
+                "Epithelial Joint"
+            ],
+            "answer": "Fibrous Joint"
+        },
+        {
+            "question": "Which of the following is NOT a type of muscle tissue?",
+            "options": [
+                "Skeletal Muscle",
+                "Smooth Muscle",
+                "Cardiac Muscle",
+                "Epithelial Muscle"
+            ],
+            "answer": "Epithelial Muscle"
+        },
+        {
+            "question": "Which organ stores bile?",
+            "options": [
+                "Stomach",
+                "Liver",
+                "Gallbladder",
+                "Pancreas"
+            ],
+            "answer": "Gallbladder"
+        },
+        {
+            "question": "Which of the following is a type of nerve cell?",
+            "options": [
+                "Motor Neuron",
+                "Muscle Neuron",
+                "Epithelial Neuron",
+                "Sensory Neuron"
+            ],
+            "answer": "Sensory Neuron"
+        },
+        {
+            "question": "Which of the following is a type of brain wave?",
+            "options": [
+                "Gamma",
+                "Beta",
+                "Alpha",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What is the name of the largest bone in the human body?",
+            "options": [
+                "Femur",
+                "Tibia",
+                "Fibula",
+                "Humerus"
+            ],
+            "answer": "Femur"
+        },
+        {
+            "question": "Which of the following is a type of bone?",
+            "options": [
+                "Short Bone",
+                "Flat Bone",
+                "Long Bone",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Which part of the brain is responsible for regulating balance and coordination?",
+            "options": [
+                "Cerebellum",
+                "Cerebrum",
+                "Medulla Oblongata",
+                "Thalamus"
+            ],
+            "answer": "Cerebellum"
+        },
+        {
+            "question": "What is the name for the upper arm bone?",
+            "options": [
+                "Radius",
+                "Ulna",
+                "Humerus",
+                "Femur"
+            ],
+            "answer": "Humerus"
+        },
+        {
+            "question": "Which of the following is NOT a type of epithelial tissue?",
+            "options": [
+                "Squamous Epithelium",
+                "Cuboidal Epithelium",
+                "Columnar Epithelium",
+                "Cartilage Epithelium"
+            ],
+            "answer": "Cartilage Epithelium"
+        },
+        {
+            "question": "What is the name of the muscle that separates the chest from the abdomen?",
+            "options": [
+                "Rectus Abdominis",
+                "Obliquus Externus",
+                "Diaphragm",
+                "Latissimus Dorsi"
+            ],
+            "answer": "Diaphragm"
+        },
+        {
+            "question": "What is the name of the membrane that lines the lungs?",
+            "options": [
+                "Peritoneum",
+                "Pleura",
+                "Pericardium",
+                "Endothelium"
+            ],
+            "answer": "Pleura"
+        },
+        {
+            "question": "Which of the following is NOT an organ in the male reproductive system?",
+            "options": [
+                "Testes",
+                "Prostate Gland",
+                "Uterus",
+                "Vas Deferens"
+            ],
+            "answer": "Uterus"
+        },
+        {
+            "question": "Which of the following is an organ in the female reproductive system?",
+            "options": [
+                "Prostate Gland",
+                "Ovaries",
+                "Epididymis",
+                "Bulbourethral Gland"
+            ],
+            "answer": "Ovaries"
+        },
+        {
+            "question": "What is the name of the fluid that lubricates joints?",
+            "options": [
+                "Mucus",
+                "Pus",
+                "Synovial Fluid",
+                "Serous Fluid"
+            ],
+            "answer": "Synovial Fluid"
+        },
+        {
+            "question": "What is the name of the tough, fibrous layer that surrounds bones?",
+            "options": [
+                "Periosteum",
+                "Endosteum",
+                "Perichondrium",
+                "Epiphysis"
+            ],
+            "answer": "Periosteum"
+        },
+        {
+            "question": "What is the name of the process by which bone tissue is broken down and reabsorbed?",
+            "options": [
+                "Osteoblast Activity",
+                "Osteoclast Activity",
+                "Hormone Secretion",
+                "Calcification"
+            ],
+            "answer": "Osteoclast Activity"
+        },
+        {
+            "question": "Which gland is responsible for producing insulin?",
+            "options": [
+                "Thyroid Gland",
+                "Pituitary Gland",
+                "Adrenal Gland",
+                "Pancreas"
+            ],
+            "answer": "Pancreas"
+        },
+        {
+            "question": "What is the name of the membrane that surrounds the heart?",
+            "options": [
+                "Meninges",
+                "Pericardium",
+                "Endocardium",
+                "Myocardium"
+            ],
+            "answer": "Pericardium"
+        },
+        {
+            "question": "Which bone in the body is the only one that does not articulate with another bone?",
+            "options": [
+                "Hyoid Bone",
+                "Patella",
+                "Ulna",
+                "Fibula"
+            ],
+            "answer": "Hyoid Bone"
+        },
+        {
+            "question": "What is the name of the tube that connects the mouth to the stomach?",
+            "options": [
+                "Esophagus",
+                "Trachea",
+                "Bronchus",
+                "Larynx"
+            ],
+            "answer": "Esophagus"
+        },
+        {
+            "question": "Which of the following is a type of white blood cell?",
+            "options": [
+                "Erythrocyte",
+                "Leukocyte",
+                "Thrombocyte",
+                "Platelet"
+            ],
+            "answer": "Leukocyte"
+        },
+        {
+            "question": "Which of the following is NOT a type of blood vessel?",
+            "options": [
+                "Artery",
+                "Vein",
+                "Capillary",
+                "Bronchiole"
+            ],
+            "answer": "Bronchiole"
+        },
+        {
+            "question": "What is the name of the hormone that stimulates contraction of smooth muscle in the uterus during childbirth?",
+            "options": [
+                "Oxytocin",
+                "Estrogen",
+                "Progesterone",
+                "Testosterone"
+            ],
+            "answer": "Oxytocin"
+        },
+        {
+            "question": "Which of the following is a type of sensory receptor?",
+            "options": [
+                "Photoreceptor",
+                "Motor Receptor",
+                "Glandular Receptor",
+                "Smooth Receptor"
+            ],
+            "answer": "Photoreceptor"
+        },
+        {
+            "question": "Which of the following is NOT a type of taste bud?",
+            "options": [
+                "Sweet",
+                "Salty",
+                "Sour",
+                "Umami"
+            ],
+            "answer": "Umami"
+        },
+        {
+            "question": "Which of the following is a function of the lymphatic system?",
+            "options": [
+                "Transporting Nutrients",
+                "Generating Heat",
+                "Protecting Against Infection",
+                "Controlling Hormones"
+            ],
+            "answer": "Protecting Against Infection"
+        },
+        {
+            "question": "Which of the following is NOT a component of the reflex arc?",
+            "options": [
+                "Receptor",
+                "Effector",
+                "Motor Neuron",
+                "Sensory Neuron"
+            ],
+            "answer": "Motor Neuron"
+        },
+        {
+            "question": "How many pairs of spinal nerves are there?",
+            "options": [
+                "12",
+                "24",
+                "31",
+                "33"
+            ],
+            "answer": "31"
+        },
+        {
+            "question": "What is the name of the pigment that gives skin its color?",
+            "options": [
+                "Hemoglobin",
+                "Myoglobin",
+                "Melanin",
+                "Keratin"
+            ],
+            "answer": "Melanin"
+        },
+        {
+            "question": "What is the name of the bone in the lower leg that articulates with the femur?",
+            "options": [
+                "Tibia",
+                "Fibula",
+                "Radius",
+                "Humerus"
+            ],
+            "answer": "Tibia"
+        },
+        {
+            "question": "Which of the following is a type of white blood cell that produces antibodies?",
+            "options": [
+                "T Cell",
+                "B Cell",
+                "Natural Killer Cell",
+                "Monocyte"
+            ],
+            "answer": "B Cell"
+        },
+        {
+            "question": "Which gland is responsible for secreting growth hormone?",
+            "options": [
+                "Thyroid Gland",
+                "Adrenal Gland",
+                "Pituitary Gland",
+                "Parathyroid Gland"
+            ],
+            "answer": "Pituitary Gland"
+        },
+        {
+            "question": "What is the name of the muscle that runs along the back of the upper arm?",
+            "options": [
+                "Biceps",
+                "Triceps",
+                "Deltoid",
+                "Hamstring"
+            ],
+            "answer": "Triceps"
+        },
+        {
+            "question": "Which of the following is NOT a type of bone cell?",
+            "options": [
+                "Osteoblast",
+                "Osteoclast",
+                "Osteocyte",
+                "Myocyte"
+            ],
+            "answer": "Myocyte"
+        },
+        {
+            "question": "What is the name of the muscle that separates the abdominal cavity from the pelvic cavity?",
+            "options": [
+                "Rectus Abdominis",
+                "Obliquus Externus",
+                "Diaphragm",
+                "Latissimus Dorsi"
+            ],
+            "answer": "Obliquus Externus"
+        },
+        {
+            "question": "What is the name of the hormone that prevents excessive blood sugar levels?",
+            "options": [
+                "Insulin",
+                "Glucagon",
+                "Thyroxine",
+                "Estrogen"
+            ],
+            "answer": "Insulin"
+        },
+        {
+            "question": "Which of the following is NOT a type of neuroglial cell?",
+            "options": [
+                "Astrocyte",
+                "Oligodendrocyte",
+                "Microglia",
+                "Erythrocyte"
+            ],
+            "answer": "Erythrocyte"
+        },
+        {
+            "question": "What is the name of the membrane that covers the surface of the lungs?",
+            "options": [
+                "Epithelium",
+                "Pleura",
+                "Serous Membrane",
+                "Meninges"
+            ],
+            "answer": "Pleura"
+        }
+    ]
+}

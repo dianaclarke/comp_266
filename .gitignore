@@ -1,0 +1,10 @@
+node_modules
+
+.env
+.project
+
+# Local Netlify folder
+.netlify
+
+chat.sh
+sendgrid.sh

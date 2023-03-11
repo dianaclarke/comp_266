@@ -1,0 +1,474 @@
+{
+    "quiz": [
+        {
+            "question": "Which type of muscle is responsible for moving bones?",
+            "options": [
+                "Skeletal muscle",
+                "Cardiac muscle",
+                "Smooth muscle",
+                "Visceral muscle"
+            ],
+            "answer": "Skeletal muscle"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to smile?",
+            "options": [
+                "Zygomaticus",
+                "Masseter",
+                "Sternocleidomastoid",
+                "Sartorius"
+            ],
+            "answer": "Zygomaticus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to walk or run?",
+            "options": [
+                "Gastrocnemius",
+                "Pectoralis major",
+                "Rectus abdominis",
+                "Biceps brachii"
+            ],
+            "answer": "Gastrocnemius"
+        },
+        {
+            "question": "Which muscle is located in the chest and is used for breathing?",
+            "options": [
+                "Diaphragm",
+                "Triceps brachii",
+                "Quadriceps femoris",
+                "Trapezius"
+            ],
+            "answer": "Diaphragm"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to frown?",
+            "options": [
+                "Corrugator supercilii",
+                "Rhomboid major",
+                "Supraspinatus",
+                "Tibialis anterior"
+            ],
+            "answer": "Corrugator supercilii"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to rotate your head?",
+            "options": [
+                "Splenius capitis",
+                "External oblique",
+                "Adductor longus",
+                "Gluteus maximus"
+            ],
+            "answer": "Splenius capitis"
+        },
+        {
+            "question": "Which type of muscle is found in the walls of organs and blood vessels?",
+            "options": [
+                "Smooth muscle",
+                "Cardiac muscle",
+                "Skeletal muscle",
+                "Visceral muscle"
+            ],
+            "answer": "Smooth muscle"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to flex your elbow?",
+            "options": [
+                "Biceps brachii",
+                "Triceps brachii",
+                "Deltoid",
+                "Latissimus dorsi"
+            ],
+            "answer": "Biceps brachii"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to stand up straight?",
+            "options": [
+                "Erector spinae",
+                "Brachialis",
+                "Frontalis",
+                "Glenohumeral joint"
+            ],
+            "answer": "Erector spinae"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to extend your hip?",
+            "options": [
+                "Gluteus maximus",
+                "Semimembranosus",
+                "Sartorius",
+                "Tibialis posterior"
+            ],
+            "answer": "Gluteus maximus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to lift your shoulder?",
+            "options": [
+                "Trapezius",
+                "Semitendinosus",
+                "Soleus",
+                "Pectoralis minor"
+            ],
+            "answer": "Trapezius"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to rotate your arm?",
+            "options": [
+                "Infraspinatus",
+                "Levator scapulae",
+                "Rectus femoris",
+                "Gracilis"
+            ],
+            "answer": "Infraspinatus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to flex your hip?",
+            "options": [
+                "Iliopsoas",
+                "Rectus abdominis",
+                "Brachialis",
+                "Extensor digitorum longus"
+            ],
+            "answer": "Iliopsoas"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to extend your knee?",
+            "options": [
+                "Quadriceps femoris",
+                "Biceps femoris",
+                "Piriformis",
+                "Tibialis anterior"
+            ],
+            "answer": "Quadriceps femoris"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to adduct your leg?",
+            "options": [
+                "Adductor longus",
+                "Gastrocnemius",
+                "Flexor digitorum longus",
+                "Sternocleidomastoid"
+            ],
+            "answer": "Adductor longus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to abduct your leg?",
+            "options": [
+                "Tensor fasciae latae",
+                "Biceps brachii",
+                "Supinator",
+                "Rhomboid major"
+            ],
+            "answer": "Tensor fasciae latae"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to point your toes?",
+            "options": [
+                "Gastrocnemius",
+                "Peroneus longus",
+                "Extensor hallucis longus",
+                "Soleus"
+            ],
+            "answer": "Extensor hallucis longus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to move your jaw?",
+            "options": [
+                "Masseter",
+                "Splenius capitis",
+                "Flexor carpi radialis",
+                "Brachialis"
+            ],
+            "answer": "Masseter"
+        },
+        {
+            "question": "Which muscle is located in the back of the neck and is used to tilt the head?",
+            "options": [
+                "Splenius capitis",
+                "Sternocleidomastoid",
+                "Levator scapulae",
+                "Rhomboid major"
+            ],
+            "answer": "Splenius capitis"
+        },
+        {
+            "question": "Which muscle is located in the front of the neck and is used for swallowing?",
+            "options": [
+                "Pharyngeal constrictors",
+                "Palmaris longus",
+                "Quadriceps femoris",
+                "Pectoralis major"
+            ],
+            "answer": "Pharyngeal constrictors"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to move your wrist?",
+            "options": [
+                "Flexor carpi radialis",
+                "Pectoralis minor",
+                "Tibialis anterior",
+                "Levator scapulae"
+            ],
+            "answer": "Flexor carpi radialis"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to extend your elbow?",
+            "options": [
+                "Triceps brachii",
+                "Biceps brachii",
+                "Tibialis anterior",
+                "Brachialis"
+            ],
+            "answer": "Triceps brachii"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to flex your wrist?",
+            "options": [
+                "Flexor carpi ulnaris",
+                "Rectus abdominis",
+                "Gastrocnemius",
+                "Adductor longus"
+            ],
+            "answer": "Flexor carpi ulnaris"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to rotate your wrist?",
+            "options": [
+                "Pronator teres",
+                "Gluteus maximus",
+                "Tensor fasciae latae",
+                "Semimembranosus"
+            ],
+            "answer": "Pronator teres"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to dorsiflex your foot?",
+            "options": [
+                "Tibialis anterior",
+                "Rectus femoris",
+                "Biceps femoris",
+                "Adductor longus"
+            ],
+            "answer": "Tibialis anterior"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to plantarflex your foot?",
+            "options": [
+                "Gastrocnemius",
+                "Iliopsoas",
+                "Levator scapulae",
+                "Trapezius"
+            ],
+            "answer": "Gastrocnemius"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to lift your arm above your shoulder?",
+            "options": [
+                "Deltoid",
+                "Brachialis",
+                "Iliopsoas",
+                "Peroneus longus"
+            ],
+            "answer": "Deltoid"
+        },
+        {
+            "question": "Which muscle is located in the upper back and is used for pulling the shoulder blades together?",
+            "options": [
+                "Rhomboid major",
+                "Gastrocnemius",
+                "Extensor digitorum longus",
+                "Coracobrachialis"
+            ],
+            "answer": "Rhomboid major"
+        },
+        {
+            "question": "Which muscle is located in the hip and is used for abducting the leg?",
+            "options": [
+                "Gluteus medius",
+                "Semimembranosus",
+                "Flexor digitorum longus",
+                "Soleus"
+            ],
+            "answer": "Gluteus medius"
+        },
+        {
+            "question": "Which muscle is located in the thigh and is used for extending the hip?",
+            "options": [
+                "Gluteus maximus",
+                "Sartorius",
+                "Tibialis posterior",
+                "Piriformis"
+            ],
+            "answer": "Gluteus maximus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to flex your neck?",
+            "options": [
+                "Sternocleidomastoid",
+                "Brachialis",
+                "Trapezius",
+                "Peroneus longus"
+            ],
+            "answer": "Sternocleidomastoid"
+        },
+        {
+            "question": "Which muscle is located in the calf and is used for plantarflexing the foot?",
+            "options": [
+                "Soleus",
+                "Pectoralis major",
+                "Triceps brachii",
+                "Sartorius"
+            ],
+            "answer": "Soleus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to elevate your scapula?",
+            "options": [
+                "Levator scapulae",
+                "Orbicularis oculi",
+                "Gastrocnemius",
+                "Brachioradialis"
+            ],
+            "answer": "Levator scapulae"
+        },
+        {
+            "question": "Which muscle is located in the upper back and is used for pulling the shoulder blades down?",
+            "options": [
+                "Trapezius",
+                "Rectus abdominis",
+                "Biceps femoris",
+                "Supraspinatus"
+            ],
+            "answer": "Trapezius"
+        },
+        {
+            "question": "Which muscle is located in the abdomen and is used for bending the spine forward?",
+            "options": [
+                "Rectus abdominis",
+                "Latissimus dorsi",
+                "Sternocleidomastoid",
+                "Adductor longus"
+            ],
+            "answer": "Rectus abdominis"
+        },
+        {
+            "question": "Which muscle is located in the upper arm and is used for flexing the elbow?",
+            "options": [
+                "Brachialis",
+                "Semitendinosus",
+                "Soleus",
+                "Orbicularis oris"
+            ],
+            "answer": "Brachialis"
+        },
+        {
+            "question": "Which muscle is located in the back of the leg and is used for flexing the knee?",
+            "options": [
+                "Biceps femoris",
+                "Rectus femoris",
+                "Extensor hallucis longus",
+                "Palmaris longus"
+            ],
+            "answer": "Biceps femoris"
+        },
+        {
+            "question": "Which muscle is located in the upper back and is used for pulling the shoulder blades together?",
+            "options": [
+                "Rhomboid major",
+                "Gracilis",
+                "Adductor longus",
+                "Supraspinatus"
+            ],
+            "answer": "Rhomboid major"
+        },
+        {
+            "question": "Which muscle is located in the lower back and is used for extending the spine?",
+            "options": [
+                "Erector spinae",
+                "Flexor digitorum longus",
+                "Zygomaticus",
+                "Orbicularis oculi"
+            ],
+            "answer": "Erector spinae"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to adduct your arm?",
+            "options": [
+                "Pectoralis major",
+                "Splenius capitis",
+                "Sartorius",
+                "Biceps brachii"
+            ],
+            "answer": "Pectoralis major"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to rotate your foot?",
+            "options": [
+                "Peroneus longus",
+                "Splenius capitis",
+                "Brachialis",
+                "Pectoralis minor"
+            ],
+            "answer": "Peroneus longus"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to lift your leg while sitting?",
+            "options": [
+                "Psoas major",
+                "Trapezius",
+                "Flexor digitorum longus",
+                "Extensor hallucis longus"
+            ],
+            "answer": "Psoas major"
+        },
+        {
+            "question": "Which muscle is located in the forearm and is used for flexing the wrist?",
+            "options": [
+                "Flexor carpi radialis",
+                "Pronator teres",
+                "Pectoralis minor",
+                "Gastrocnemius"
+            ],
+            "answer": "Flexor carpi radialis"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to extend your ankle?",
+            "options": [
+                "Gastrocnemius",
+                "Soleus",
+                "Brachialis",
+                "Triceps brachii"
+            ],
+            "answer": "Gastrocnemius"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to lift your heel off the ground?",
+            "options": [
+                "Tibialis posterior",
+                "Rectus abdominis",
+                "Adductor longus",
+                "Extensor digitorum longus"
+            ],
+            "answer": "Tibialis posterior"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to flex your knee while standing?",
+            "options": [
+                "Rectus femoris",
+                "Adductor longus",
+                "Piriformis",
+                "Semimembranosus"
+            ],
+            "answer": "Rectus femoris"
+        },
+        {
+            "question": "Which muscle is responsible for allowing you to rotate your thigh?",
+            "options": [
+                "Piriformis",
+                "Rectus abdominis",
+                "Gluteus medius",
+                "Biceps brachii"
+            ],
+            "answer": "Piriformis"
+        }
+    ]
+}

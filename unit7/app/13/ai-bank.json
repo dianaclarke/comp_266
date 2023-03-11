@@ -1,0 +1,454 @@
+{
+    "quiz": [
+        {
+            "question": "Which of the following is not part of the male reproductive system?",
+            "options": [
+                "Epididymis",
+                "Penis",
+                "Uterus",
+                "Prostate gland"
+            ],
+            "answer": "Uterus"
+        },
+        {
+            "question": "Which hormone is responsible for the development of female secondary sex characteristics?",
+            "options": [
+                "Testosterone",
+                "Progesterone",
+                "Estrogen",
+                "Prolactin"
+            ],
+            "answer": "Estrogen"
+        },
+        {
+            "question": "What is the name of the female gonad?",
+            "options": [
+                "Ovary",
+                "Uterus",
+                "Vagina",
+                "Fallopian tube"
+            ],
+            "answer": "Ovary"
+        },
+        {
+            "question": "What is the gestation period of a human?",
+            "options": [
+                "8 months",
+                "9 months",
+                "10 months",
+                "11 months"
+            ],
+            "answer": "9 months"
+        },
+        {
+            "question": "Which of the following is not a component of semen?",
+            "options": [
+                "Spermatozoa",
+                "Prostate fluid",
+                "Vaginal fluid",
+                "Seminal vesicle fluid"
+            ],
+            "answer": "Vaginal fluid"
+        },
+        {
+            "question": "What is the name of the structure that connects the testes to the urethra?",
+            "options": [
+                "Epididymis",
+                "Vas deferens",
+                "Seminal vesicles",
+                "Prostate gland"
+            ],
+            "answer": "Vas deferens"
+        },
+        {
+            "question": "What is the name of the tube that carries sperm from the testes to the urethra?",
+            "options": [
+                "Epididymis",
+                "Vas deferens",
+                "Seminal vesicles",
+                "Prostate gland"
+            ],
+            "answer": "Vas deferens"
+        },
+        {
+            "question": "What is the external female genitalia collectively known as?",
+            "options": [
+                "Labia",
+                "Clitoris",
+                "Vestibule",
+                "Vagina"
+            ],
+            "answer": "Vulva"
+        },
+        {
+            "question": "What is the name of the hormone that signals the beginning of menstruation?",
+            "options": [
+                "Estrogen",
+                "Testosterone",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Luteinizing hormone"
+        },
+        {
+            "question": "Which of the following is not a function of the prostate gland?",
+            "options": [
+                "Production of semen",
+                "Neutralizing acidic vaginal secretions",
+                "Stimulating ejaculation",
+                "Enabling sperm mobility"
+            ],
+            "answer": "Neutralizing acidic vaginal secretions"
+        },
+        {
+            "question": "What is the name of the hormone that stimulates milk production in the mammary glands?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Prolactin",
+                "Luteinizing hormone"
+            ],
+            "answer": "Prolactin"
+        },
+        {
+            "question": "What is the name of the opening of the uterus?",
+            "options": [
+                "Urethra",
+                "Cervix",
+                "Vagina",
+                "Fallopian tube"
+            ],
+            "answer": "Cervix"
+        },
+        {
+            "question": "What is the name of the structure that lies beneath the labia and contains the openings of the urethra and vagina?",
+            "options": [
+                "Clitoris",
+                "Vulva",
+                "Vestibule",
+                "Vagina"
+            ],
+            "answer": "Vestibule"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for thickening the lining of the uterus in preparation for pregnancy?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What is the name of the process in which the ovum is released from the ovary?",
+            "options": [
+                "Ovulation",
+                "Fertilization",
+                "Implantation",
+                "Gestation"
+            ],
+            "answer": "Ovulation"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development and maintenance of male secondary sex characteristics?",
+            "options": [
+                "Testosterone",
+                "Progesterone",
+                "Estrogen",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the structure that produces eggs in the female reproductive system?",
+            "options": [
+                "Uterus",
+                "Vagina",
+                "Fallopian tube",
+                "Ovary"
+            ],
+            "answer": "Ovary"
+        },
+        {
+            "question": "What is the name of the process in which the zygote implants itself into the lining of the uterus?",
+            "options": [
+                "Ovulation",
+                "Fertilization",
+                "Implantation",
+                "Gestation"
+            ],
+            "answer": "Implantation"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development and release of ova?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Follicle-stimulating hormone"
+        },
+        {
+            "question": "What is the name of the process in which the sperm and the ovum fuse together?",
+            "options": [
+                "Ovulation",
+                "Fertilization",
+                "Implantation",
+                "Gestation"
+            ],
+            "answer": "Fertilization"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for inducing labor?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Oxytocin",
+                "Prolactin"
+            ],
+            "answer": "Oxytocin"
+        },
+        {
+            "question": "What is the name of the sac that holds the testes in the male reproductive system?",
+            "options": [
+                "Penis",
+                "Scrotum",
+                "Epididymis",
+                "Prostate gland"
+            ],
+            "answer": "Scrotum"
+        },
+        {
+            "question": "What is the name of the hormone that stimulates the growth of the ovarian follicle?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Follicle-stimulating hormone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the onset of puberty?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Testosterone",
+                "Prolactin"
+            ],
+            "answer": "Gonadotropin-releasing hormone"
+        },
+        {
+            "question": "What is the name of the structure that connects the ovary to the uterus?",
+            "options": [
+                "Urethra",
+                "Cervix",
+                "Vagina",
+                "Fallopian tube"
+            ],
+            "answer": "Fallopian tube"
+        },
+        {
+            "question": "What is the name of the hormone that regulates the menstrual cycle?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Gonadotropin-releasing hormone"
+        },
+        {
+            "question": "What is the name of the opening of the urethra in the male reproductive system?",
+            "options": [
+                "Prostate gland",
+                "Epididymis",
+                "Penis",
+                "Glans penis"
+            ],
+            "answer": "Glans penis"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for thickening the lining of the uterus in preparation for pregnancy?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development of male internal sex organs during fetal development?",
+            "options": [
+                "Testosterone",
+                "Progesterone",
+                "Estrogen",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the tubular structure that carries sperm to the urethra?",
+            "options": [
+                "Epididymis",
+                "Vas deferens",
+                "seminal vesicles",
+                "Prostate gland"
+            ],
+            "answer": "Vas deferens"
+        },
+        {
+            "question": "What is the name of the hormone that stimulates the development of follicles in the ovary?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Follicle-stimulating hormone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development of the male external genitalia during fetal development?",
+            "options": [
+                "Testosterone",
+                "Progesterone",
+                "Estrogen",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the maintenance of the uterine lining during pregnancy?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development of the mammary glands?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Prolactin",
+                "Luteinizing hormone"
+            ],
+            "answer": "Estrogen"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the onset of ovulation?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Luteinizing hormone"
+        },
+        {
+            "question": "What is the name of the hormone that stimulates the formation of sperm in the testes?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Testosterone",
+                "Luteinizing hormone"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development of the ovarian follicles?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Estrogen"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development of the male duct system during fetal development?",
+            "options": [
+                "Testosterone",
+                "Progesterone",
+                "Estrogen",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the thickening of the endometrium during the menstrual cycle?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Estrogen"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the initiation of spermatogenesis?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Testosterone",
+                "Luteinizing hormone"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the maturation of the ovarian follicles and the development of the corpus luteum?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Luteinizing hormone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the contraction of the uterus during labor?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Oxytocin",
+                "Prolactin"
+            ],
+            "answer": "Oxytocin"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the maintenance of pregnancy?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Luteinizing hormone",
+                "Follicle-stimulating hormone"
+            ],
+            "answer": "Progesterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development and maintenance of male accessory sex glands?",
+            "options": [
+                "Testosterone",
+                "Progesterone",
+                "Estrogen",
+                "Prolactin"
+            ],
+            "answer": "Testosterone"
+        },
+        {
+            "question": "What is the name of the hormone that is responsible for the development of the female reproductive system during fetal development?",
+            "options": [
+                "Progesterone",
+                "Estrogen",
+                "Testosterone",
+                "Prolactin"
+            ],
+            "answer": "Estrogen"
+        }
+    ]
+}

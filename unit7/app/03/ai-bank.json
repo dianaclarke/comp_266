@@ -1,0 +1,454 @@
+{
+  "quiz": [
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "The heart",
+        "The liver",
+        "The lungs",
+        "The skin"
+      ],
+      "answer": "The skin"
+    },
+    {
+      "question": "What is the primary function of the integumentary system?",
+      "options": [
+        "Regulating body temperature",
+        "Transporting oxygen to cells",
+        "Breaking down food for energy",
+        "Pumping blood to the rest of the body"
+      ],
+      "answer": "Regulating body temperature"
+    },
+    {
+      "question": "Which of the following is NOT a layer of the skin?",
+      "options": [
+        "Dermis",
+        "Epidermis",
+        "Hypodermis",
+        "Mesodermis"
+      ],
+      "answer": "Mesodermis"
+    },
+    {
+      "question": "What is the protein that makes up nails and hair?",
+      "options": [
+        "Collagen",
+        "Keratin",
+        "Elastin",
+        "Myosin"
+      ],
+      "answer": "Keratin"
+    },
+    {
+      "question": "What is the name of the structures that produce sweat?",
+      "options": [
+        "Sebaceous glands",
+        "Hair follicles",
+        "Apocrine glands",
+        "Sudoriferous glands"
+      ],
+      "answer": "Sudoriferous glands"
+    },
+    {
+      "question": "What is the name of the pigment that gives skin its color?",
+      "options": [
+        "Hemoglobin",
+        "Melanin",
+        "Carotene",
+        "Bilirubin"
+      ],
+      "answer": "Melanin"
+    },
+    {
+      "question": "Which of the following is a function of the subcutaneous layer?",
+      "options": [
+        "Protecting underlying organs",
+        "Manufacturing red blood cells",
+        "Providing sensory information",
+        "Storing fat for energy"
+      ],
+      "answer": "Storing fat for energy"
+    },
+    {
+      "question": "What is the medical term for a bruise?",
+      "options": [
+        "Eczema",
+        "Hives",
+        "Contusion",
+        "Psoriasis"
+      ],
+      "answer": "Contusion"
+    },
+    {
+      "question": "What is the name of the glands that produce oil for the skin?",
+      "options": [
+        "Sweat glands",
+        "Apocrine glands",
+        "Sudoriferous glands",
+        "Sebaceous glands"
+      ],
+      "answer": "Sebaceous glands"
+    },
+    {
+      "question": "Which layer of the skin is responsible for the production of new skin cells?",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Subcutaneous layer",
+        "Hypodermis"
+      ],
+      "answer": "Epidermis"
+    },
+    {
+      "question": "What is the name of the condition where skin becomes dry and itchy?",
+      "options": [
+        "Psoriasis",
+        "Eczema",
+        "Dermatitis",
+        "Rosacea"
+      ],
+      "answer": "Eczema"
+    },
+    {
+      "question": "What is the name of the layer of the skin that is responsible for the sensation of touch?",
+      "options": [
+        "Dermis",
+        "Epidermis",
+        "Hypodermis",
+        "Mesodermis"
+      ],
+      "answer": "Dermis"
+    },
+    {
+      "question": "What is the name of the skin condition caused by exposure to UV radiation?",
+      "options": [
+        "Rosacea",
+        "Acne",
+        "Frostbite",
+        "Sunburn"
+      ],
+      "answer": "Sunburn"
+    },
+    {
+      "question": "What is the name of the condition where hair falls out in patches?",
+      "options": [
+        "Alopecia",
+        "Dandruff",
+        "Hirsutism",
+        "Hypertrichosis"
+      ],
+      "answer": "Alopecia"
+    },
+    {
+      "question": "What is the name of the small muscles that attach to hair follicles?",
+      "options": [
+        "Adipose tissue",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Skeletal muscle"
+      ],
+      "answer": "Smooth muscle"
+    },
+    {
+      "question": "What is the name of the tiny holes in the skin where hair grows?",
+      "options": [
+        "Sebaceous glands",
+        "Sweat glands",
+        "Hair follicles",
+        "Apocrine glands"
+      ],
+      "answer": "Hair follicles"
+    },
+    {
+      "question": "What is the name of the condition where nails become thick and discolored?",
+      "options": [
+        "Ingrown nails",
+        "Melanoma",
+        "Paronychia",
+        "Onychomycosis"
+      ],
+      "answer": "Onychomycosis"
+    },
+    {
+      "question": "What term describes skin that is blue or gray in color due to lack of oxygen?",
+      "options": [
+        "Cyanosis",
+        "Erythema",
+        "Pallor",
+        "Jaundice"
+      ],
+      "answer": "Cyanosis"
+    },
+    {
+      "question": "What is the name of the transparent layer of the eye that covers the iris and pupil?",
+      "options": [
+        "Cornea",
+        "Sclera",
+        "Retina",
+        "Choroid"
+      ],
+      "answer": "Cornea"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and swollen due to an allergic reaction?",
+      "options": [
+        "Psoriasis",
+        "Hives",
+        "Rosacea",
+        "Eczema"
+      ],
+      "answer": "Hives"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and itchy due to inflammation?",
+      "options": [
+        "Psoriasis",
+        "Eczema",
+        "Dermatitis",
+        "Rosacea"
+      ],
+      "answer": "Dermatitis"
+    },
+    {
+      "question": "What is the name of the small, slightly-raised bumps on the skin that are caused by virus?",
+      "options": [
+        "Hives",
+        "Moles",
+        "Warts",
+        "Freckles"
+      ],
+      "answer": "Warts"
+    },
+    {
+      "question": "What is the name of the condition where sweat glands become blocked, causing small bumps to form on the skin?",
+      "options": [
+        "Acne",
+        "Hives",
+        "Rosacea",
+        "Miliaria"
+      ],
+      "answer": "Miliaria"
+    },
+    {
+      "question": "Which of the following skin conditions is caused by a fungal infection?",
+      "options": [
+        "Psoriasis",
+        "Ringworm",
+        "Eczema",
+        "Rosacea"
+      ],
+      "answer": "Ringworm"
+    },
+    {
+      "question": "What is the name of the condition where the skin loses elasticity and sags due to aging?",
+      "options": [
+        "Melanoma",
+        "Wrinkles",
+        "Varicose veins",
+        "Cellulite"
+      ],
+      "answer": "Wrinkles"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes yellowish due to a buildup of bilirubin?",
+      "options": [
+        "Cyanosis",
+        "Jaundice",
+        "Pallor",
+        "Erythema"
+      ],
+      "answer": "Jaundice"
+    },
+    {
+      "question": "Which of the following is NOT a type of skin cancer?",
+      "options": [
+        "Squamous cell carcinoma",
+        "Basal cell carcinoma",
+        "Melanoma",
+        "Lymphoma"
+      ],
+      "answer": "Lymphoma"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and flushed due to blood vessel dilation?",
+      "options": [
+        "Psoriasis",
+        "Eczema",
+        "Rosacea",
+        "Dermatitis"
+      ],
+      "answer": "Rosacea"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes thick and scaly due to accelerated cell growth?",
+      "options": [
+        "Rosacea",
+        "Psoriasis",
+        "Eczema",
+        "Dermatitis"
+      ],
+      "answer": "Psoriasis"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and inflamed due to contact with an irritant?",
+      "options": [
+        "Rosacea",
+        "Psoriasis",
+        "Eczema",
+        "Contact dermatitis"
+      ],
+      "answer": "Contact dermatitis"
+    },
+    {
+      "question": "What is the name of the condition where hair grows excessively on the face and body?",
+      "options": [
+        "Hirsutism",
+        "Hypertrichosis",
+        "Alopecia",
+        "Cicatricial alopecia"
+      ],
+      "answer": "Hirsutism"
+    },
+    {
+      "question": "What is the name of the condition where hair falls out due to damage to hair follicles?",
+      "options": [
+        "Cicatricial alopecia",
+        "Androgenetic alopecia",
+        "Alopecia areata",
+        "Telogen effluvium"
+      ],
+      "answer": "Cicatricial alopecia"
+    },
+    {
+      "question": "What is the name of the condition where hair loss occurs in a specific pattern due to genetics?",
+      "options": [
+        "Cicatricial alopecia",
+        "Androgenetic alopecia",
+        "Alopecia areata",
+        "Telogen effluvium"
+      ],
+      "answer": "Androgenetic alopecia"
+    },
+    {
+      "question": "What is the name of the condition where hair falls out in circular patches due to an autoimmune disorder?",
+      "options": [
+        "Cicatricial alopecia",
+        "Androgenetic alopecia",
+        "Alopecia areata",
+        "Telogen effluvium"
+      ],
+      "answer": "Alopecia areata"
+    },
+    {
+      "question": "What is the name of the condition where hair falls out excessively due to stress or illness?",
+      "options": [
+        "Cicatricial alopecia",
+        "Androgenetic alopecia",
+        "Alopecia areata",
+        "Telogen effluvium"
+      ],
+      "answer": "Telogen effluvium"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes itchy and inflamed due to exposure to UV radiation?",
+      "options": [
+        "Sunburn",
+        "Miliaria",
+        "Hives",
+        "Eczema"
+      ],
+      "answer": "Sunburn"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and swollen due to an infection?",
+      "options": [
+        "Cellulitis",
+        "Rosacea",
+        "Dermatitis",
+        "Psoriasis"
+      ],
+      "answer": "Cellulitis"
+    },
+    {
+      "question": "Which of the following is a function of sweat?",
+      "options": [
+        "Killing bacteria",
+        "Providing oxygen to cells",
+        "Breaking down food for energy",
+        "Regulating body temperature"
+      ],
+      "answer": "Regulating body temperature"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes dry and flaky due to a lack of moisture?",
+      "options": [
+        "Psoriasis",
+        "Eczema",
+        "Dandruff",
+        "Xerosis"
+      ],
+      "answer": "Xerosis"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and swollen due to exposure to irritants or allergens?",
+      "options": [
+        "Urticaria",
+        "Rosacea",
+        "Dermatitis",
+        "Cellulitis"
+      ],
+      "answer": "Dermatitis"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red and itchy due to an autoimmune disorder?",
+      "options": [
+        "Contact dermatitis",
+        "Atopic dermatitis",
+        "Lichen planus",
+        "Scleroderma"
+      ],
+      "answer": "Atopic dermatitis"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes thick and scaly due to excessive exposure to sun?",
+      "options": [
+        "Eczema",
+        "Skin cancer",
+        "Actinic keratosis",
+        "Dermatitis"
+      ],
+      "answer": "Actinic keratosis"
+    },
+    {
+      "question": "Which of the following is a function of hair on the body?",
+      "options": [
+        "Regulating body temperature",
+        "Transporting oxygen to cells",
+        "Breaking down food for energy",
+        "Pumping blood to the rest of the body"
+      ],
+      "answer": "Regulating body temperature"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes red or pink due to dilation of blood vessels?",
+      "options": [
+        "Cyanosis",
+        "Pallor",
+        "Erythema",
+        "Jaundice"
+      ],
+      "answer": "Erythema"
+    },
+    {
+      "question": "What is the name of the condition where the skin becomes thick and hard due to excess collagen production?",
+      "options": [
+        "Atopic dermatitis",
+        "Lichen planus",
+        "Scleroderma",
+        "Contact dermatitis"
+      ],
+      "answer": "Scleroderma"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+    "quiz": [
+        {
+            "question": "What is the largest vein in the body?",
+            "options": [
+                "Aorta",
+                "Jugular vein",
+                "Hepatic vein",
+                "Vena cava"
+            ],
+            "answer": "Vena cava"
+        },
+        {
+            "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+            "options": [
+                "Right atrium",
+                "Left atrium",
+                "Right ventricle",
+                "Left ventricle"
+            ],
+            "answer": "Left ventricle"
+        },
+        {
+            "question": "What is the function of the tricuspid valve?",
+            "options": [
+                "Pumps blood from the right ventricle to the lungs",
+                "Prevents backflow from the left ventricle to the left atrium",
+                "Prevents backflow from the right ventricle to the right atrium",
+                "Pumps blood from the left ventricle to the body"
+            ],
+            "answer": "Prevents backflow from the right ventricle to the right atrium"
+        },
+        {
+            "question": "Which blood vessels carry blood away from the heart?",
+            "options": [
+                "Veins",
+                "Capillaries",
+                "Lymph vessels",
+                "Arteries"
+            ],
+            "answer": "Arteries"
+        },
+        {
+            "question": "What is the name of the valve located between the left ventricle and the aorta?",
+            "options": [
+                "Pulmonary valve",
+                "Aortic valve",
+                "Tricuspid valve",
+                "Mitral valve"
+            ],
+            "answer": "Aortic valve"
+        },
+        {
+            "question": "What is the main function of the cardiovascular system?",
+            "options": [
+                "Transport oxygen and nutrients to the body's tissues",
+                "Process and eliminate waste products",
+                "Maintain fluid balance in the body",
+                "All of the above"
+            ],
+            "answer": "Transport oxygen and nutrients to the body's tissues"
+        },
+        {
+            "question": "Which blood vessel carries deoxygenated blood from the body to the right atrium?",
+            "options": [
+                "Pulmonary artery",
+                "Superior vena cava",
+                "Inferior vena cava",
+                "Coronary sinus"
+            ],
+            "answer": "Inferior vena cava"
+        },
+        {
+            "question": "What is the name of the small, thin-walled blood vessels where oxygen and nutrients are exchanged with the body's tissues?",
+            "options": [
+                "Veins",
+                "Arteries",
+                "Lymph vessels",
+                "Capillaries"
+            ],
+            "answer": "Capillaries"
+        },
+        {
+            "question": "Which chamber of the heart receives deoxygenated blood from the body?",
+            "options": [
+                "Left atrium",
+                "Right atrium",
+                "Left ventricle",
+                "Right ventricle"
+            ],
+            "answer": "Right atrium"
+        },
+        {
+            "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+            "options": [
+                "Inferior vena cava",
+                "Superior vena cava",
+                "Pulmonary vein",
+                "Pulmonary artery"
+            ],
+            "answer": "Pulmonary vein"
+        },
+        {
+            "question": "Which part of the nervous system helps regulate heart rate and blood pressure?",
+            "options": [
+                "Sympathetic nervous system",
+                "Parasympathetic nervous system",
+                "Central nervous system",
+                "Peripheral nervous system"
+            ],
+            "answer": "Autonomic nervous system"
+        },
+        {
+            "question": "What is the name of the condition where the heart muscle is weakened and unable to pump efficiently?",
+            "options": [
+                "Atherosclerosis",
+                "Heart attack",
+                "Arrhythmia",
+                "Heart failure"
+            ],
+            "answer": "Heart failure"
+        },
+        {
+            "question": "Which component of blood is responsible for carrying oxygen to the body's tissues?",
+            "options": [
+                "Platelets",
+                "Red blood cells",
+                "White blood cells",
+                "Plasma"
+            ],
+            "answer": "Red blood cells"
+        },
+        {
+            "question": "What is the name of the large, muscular artery that carries blood away from the heart?",
+            "options": [
+                "Jugular vein",
+                "Hepatic artery",
+                "Aorta",
+                "Renal artery"
+            ],
+            "answer": "Aorta"
+        },
+        {
+            "question": "Which blood vessel connects the lungs to the heart?",
+            "options": [
+                "Coronary artery",
+                "Pulmonary artery",
+                "Pulmonary vein",
+                "Inferior vena cava"
+            ],
+            "answer": "Pulmonary vein"
+        },
+        {
+            "question": "What is the name of the network of specialized cells in the heart that help regulate the heart's rhythm?",
+            "options": [
+                "SA node",
+                "AV node",
+                "Bundle of His",
+                "Purkinje fibers"
+            ],
+            "answer": "SA node"
+        },
+        {
+            "question": "What is the name of the blood vessel located in the neck that carries blood from the head to the heart?",
+            "options": [
+                "Inferior vena cava",
+                "Superior vena cava",
+                "Jugular vein",
+                "Carotid artery"
+            ],
+            "answer": "Jugular vein"
+        },
+        {
+            "question": "What is the name of the condition where the arteries become narrowed and hardened, reducing blood flow to the heart?",
+            "options": [
+                "Heart failure",
+                "Atherosclerosis",
+                "Arrhythmia",
+                "Heart attack"
+            ],
+            "answer": "Atherosclerosis"
+        },
+        {
+            "question": "What is the name of the valve located between the right atrium and the right ventricle?",
+            "options": [
+                "Tricuspid valve",
+                "Aortic valve",
+                "Pulmonary valve",
+                "Mitral valve"
+            ],
+            "answer": "Tricuspid valve"
+        },
+        {
+            "question": "Which part of the brain helps regulate cardiovascular function?",
+            "options": [
+                "Cerebellum",
+                "Brainstem",
+                "Frontal lobe",
+                "Temporal lobe"
+            ],
+            "answer": "Brainstem"
+        },
+        {
+            "question": "What is the name of the small, bean-shaped organs that filter excess fluid and waste products from the blood?",
+            "options": [
+                "Spleen",
+                "Liver",
+                "Kidneys",
+                "Pancreas"
+            ],
+            "answer": "Kidneys"
+        },
+        {
+            "question": "What is the name of the condition where there is an irregular heartbeat?",
+            "options": [
+                "Arrhythmia",
+                "Heart attack",
+                "Heart failure",
+                "Atherosclerosis"
+            ],
+            "answer": "Arrhythmia"
+        },
+        {
+            "question": "What is the name of the lymphatic vessel that carries lymph fluid from the lower body to the left subclavian vein?",
+            "options": [
+                "Thoracic duct",
+                "Spleen duct",
+                "Pancreatic duct",
+                "Hepatic duct"
+            ],
+            "answer": "Thoracic duct"
+        },
+        {
+            "question": "What is the name of the blood vessel that supplies oxygen and nutrients to the heart muscle itself?",
+            "options": [
+                "Coronary artery",
+                "Pulmonary artery",
+                "Pulmonary vein",
+                "Subclavian artery"
+            ],
+            "answer": "Coronary artery"
+        },
+        {
+            "question": "Which component of blood is responsible for clotting to stop bleeding?",
+            "options": [
+                "Red blood cells",
+                "Platelets",
+                "White blood cells",
+                "Plasma"
+            ],
+            "answer": "Platelets"
+        },
+        {
+            "question": "What is the name of the large, flat muscle located below the lungs that helps with breathing?",
+            "options": [
+                "Diaphragm",
+                "Spleen",
+                "Liver",
+                "Pancreas"
+            ],
+            "answer": "Diaphragm"
+        },
+        {
+            "question": "What is the name of the condition where there is a blockage of blood flow to the heart, leading to death of heart muscle tissue?",
+            "options": [
+                "Heart failure",
+                "Atherosclerosis",
+                "Heart attack",
+                "Arrhythmia"
+            ],
+            "answer": "Heart attack"
+        },
+        {
+            "question": "Which blood vessel carries deoxygenated blood from the heart to the lungs?",
+            "options": [
+                "Pulmonary artery",
+                "Superior vena cava",
+                "Inferior vena cava",
+                "Coronary sinus"
+            ],
+            "answer": "Pulmonary artery"
+        },
+        {
+            "question": "What is the name of the hormone that stimulates the heart to beat faster and stronger?",
+            "options": [
+                "Epinephrine",
+                "Insulin",
+                "Glucagon",
+                "Testosterone"
+            ],
+            "answer": "Epinephrine"
+        },
+        {
+            "question": "What is the name of the condition where there is a buildup of fluid in the lungs?",
+            "options": [
+                "Pneumonia",
+                "Edema",
+                "Asthma",
+                "Tuberculosis"
+            ],
+            "answer": "Edema"
+        },
+        {
+            "question": "What is the name of the condition where the heart beats too fast?",
+            "options": [
+                "Bradycardia",
+                "Tachycardia",
+                "Asystole",
+                "Fibrillation"
+            ],
+            "answer": "Tachycardia"
+        },
+        {
+            "question": "Which part of the nervous system is responsible for controlling heart rate and blood pressure at rest?",
+            "options": [
+                "Sympathetic nervous system",
+                "Parasympathetic nervous system",
+                "Central nervous system",
+                "Peripheral nervous system"
+            ],
+            "answer": "Parasympathetic nervous system"
+        },
+        {
+            "question": "What is the name of the condition where there is a problem with the heart's rhythm?",
+            "options": [
+                "Arrhythmia",
+                "Heart attack",
+                "Heart failure",
+                "Atherosclerosis"
+            ],
+            "answer": "Arrhythmia"
+        },
+        {
+            "question": "What is the name of the condition where there is a buildup of plaque in the arteries?",
+            "options": [
+                "Heart attack",
+                "Atherosclerosis",
+                "Arrhythmia",
+                "Heart failure"
+            ],
+            "answer": "Atherosclerosis"
+        },
+        {
+            "question": "Which part of the heart contains the pacemaker cells that regulate the heart's rhythm?",
+            "options": [
+                "Atrioventricular node",
+                "Sinoatrial node",
+                "Bundle of His",
+                "Purkinje fibers"
+            ],
+            "answer": "Sinoatrial node"
+        },
+        {
+            "question": "What is the name of the condition where there is a lack of blood flow to the brain, leading to damage or death of brain tissue?",
+            "options": [
+                "Stroke",
+                "Seizure",
+                "Meningitis",
+                "Encephalitis"
+            ],
+            "answer": "Stroke"
+        },
+        {
+            "question": "What is the name of the valve located between the left atrium and the left ventricle?",
+            "options": [
+                "Tricuspid valve",
+                "Aortic valve",
+                "Pulmonary valve",
+                "Mitral valve"
+            ],
+            "answer": "Mitral valve"
+        },
+        {
+            "question": "Which blood vessel carries blood from the liver back to the heart?",
+            "options": [
+                "Hepatic vein",
+                "Hepatic artery",
+                "Renal vein",
+                "Renal artery"
+            ],
+            "answer": "Hepatic vein"
+        },
+        {
+            "question": "What is the name of the condition where there is a blockage of blood flow to the lungs?",
+            "options": [
+                "Pulmonary embolism",
+                "Pneumonia",
+                "Emphysema",
+                "Asthma"
+            ],
+            "answer": "Pulmonary embolism"
+        },
+        {
+            "question": "What is the name of the blood vessel that supplies blood to the brain?",
+            "options": [
+                "Carotid artery",
+                "Subclavian artery",
+                "Renal artery",
+                "Celiac artery"
+            ],
+            "answer": "Carotid artery"
+        },
+        {
+            "question": "What is the name of the condition where there is an enlargement of the heart?",
+            "options": [
+                "Heart attack",
+                "Heart failure",
+                "Arrhythmia",
+                "Cardiomegaly"
+            ],
+            "answer": "Cardiomegaly"
+        },
+        {
+            "question": "What is the name of the condition where there is a problem with the heart's electrical system, resulting in a life-threatening arrhythmia?",
+            "options": [
+                "Heart failure",
+                "Asystole",
+                "Ventricular fibrillation",
+                "Atrial fibrillation"
+            ],
+            "answer": "Ventricular fibrillation"
+        },
+        {
+            "question": "What is the name of the condition where there is a problem with the heart's electrical system, resulting in a rapid, irregular heartbeat?",
+            "options": [
+                "Atrial fibrillation",
+                "Ventricular fibrillation",
+                "Tachycardia",
+                "Bradycardia"
+            ],
+            "answer": "Atrial fibrillation"
+        },
+        {
+            "question": "What is the name of the condition where there is a buildup of fluid in the abdominal cavity?",
+            "options": [
+                "Ascites",
+                "Edema",
+                "Pleural effusion",
+                "Hydrocele"
+            ],
+            "answer": "Ascites"
+        },
+        {
+            "question": "What is the name of the valve located between the pulmonary artery and the right ventricle?",
+            "options": [
+                "Tricuspid valve",
+                "Aortic valve",
+                "Pulmonary valve",
+                "Mitral valve"
+            ],
+            "answer": "Pulmonary valve"
+        },
+        {
+            "question": "What is the name of the condition where there is a blockage in the blood vessels in the legs or arms?",
+            "options": [
+                "Peripheral artery disease",
+                "Atherosclerosis",
+                "Deep vein thrombosis",
+                "Varicose veins"
+            ],
+            "answer": "Peripheral artery disease"
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "quiz": [
+        {
+            "question": "Which is not a component of the respiratory system?",
+            "options": [
+                "Lungs",
+                "Trachea",
+                "Stomach",
+                "Bronchi"
+            ],
+            "answer": "Stomach"
+        },
+        {
+            "question": "Which organ is responsible for gas exchange in the respiratory system?",
+            "options": [
+                "Lungs",
+                "Esophagus",
+                "Liver",
+                "Gallbladder"
+            ],
+            "answer": "Lungs"
+        },
+        {
+            "question": "What is the function of the nasal cavity in the respiratory system?",
+            "options": [
+                "Filtering air",
+                "Producing mucus",
+                "Transporting air",
+                "None of the above"
+            ],
+            "answer": "Filtering air"
+        },
+        {
+            "question": "What is the medical term for the windpipe?",
+            "options": [
+                "Esophagus",
+                "Larynx",
+                "Trachea",
+                "Pharynx"
+            ],
+            "answer": "Trachea"
+        },
+        {
+            "question": "What is the function of the epiglottis?",
+            "options": [
+                "Preventing food from entering the trachea",
+                "Producing mucus",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Preventing food from entering the trachea"
+        },
+        {
+            "question": "What is the purpose of the bronchi?",
+            "options": [
+                "Transporting air to the lungs",
+                "Transporting air out of the body",
+                "Filtering air",
+                "Producing mucus"
+            ],
+            "answer": "Transporting air to the lungs"
+        },
+        {
+            "question": "What is the medical term for the voice box?",
+            "options": [
+                "Trachea",
+                "Pharynx",
+                "Epiglottis",
+                "Larynx"
+            ],
+            "answer": "Larynx"
+        },
+        {
+            "question": "What muscle is responsible for inhaling air?",
+            "options": [
+                "Diaphragm",
+                "Abdominals",
+                "Pectoralis major",
+                "Biceps"
+            ],
+            "answer": "Diaphragm"
+        },
+        {
+            "question": "What is the function of the alveoli?",
+            "options": [
+                "Gas exchange",
+                "Producing mucus",
+                "Transporting air",
+                "Filtering air"
+            ],
+            "answer": "Gas exchange"
+        },
+        {
+            "question": "What is the medical term for collapsed lung?",
+            "options": [
+                "Pneumothorax",
+                "Bronchitis",
+                "Emphysema",
+                "Hemothorax"
+            ],
+            "answer": "Pneumothorax"
+        },
+        {
+            "question": "What is the leading cause of lung cancer?",
+            "options": [
+                "Smoking",
+                "Poor diet",
+                "Lack of exercise",
+                "Pollution"
+            ],
+            "answer": "Smoking"
+        },
+        {
+            "question": "What is the purpose of the respiratory system?",
+            "options": [
+                "Breathing",
+                "Digestion",
+                "Circulation",
+                "Immunity"
+            ],
+            "answer": "Breathing"
+        },
+        {
+            "question": "What is the function of the cilia in the respiratory system?",
+            "options": [
+                "Moving mucus",
+                "Producing mucus",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Moving mucus"
+        },
+        {
+            "question": "What is the medical term for the common cold?",
+            "options": [
+                "Influenza",
+                "Rhinovirus",
+                "Pneumonia",
+                "Tuberculosis"
+            ],
+            "answer": "Rhinovirus"
+        },
+        {
+            "question": "What is the medical term for shortness of breath?",
+            "options": [
+                "Dyspnea",
+                "Hypoxia",
+                "Asthma",
+                "Bronchitis"
+            ],
+            "answer": "Dyspnea"
+        },
+        {
+            "question": "What is the main function of the bronchioles?",
+            "options": [
+                "Transporting air",
+                "Filtering air",
+                "Gas exchange",
+                "Producing mucus"
+            ],
+            "answer": "Gas exchange"
+        },
+        {
+            "question": "What is the medical term for the voice box?",
+            "options": [
+                "Trachea",
+                "Pharynx",
+                "Epiglottis",
+                "Larynx"
+            ],
+            "answer": "Larynx"
+        },
+        {
+            "question": "What is the function of the pleura in the respiratory system?",
+            "options": [
+                "Protecting the lungs",
+                "Filtering air",
+                "Transporting air",
+                "Producing mucus"
+            ],
+            "answer": "Protecting the lungs"
+        },
+        {
+            "question": "What is the medical term for difficulty breathing?",
+            "options": [
+                "Aphonia",
+                "Apnea",
+                "Dyspnea",
+                "Bronchospasm"
+            ],
+            "answer": "Dyspnea"
+        },
+        {
+            "question": "What is the purpose of the pharynx in the respiratory system?",
+            "options": [
+                "Transporting air and food",
+                "Producing mucus",
+                "Filtering air",
+                "Protecting the lungs"
+            ],
+            "answer": "Transporting air and food"
+        },
+        {
+            "question": "What is the function of the bronchial tubes?",
+            "options": [
+                "Transporting air to the lungs",
+                "Filtering air",
+                "Transporting air out of the body",
+                "Producing mucus"
+            ],
+            "answer": "Transporting air to the lungs"
+        },
+        {
+            "question": "What is the medical term for a lung infection?",
+            "options": [
+                "Pneumothorax",
+                "Bronchitis",
+                "Pneumonia",
+                "Emphysema"
+            ],
+            "answer": "Pneumonia"
+        },
+        {
+            "question": "What is the primary cause of COPD?",
+            "options": [
+                "Smoking",
+                "Pollution",
+                "Lack of exercise",
+                "Poor diet"
+            ],
+            "answer": "Smoking"
+        },
+        {
+            "question": "What is the function of the epiglottis?",
+            "options": [
+                "Preventing food from entering the trachea",
+                "Producing mucus",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Preventing food from entering the trachea"
+        },
+        {
+            "question": "What is the medical term for the condition where air sacs in the lungs are damaged?",
+            "options": [
+                "Bronchitis",
+                "Emphysema",
+                "Pneumonia",
+                "Pneumothorax"
+            ],
+            "answer": "Emphysema"
+        },
+        {
+            "question": "What is the function of the diaphragm in the respiratory system?",
+            "options": [
+                "Helps to inhale and exhale",
+                "Producing mucus",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Helps to inhale and exhale"
+        },
+        {
+            "question": "What is the function of the bronchial tree?",
+            "options": [
+                "Transporting air into the lungs",
+                "Transporting air out of the body",
+                "Filtering air",
+                "Producing mucus"
+            ],
+            "answer": "Transporting air into the lungs"
+        },
+        {
+            "question": "What is the medical term for the condition where the airways narrow and swell?",
+            "options": [
+                "Bronchitis",
+                "Emphysema",
+                "Asthma",
+                "Pneumonia"
+            ],
+            "answer": "Asthma"
+        },
+        {
+            "question": "What is the purpose of the larynx in the respiratory system?",
+            "options": [
+                "Producing sound",
+                "Transporting air and food",
+                "Protecting the lungs",
+                "Filtering air"
+            ],
+            "answer": "Producing sound"
+        },
+        {
+            "question": "What is the medical term for the inflammation of the bronchial tubes?",
+            "options": [
+                "Bronchitis",
+                "Emphysema",
+                "Asthma",
+                "Pneumonia"
+            ],
+            "answer": "Bronchitis"
+        },
+        {
+            "question": "What is the function of the surfactant in the respiratory system?",
+            "options": [
+                "Preventing the collapse of the alveoli",
+                "Filtering air",
+                "Transporting air",
+                "Producing mucus"
+            ],
+            "answer": "Preventing the collapse of the alveoli"
+        },
+        {
+            "question": "What is the medical term for the condition where there is fluid in the lungs?",
+            "options": [
+                "Pneumothorax",
+                "Hemothorax",
+                "Pulmonary edema",
+                "Tuberculosis"
+            ],
+            "answer": "Pulmonary edema"
+        },
+        {
+            "question": "What is the function of the tonsils in the respiratory system?",
+            "options": [
+                "Fight infection",
+                "Transporting air",
+                "Filtering air",
+                "Producing mucus"
+            ],
+            "answer": "Fight infection"
+        },
+        {
+            "question": "What is the medical term for the condition where the air sacs in the lungs are filled with pus?",
+            "options": [
+                "Pneumothorax",
+                "Bronchitis",
+                "Pneumonia",
+                "Emphysema"
+            ],
+            "answer": "Pneumonia"
+        },
+        {
+            "question": "What is the function of the trachea in the respiratory system?",
+            "options": [
+                "Transporting air to the lungs",
+                "Transporting air out of the body",
+                "Filtering air",
+                "Producing mucus"
+            ],
+            "answer": "Transporting air to the lungs"
+        },
+        {
+            "question": "What is the medical term for the condition where the lungs are scarred?",
+            "options": [
+                "Pneumothorax",
+                "Bronchitis",
+                "Pneumoconiosis",
+                "Emphysema"
+            ],
+            "answer": "Pneumoconiosis"
+        },
+        {
+            "question": "What is the function of the alveolar sacs in the respiratory system?",
+            "options": [
+                "Gas exchange",
+                "Producing mucus",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Gas exchange"
+        },
+        {
+            "question": "What is the medical term for the condition where there is blood in the chest cavity?",
+            "options": [
+                "Pneumothorax",
+                "Hemothorax",
+                "Pulmonary edema",
+                "Tuberculosis"
+            ],
+            "answer": "Hemothorax"
+        },
+        {
+            "question": "What is the function of the sinuses in the respiratory system?",
+            "options": [
+                "Filtering air",
+                "Transporting air",
+                "Producing mucus",
+                "None of the above"
+            ],
+            "answer": "None of the above"
+        },
+        {
+            "question": "What is the medical term for the condition where there is an obstruction of the airways?",
+            "options": [
+                "Apnea",
+                "Bronchitis",
+                "COPD",
+                "Bronchospasm"
+            ],
+            "answer": "Bronchospasm"
+        },
+        {
+            "question": "What is the function of the pulmonary artery in the respiratory system?",
+            "options": [
+                "Carrying deoxygenated blood to the lungs",
+                "Carrying oxygenated blood to the body",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Carrying deoxygenated blood to the lungs"
+        },
+        {
+            "question": "What is the medical term for the condition where there is a build-up of air in the chest cavity?",
+            "options": [
+                "Pneumothorax",
+                "Hemothorax",
+                "Pulmonary edema",
+                "Tuberculosis"
+            ],
+            "answer": "Pneumothorax"
+        },
+        {
+            "question": "What is the function of the pulmonary vein in the respiratory system?",
+            "options": [
+                "Carrying oxygenated blood to the heart",
+                "Carrying deoxygenated blood to the heart",
+                "Transporting air",
+                "Filtering air"
+            ],
+            "answer": "Carrying oxygenated blood to the heart"
+        },
+        {
+            "question": "What is the medical term for the condition where there is scarring of the lung tissue because of dust in the air?",
+            "options": [
+                "Pneumothorax",
+                "Bronchitis",
+                "Pneumoconiosis",
+                "Emphysema"
+            ],
+            "answer": "Pneumoconiosis"
+        },
+        {
+            "question": "What is the function of the bronchial arteries in the respiratory system?",
+            "options": [
+                "Supplying oxygenated blood to the bronchi",
+                "Supplying deoxygenated blood to the lungs",
+                "Filtering air",
+                "Transporting air"
+            ],
+            "answer": "Supplying oxygenated blood to the bronchi"
+        }
+    ]
+}
