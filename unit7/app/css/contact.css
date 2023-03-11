@@ -1,0 +1,49 @@
+.contact {
+    font-size: 1.1em;
+}
+
+label {
+    float: left;
+    margin: 5px;
+    clear: both;
+}
+
+input[type=text], input[type=email], textarea {
+    float: left;
+    margin: 5px;
+    clear: both;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.game-label {
+    color: white;
+    border-radius: 25px;
+    background-color: #53565e;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.test-label {
+    color: white;
+    border-radius: 25px;
+    background-color: #e46e4e;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.watch-label {
+    color: white;
+    border-radius: 25px;
+    background-color: #eccd42;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.read-label {
+    color: white;
+    border-radius: 25px;
+    background-color: #77a352;
+    padding: 10px;
+    opacity: 0.8;
+}

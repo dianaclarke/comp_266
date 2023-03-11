@@ -1,0 +1,56 @@
+.quiz {
+    background-image:
+        url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Light_Bulb_or_Idea_Flat_Icon_Vector.svg/256px-Light_Bulb_or_Idea_Flat_Icon_Vector.svg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top 40px right 40px;
+    background-size: 30%;
+    text-align: left;
+
+    /* https://stackoverflow.com/a/40366996 */
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+h4 {
+    /* quiz results */
+    text-align: center;
+    margin-top: 30px;
+    color: #53565e;
+    text-decoration: none;
+}
+
+li {
+    /* bold quiz question */
+    font-weight: bold;
+}
+
+li>ol {
+    /* question options */
+    list-style-type: lower-alpha;
+    margin-bottom: 30px;
+}
+
+li>ol>li {
+    /* question option */
+    font-weight: normal;
+}
+
+/*
+ *
+ * https://jqueryui.com/dialog/
+ *
+ */
+#dialog {
+    color: grey;
+}
+
+#dialog>ul>li {
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 10px;
+}
+
+.ui-dialog-title {
+    color: #e46e4e;
+}
