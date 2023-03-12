@@ -1,4 +1,30 @@
 //
+// Use OpenAI quiz bank to generate a chapter quiz.
+//
+function bank() {
+    // wait for quiz
+    $('#quiz-form').hide();
+    $('#quiz-form').parent().removeClass('quiz');
+    const please = $('<h4>Please wait... this should only take a few seconds.</h4>');
+    $('#quiz-form').parent().prepend(please);
+    const wait = $('<h3>Atrificial intelligence is creating a new quiz just for you!</h3>');
+    please.append(wait);
+
+    // grab quiz from bank
+    fetch('ai-bank.json').then((response) => response.json()).then((answer) => {
+        render(answer);
+        sleep(3000);
+
+        // quiz is ready
+        $('#quiz-form').parent().addClass('quiz');
+        $('#quiz-form').show();
+        please.hide();
+        wait.hide();
+    });
+}
+
+
+//
 // Use OpenAI to generate a chapter quiz based on the title subject.
 //
 function make() {
@@ -35,25 +61,25 @@ function make() {
     console.log(question); // intentionally logging
 
     // wait for quiz
+    $('#quiz-form').hide();
+    $('#quiz-form').parent().removeClass('quiz');
     const please = $('<h4>Please wait... this should only take a few seconds.</h4>');
+    $('#quiz-form').parent().prepend(please);
     const wait = $('<h3>Atrificial intelligence is creating a new quiz just for you!</h3>');
     please.append(wait);
-    $('#quiz-form').parent().append(please);
-    $('#quiz-form').parent().removeClass('quiz');
-    $('#quiz-form').hide();
 
     // quiz is generating
     openai(question).then((data) => {
         const answer = data['choices'][0]['message']['content'];
         console.log(answer);  // intentionally logging
-        render(answer);
-    });
+        render(JSON.parse(answer));
 
-    // quiz is ready
-    $('#quiz-form').parent().addClass('quiz');
-    $('#quiz-form').show();
-    please.hide();
-    wait.hide();
+        // quiz is ready
+        $('#quiz-form').parent().addClass('quiz');
+        $('#quiz-form').show();
+        please.hide();
+        wait.hide();
+    });
 }
 
 
@@ -73,7 +99,7 @@ async function openai(question) {
 function render(answer) {
     const questions = $('<ol></ol>');
     $('#quiz-form').prepend(questions);
-    const quiz = JSON.parse(answer)['quiz'];
+    const quiz = answer['quiz'];
     for (let i = 0; i < quiz.length; i++) {
         const question = $('<li></li>').text(quiz[i]['question']);
         questions.append(question);
@@ -96,14 +122,31 @@ function render(answer) {
 
 
 //
+// Sleep
+// https://www.sitepoint.com/delay-sleep-pause-wait/
+//
+function sleep(milliseconds) {
+    const date = Date.now();
+    let currentDate = null;
+    do {
+        currentDate = Date.now();
+    } while (currentDate - date < milliseconds);
+}
+
+
+//
 // On page load, randomize the quiz (if it passes validation).
 // If there are no quiz questions, generate them with AI.
 //
 $(function() {
     const quiz = new Quiz($('#quiz-form'));
     if (quiz.questions.length == 0) {
-        // no questions, generate quiz with AI
-        make();
+        // no questions, generate quiz from AI bank
+        bank();
+        //    --or--
+        // no questions, generate new quiz with AI
+        //    (too slow)
+        // make();
         return;
     }
     warnings = quiz.validate();
