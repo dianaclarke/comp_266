@@ -3,7 +3,7 @@
 //
 function make() {
     const subject = $('title').html().split(' - ')[1];
-    const question = `Create me a multiple choice anatomy 101 quiz about ${subject} with 4 questions.
+    const question = `Create me a multiple choice anatomy 101 quiz about ${subject} with 2 questions.
     There should be 4 options per question.
     Format the questions and answers in json like so:
 
@@ -46,34 +46,14 @@ function make() {
     openai(question).then((data) => {
         const answer = data['choices'][0]['message']['content'];
         console.log(answer);  // intentionally logging
-        const questions = $('<ol></ol>');
-        $('#quiz-form').prepend(questions);
-        const quiz = JSON.parse(answer)['quiz'];
-        for (let i = 0; i < quiz.length; i++) {
-            const question = $('<li></li>').text(quiz[i]['question']);
-            questions.append(question);
-            const options = $('<ol></ol>');
-            question.append(options);
-            for (let x = 0; x < quiz[i]['options'].length; x++) {
-                const input = $('<input></input>');
-                input.attr('name', `group-${i}`);
-                input.attr('type', 'radio');
-                const option = $('<li></li>');
-                option.text(quiz[i]['options'][x]);
-                options.append(option);
-                option.prepend(input);
-                if (quiz[i]['options'][x] === quiz[i]['answer']) {
-                    input.addClass('answer');
-                }
-            }
-        }
-
-        // quiz is ready
-        $('#quiz-form').parent().addClass('quiz');
-        $('#quiz-form').show();
-        please.hide();
-        wait.hide();
+        render(answer);
     });
+
+    // quiz is ready
+    $('#quiz-form').parent().addClass('quiz');
+    $('#quiz-form').show();
+    please.hide();
+    wait.hide();
 }
 
 
@@ -84,6 +64,35 @@ async function openai(question) {
     const response = await fetch(`/.netlify/functions/open-ai/open-ai.js?question=${question}`);
     return response.json();
 };
+
+
+//
+// Render a json formatted quiz.
+//
+
+function render(answer) {
+    const questions = $('<ol></ol>');
+    $('#quiz-form').prepend(questions);
+    const quiz = JSON.parse(answer)['quiz'];
+    for (let i = 0; i < quiz.length; i++) {
+        const question = $('<li></li>').text(quiz[i]['question']);
+        questions.append(question);
+        const options = $('<ol></ol>');
+        question.append(options);
+        for (let x = 0; x < quiz[i]['options'].length; x++) {
+            const input = $('<input></input>');
+            input.attr('name', `group-${i}`);
+            input.attr('type', 'radio');
+            const option = $('<li></li>');
+            option.text(quiz[i]['options'][x]);
+            options.append(option);
+            option.prepend(input);
+            if (quiz[i]['options'][x] === quiz[i]['answer']) {
+                input.addClass('answer');
+            }
+        }
+    }
+}
 
 
 //
