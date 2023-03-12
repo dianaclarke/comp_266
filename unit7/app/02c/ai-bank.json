@@ -1,0 +1,464 @@
+{
+    "quiz": [
+        {
+            "question": "Which of the following is not a type of connective tissue?",
+            "options": [
+                "Adipose tissue",
+                "Nerve tissue",
+                "Blood",
+                "Bone"
+            ],
+            "answer": "Nerve tissue"
+        },
+        {
+            "question": "What is the main function of connective tissue?",
+            "options": [
+                "To receive and transmit messages",
+                "To contract and move the body",
+                "To provide support and protection",
+                "To produce and store hormones"
+            ],
+            "answer": "To provide support and protection"
+        },
+        {
+            "question": "Which of the following is not a type of fiber found in connective tissue?",
+            "options": [
+                "Collagen",
+                "Elastic",
+                "Cartilage",
+                "Reticular"
+            ],
+            "answer": "Cartilage"
+        },
+        {
+            "question": "What is the function of collagen fibers?",
+            "options": [
+                "To provide flexibility and stretch",
+                "To allow for quick communication between cells",
+                "To provide strength and support",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To provide strength and support"
+        },
+        {
+            "question": "Which of the following is an example of loose connective tissue?",
+            "options": [
+                "Bone",
+                "Cartilage",
+                "Adipose tissue",
+                "Blood"
+            ],
+            "answer": "Adipose tissue"
+        },
+        {
+            "question": "What is the function of adipose tissue?",
+            "options": [
+                "To store calcium",
+                "To generate heat",
+                "To provide insulation and cushioning",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To provide insulation and cushioning"
+        },
+        {
+            "question": "Which of the following is not a type of cartilage?",
+            "options": [
+                "Elastic cartilage",
+                "Hyaline cartilage",
+                "Fibrous cartilage",
+                "Spongy cartilage"
+            ],
+            "answer": "Spongy cartilage"
+        },
+        {
+            "question": "What is the function of elastic cartilage?",
+            "options": [
+                "To provide flexibility and stretch",
+                "To allow for quick communication between cells",
+                "To provide strength and support",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To provide flexibility and stretch"
+        },
+        {
+            "question": "Which of the following is not a type of dense connective tissue?",
+            "options": [
+                "Regular",
+                "Irregular",
+                "Elastic",
+                "Fibrous"
+            ],
+            "answer": "Fibrous"
+        },
+        {
+            "question": "What is the function of blood?",
+            "options": [
+                "To provide support and protection",
+                "To transport oxygen and nutrients",
+                "To contract and move the body",
+                "To receive and transmit messages"
+            ],
+            "answer": "To transport oxygen and nutrients"
+        },
+        {
+            "question": "What is the function of reticular fibers?",
+            "options": [
+                "To provide flexibility and stretch",
+                "To allow for quick communication between cells",
+                "To provide movement and contractility",
+                "To provide a framework for organs and tissues"
+            ],
+            "answer": "To provide a framework for organs and tissues"
+        },
+        {
+            "question": "Which of the following is a function of connective tissue proper?",
+            "options": [
+                "To support and protect organs",
+                "To generate heat",
+                "To transport oxygen and nutrients",
+                "To receive and transmit messages"
+            ],
+            "answer": "To support and protect organs"
+        },
+        {
+            "question": "What is the function of ground substance in connective tissue?",
+            "options": [
+                "To provide strength and support",
+                "To provide flexibility and stretch",
+                "To allow for quick communication between cells",
+                "To fill the spaces between fibers and cells"
+            ],
+            "answer": "To fill the spaces between fibers and cells"
+        },
+        {
+            "question": "Which of the following is an example of specialized connective tissue?",
+            "options": [
+                "Muscle tissue",
+                "Nervous tissue",
+                "Epithelial tissue",
+                "Bone"
+            ],
+            "answer": "Bone"
+        },
+        {
+            "question": "What is the function of bone?",
+            "options": [
+                "To generate heat",
+                "To contract and move the body",
+                "To provide insulation and cushioning",
+                "To support and protect the body"
+            ],
+            "answer": "To support and protect the body"
+        },
+        {
+            "question": "Which of the following is not a type of bone cell?",
+            "options": [
+                "Osteoblasts",
+                "Osteoclasts",
+                "Osteocytes",
+                "Chondrocytes"
+            ],
+            "answer": "Chondrocytes"
+        },
+        {
+            "question": "What is the function of osteoclasts?",
+            "options": [
+                "To build new bone tissue",
+                "To secrete hormones",
+                "To break down old bone tissue",
+                "To store calcium"
+            ],
+            "answer": "To break down old bone tissue"
+        },
+        {
+            "question": "Which of the following is a characteristic of fibrous connective tissue?",
+            "options": [
+                "It connects bones to muscles",
+                "It is made up of collagen fibers",
+                "It forms the framework of organs",
+                "It is a gel-like substance"
+            ],
+            "answer": "It is made up of collagen fibers"
+        },
+        {
+            "question": "What is the function of hyaline cartilage?",
+            "options": [
+                "To provide flexibility and stretch",
+                "To transport oxygen and nutrients",
+                "To allow for quick communication between cells",
+                "To provide a smooth surface for joint movement"
+            ],
+            "answer": "To provide a smooth surface for joint movement"
+        },
+        {
+            "question": "Which of the following is not a function of connective tissue?",
+            "options": [
+                "To contract and move the body",
+                "To provide support and protection",
+                "To store fat and nutrients",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To contract and move the body"
+        },
+        {
+            "question": "What is the function of elastic fibers?",
+            "options": [
+                "To provide flexibility and stretch",
+                "To allow for quick communication between cells",
+                "To provide strength and support",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To provide flexibility and stretch"
+        },
+        {
+            "question": "Which of the following is not a type of specialized connective tissue?",
+            "options": [
+                "Adipose tissue",
+                "Nutrient cartilage",
+                "Osseous tissue",
+                "Hematopoietic tissue"
+            ],
+            "answer": "Adipose tissue"
+        },
+        {
+            "question": "What is the function of hematopoietic tissue?",
+            "options": [
+                "To produce and store hormones",
+                "To generate heat",
+                "To contract and move the body",
+                "To produce blood cells"
+            ],
+            "answer": "To produce blood cells"
+        },
+        {
+            "question": "Which of the following is not a type of connective tissue proper?",
+            "options": [
+                "Areolar",
+                "Reticular",
+                "Adipose",
+                "Elastic"
+            ],
+            "answer": "Elastic"
+        },
+        {
+            "question": "What is the function of fibrous cartilage?",
+            "options": [
+                "To absorb shock and reduce friction",
+                "To provide a smooth surface for joint movement",
+                "To provide support and protection",
+                "To store fat and nutrients"
+            ],
+            "answer": "To absorb shock and reduce friction"
+        },
+        {
+            "question": "Which of the following is a function of connective tissue proper?",
+            "options": [
+                "To generate heat",
+                "To transport oxygen and nutrients",
+                "To store calcium",
+                "To support and protect organs"
+            ],
+            "answer": "To support and protect organs"
+        },
+        {
+            "question": "What is the function of osteocytes?",
+            "options": [
+                "To build new bone tissue",
+                "To break down old bone tissue",
+                "To store calcium",
+                "To maintain bone tissue"
+            ],
+            "answer": "To maintain bone tissue"
+        },
+        {
+            "question": "Which of the following is not a characteristic of adipose tissue?",
+            "options": [
+                "It is a type of loose connective tissue",
+                "It is made up of adipocytes",
+                "It provides insulation and cushioning",
+                "It forms the framework of organs"
+            ],
+            "answer": "It forms the framework of organs"
+        },
+        {
+            "question": "What is the function of elastic cartilage?",
+            "options": [
+                "To provide a smooth surface for joint movement",
+                "To absorb shock and reduce friction",
+                "To provide flexibility and stretch",
+                "To provide support and protection"
+            ],
+            "answer": "To provide flexibility and stretch"
+        },
+        {
+            "question": "Which of the following is a function of dense connective tissue?",
+            "options": [
+                "To transport oxygen and nutrients",
+                "To provide support and protection",
+                "To contract and move the body",
+                "To absorb shock and reduce friction"
+            ],
+            "answer": "To provide support and protection"
+        },
+        {
+            "question": "What is the function of areolar tissue?",
+            "options": [
+                "To provide a framework for organs",
+                "To provide insulation and cushioning",
+                "To transport oxygen and nutrients",
+                "To fill spaces between organs and tissues"
+            ],
+            "answer": "To fill spaces between organs and tissues"
+        },
+        {
+            "question": "Which of the following is not a function of bone?",
+            "options": [
+                "To support and protect the body",
+                "To generate heat",
+                "To store minerals",
+                "To produce and store blood cells"
+            ],
+            "answer": "To generate heat"
+        },
+        {
+            "question": "What is the function of adipocytes?",
+            "options": [
+                "To build new bone tissue",
+                "To break down old bone tissue",
+                "To store calcium",
+                "To store fat"
+            ],
+            "answer": "To store fat"
+        },
+        {
+            "question": "Which of the following is a function of reticular connective tissue?",
+            "options": [
+                "To provide insulation and cushioning",
+                "To produce hormones",
+                "To transport oxygen and nutrients",
+                "To form the framework of organs"
+            ],
+            "answer": "To form the framework of organs"
+        },
+        {
+            "question": "What is the function of chondrocytes?",
+            "options": [
+                "To maintain cartilage tissue",
+                "To build new bone tissue",
+                "To break down old bone tissue",
+                "To produce and store blood cells"
+            ],
+            "answer": "To maintain cartilage tissue"
+        },
+        {
+            "question": "Which type of connective tissue contains a mineralized matrix?",
+            "options": [
+                "Blood",
+                "Dense connective tissue",
+                "Cartilage",
+                "Bone"
+            ],
+            "answer": "Bone"
+        },
+        {
+            "question": "What is the function of elastic tissue?",
+            "options": [
+                "To provide support and protection",
+                "To allow for quick communication between cells",
+                "To provide flexibility and stretch",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To provide flexibility and stretch"
+        },
+        {
+            "question": "Which of the following is not a characteristic of reticular tissue?",
+            "options": [
+                "It is a type of loose connective tissue",
+                "It forms the framework of organs",
+                "It is made up of reticular fibers",
+                "It stores fat and nutrients"
+            ],
+            "answer": "It stores fat and nutrients"
+        },
+        {
+            "question": "What is the function of osteoblasts?",
+            "options": [
+                "To build new bone tissue",
+                "To break down old bone tissue",
+                "To maintain bone tissue",
+                "To store calcium"
+            ],
+            "answer": "To build new bone tissue"
+        },
+        {
+            "question": "Which of the following is a function of elastic connective tissue?",
+            "options": [
+                "To produce and store hormones",
+                "To provide insulation and cushioning",
+                "To provide support and protection",
+                "To maintain shape and structure"
+            ],
+            "answer": "To maintain shape and structure"
+        },
+        {
+            "question": "What is the function of fibroblasts?",
+            "options": [
+                "To break down old bone tissue",
+                "To build new bone tissue",
+                "To maintain bone tissue",
+                "To produce and maintain connective tissue fibers"
+            ],
+            "answer": "To produce and maintain connective tissue fibers"
+        },
+        {
+            "question": "Which of the following is not a function of cartilage?",
+            "options": [
+                "To provide support and protection",
+                "To allow for quick communication between cells",
+                "To provide a smooth surface for joint movement",
+                "To transport oxygen and nutrients"
+            ],
+            "answer": "To transport oxygen and nutrients"
+        },
+        {
+            "question": "What is the function of synovial fluid in joints?",
+            "options": [
+                "To reduce friction between bones",
+                "To store and transport nutrients",
+                "To absorb shock",
+                "To produce hormones"
+            ],
+            "answer": "To reduce friction between bones"
+        },
+        {
+            "question": "Which type of connective tissue is found in tendons and ligaments?",
+            "options": [
+                "Hyaline cartilage",
+                "Elastic cartilage",
+                "Fibrocartilage",
+                "Reticular tissue"
+            ],
+            "answer": "Fibrocartilage"
+        },
+        {
+            "question": "What is the function of mesenchyme?",
+            "options": [
+                "To produce and store hormones",
+                "To transport oxygen and nutrients",
+                "To generate heat",
+                "To produce and maintain connective tissue"
+            ],
+            "answer": "To produce and maintain connective tissue"
+        },
+        {
+            "question": "Which of the following is a function of dense regular connective tissue?",
+            "options": [
+                "To transport oxygen and nutrients",
+                "To absorb shock and reduce friction",
+                "To provide a smooth surface for joint movement",
+                "To connect bone to bone or muscle to bone"
+            ],
+            "answer": "To connect bone to bone or muscle to bone"
+        }
+    ]
+}

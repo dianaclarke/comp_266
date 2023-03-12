@@ -1,0 +1,484 @@
+{
+    "quiz": [
+        {
+            "question": "Which bone is known as the collarbone?",
+            "options": [
+                "Scapula",
+                "Tibia",
+                "Femur",
+                "Clavicle"
+            ],
+            "answer": "Clavicle"
+        },
+        {
+            "question": "Which joint allows for rotational movement of the head?",
+            "options": [
+                "Saddle Joint",
+                "Hinge Joint",
+                "Pivot Joint",
+                "Ball and Socket Joint"
+            ],
+            "answer": "Pivot Joint"
+        },
+        {
+            "question": "What is the main function of red marrow in bones?",
+            "options": [
+                "Production of red blood cells",
+                "Production of white blood cells",
+                "Storage of minerals",
+                "Lubrication of joints"
+            ],
+            "answer": "Production of red blood cells"
+        },
+        {
+            "question": "Which bone is located in the forearm?",
+            "options": [
+                "Femur",
+                "Humerus",
+                "Radius",
+                "Tibia"
+            ],
+            "answer": "Radius"
+        },
+        {
+            "question": "What type of bone is the patella?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Sesamoid bone"
+        },
+        {
+            "question": "Which bone makes up the lower jaw?",
+            "options": [
+                "Mandible",
+                "Maxilla",
+                "Zygomatic",
+                "Hyoid"
+            ],
+            "answer": "Mandible"
+        },
+        {
+            "question": "What is the technical term for the shoulder blade?",
+            "options": [
+                "Scapula",
+                "Sternum",
+                "Clavicle",
+                "Radius"
+            ],
+            "answer": "Scapula"
+        },
+        {
+            "question": "Which type of joint is the elbow joint?",
+            "options": [
+                "Ball and Socket Joint",
+                "Hinge Joint",
+                "Pivot Joint",
+                "Saddle Joint"
+            ],
+            "answer": "Hinge Joint"
+        },
+        {
+            "question": "What is the largest bone in the human body?",
+            "options": [
+                "Femur",
+                "Humerus",
+                "Tibia",
+                "Fibula"
+            ],
+            "answer": "Femur"
+        },
+        {
+            "question": "Which bone is known as the shinbone?",
+            "options": [
+                "Fibula",
+                "Humerus",
+                "Tibia",
+                "Patella"
+            ],
+            "answer": "Tibia"
+        },
+        {
+            "question": "What is the technical term for the kneecap?",
+            "options": [
+                "Patella",
+                "Tibia",
+                "Femur",
+                "Fibula"
+            ],
+            "answer": "Patella"
+        },
+        {
+            "question": "Which bone is located in the upper arm?",
+            "options": [
+                "Radius",
+                "Femur",
+                "Humerus",
+                "Tibia"
+            ],
+            "answer": "Humerus"
+        },
+        {
+            "question": "What type of bone is the vertebrae?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Irregular bone"
+        },
+        {
+            "question": "Which bone is known as the tailbone?",
+            "options": [
+                "Sacrum",
+                "Coccyx",
+                "Sternum",
+                "Clavicle"
+            ],
+            "answer": "Coccyx"
+        },
+        {
+            "question": "What is the technical term for the breastbone?",
+            "options": [
+                "Scapula",
+                "Clavicle",
+                "Sternum",
+                "Radius"
+            ],
+            "answer": "Sternum"
+        },
+        {
+            "question": "Which bone is located in the lower leg?",
+            "options": [
+                "Femur",
+                "Humerus",
+                "Tibia",
+                "Radius"
+            ],
+            "answer": "Tibia"
+        },
+        {
+            "question": "What type of bone is the skull?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Flat bone"
+        },
+        {
+            "question": "Which bone is located in the wrist?",
+            "options": [
+                "Metacarpals",
+                "Phalanges",
+                "Carpals",
+                "Radius"
+            ],
+            "answer": "Carpals"
+        },
+        {
+            "question": "What type of joint is the hip joint?",
+            "options": [
+                "Ball and Socket Joint",
+                "Hinge Joint",
+                "Pivot Joint",
+                "Saddle Joint"
+            ],
+            "answer": "Ball and Socket Joint"
+        },
+        {
+            "question": "How many ribs are in the human body?",
+            "options": [
+                "10",
+                "12",
+                "14",
+                "16"
+            ],
+            "answer": "12"
+        },
+        {
+            "question": "What is the technical term for the anklebone?",
+            "options": [
+                "Talus",
+                "Metatarsals",
+                "Calcaneus",
+                "Tarsals"
+            ],
+            "answer": "Talus"
+        },
+        {
+            "question": "Which bone is known as the shoulder blade?",
+            "options": [
+                "Clavicle",
+                "Radius",
+                "Scapula",
+                "Humerus"
+            ],
+            "answer": "Scapula"
+        },
+        {
+            "question": "What is the technical term for the knee joint?",
+            "options": [
+                "Patellofemoral Joint",
+                "Malleolus Joint",
+                "Lumbar Joint",
+                "Sacroiliac Joint"
+            ],
+            "answer": "Patellofemoral Joint"
+        },
+        {
+            "question": "Which bone is located in the foot?",
+            "options": [
+                "Phalanges",
+                "Metacarpals",
+                "Tarsals",
+                "Carpals"
+            ],
+            "answer": "Tarsals"
+        },
+        {
+            "question": "What type of bone is the ribcage?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Flat bone"
+        },
+        {
+            "question": "Which bone is located in the back of the skull?",
+            "options": [
+                "Mandible",
+                "Occipital",
+                "Maxilla",
+                "Temporal"
+            ],
+            "answer": "Occipital"
+        },
+        {
+            "question": "What is the technical term for the eyebrow bone?",
+            "options": [
+                "Frontal Bone",
+                "Sphenoid Bone",
+                "Ethmoid Bone",
+                "Zygomatic Bone"
+            ],
+            "answer": "Frontal Bone"
+        },
+        {
+            "question": "Which bone is located in the finger?",
+            "options": [
+                "Metacarpals",
+                "Phalanges",
+                "Carpals",
+                "Radius"
+            ],
+            "answer": "Phalanges"
+        },
+        {
+            "question": "What is the technical term for the kneecap?",
+            "options": [
+                "Patella",
+                "Tibia",
+                "Femur",
+                "Fibula"
+            ],
+            "answer": "Patella"
+        },
+        {
+            "question": "What type of joint is the shoulder joint?",
+            "options": [
+                "Ball and Socket Joint",
+                "Hinge Joint",
+                "Pivot Joint",
+                "Saddle Joint"
+            ],
+            "answer": "Ball and Socket Joint"
+        },
+        {
+            "question": "What is the technical term for the tailbone?",
+            "options": [
+                "Sacrum",
+                "Coccyx",
+                "Sternum",
+                "Clavicle"
+            ],
+            "answer": "Coccyx"
+        },
+        {
+            "question": "Which bone is located in the upper leg?",
+            "options": [
+                "Tibia",
+                "Femur",
+                "Humerus",
+                "Fibula"
+            ],
+            "answer": "Femur"
+        },
+        {
+            "question": "What type of bone is the pelvis?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Irregular bone"
+        },
+        {
+            "question": "Which bone is located in the lower arm?",
+            "options": [
+                "Humerus",
+                "Radius",
+                "Tibia",
+                "Fibula"
+            ],
+            "answer": "Radius"
+        },
+        {
+            "question": "What is the technical term for the wrist joint?",
+            "options": [
+                "Carpometacarpal Joint",
+                "Carpal Joint",
+                "Elbow Joint",
+                "Shoulder Joint"
+            ],
+            "answer": "Carpal Joint"
+        },
+        {
+            "question": "Which bone is known as the shoulder blade?",
+            "options": [
+                "Clavicle",
+                "Radius",
+                "Scapula",
+                "Humerus"
+            ],
+            "answer": "Scapula"
+        },
+        {
+            "question": "What is the technical term for the collarbone?",
+            "options": [
+                "Scapula",
+                "Clavicle",
+                "Sternum",
+                "Radius"
+            ],
+            "answer": "Clavicle"
+        },
+        {
+            "question": "Which bone is located in the forearm?",
+            "options": [
+                "Humerus",
+                "Tibia",
+                "Fibula",
+                "Radius"
+            ],
+            "answer": "Radius"
+        },
+        {
+            "question": "What type of bone is the jaw bone?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Irregular bone"
+        },
+        {
+            "question": "Which bone is located in the hand?",
+            "options": [
+                "Radius",
+                "Phalanges",
+                "Tarsals",
+                "Fibula"
+            ],
+            "answer": "Phalanges"
+        },
+        {
+            "question": "What is the technical term for the shinbone?",
+            "options": [
+                "Fibula",
+                "Humerus",
+                "Tibia",
+                "Patella"
+            ],
+            "answer": "Tibia"
+        },
+        {
+            "question": "Which type of joint is the ankle joint?",
+            "options": [
+                "Ball and Socket Joint",
+                "Hinge Joint",
+                "Pivot Joint",
+                "Saddle Joint"
+            ],
+            "answer": "Hinge Joint"
+        },
+        {
+            "question": "How many bones are in the adult human body?",
+            "options": [
+                "206",
+                "210",
+                "216",
+                "220"
+            ],
+            "answer": "206"
+        },
+        {
+            "question": "Which bone is located in the thumb?",
+            "options": [
+                "Metacarpals",
+                "Phalanges",
+                "Carpals",
+                "Radius"
+            ],
+            "answer": "Phalanges"
+        },
+        {
+            "question": "What type of bone is the heel bone?",
+            "options": [
+                "Flat bone",
+                "Irregular bone",
+                "Long bone",
+                "Sesamoid bone"
+            ],
+            "answer": "Irregular bone"
+        },
+        {
+            "question": "Which bone is known as the kneecap?",
+            "options": [
+                "Patella",
+                "Tibia",
+                "Femur",
+                "Fibula"
+            ],
+            "answer": "Patella"
+        },
+        {
+            "question": "What is the technical term for the ankle?",
+            "options": [
+                "Talus",
+                "Calcaneus",
+                "Metatarsals",
+                "Tarsals"
+            ],
+            "answer": "Ankle"
+        },
+        {
+            "question": "Which bone is located in the thigh?",
+            "options": [
+                "Tibia",
+                "Patella",
+                "Femur",
+                "Radius"
+            ],
+            "answer": "Femur"
+        }
+    ]
+}
