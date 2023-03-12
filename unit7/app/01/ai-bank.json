@@ -161,8 +161,7 @@
             "answer": "All of the above"
         },
         {
-            "question": "Which part of the brain is responsible for regulating balance and 
-coordination?",
+            "question": "Which part of the brain is responsible for regulating balance and coordination?",
             "options": [
                 "Cerebellum",
                 "Cerebrum",
@@ -252,8 +251,7 @@ coordination?",
             "answer": "Periosteum"
         },
         {
-            "question": "What is the name of the process by which bone tissue is broken down and 
-reabsorbed?",
+            "question": "What is the name of the process by which bone tissue is broken down and reabsorbed?",
             "options": [
                 "Osteoblast Activity",
                 "Osteoclast Activity",
@@ -283,8 +281,7 @@ reabsorbed?",
             "answer": "Pericardium"
         },
         {
-            "question": "Which bone in the body is the only one that does not articulate with 
-another bone?",
+            "question": "Which bone in the body is the only one that does not articulate with another bone?",
             "options": [
                 "Hyoid Bone",
                 "Patella",
@@ -324,8 +321,7 @@ another bone?",
             "answer": "Bronchiole"
         },
         {
-            "question": "What is the name of the hormone that stimulates contraction of smooth 
-muscle in the uterus during childbirth?",
+            "question": "What is the name of the hormone that stimulates contraction of smooth muscle in the uterus during childbirth?",
             "options": [
                 "Oxytocin",
                 "Estrogen",
@@ -395,8 +391,7 @@ muscle in the uterus during childbirth?",
             "answer": "Melanin"
         },
         {
-            "question": "What is the name of the bone in the lower leg that articulates with the 
-femur?",
+            "question": "What is the name of the bone in the lower leg that articulates with the femur?",
             "options": [
                 "Tibia",
                 "Fibula",
@@ -406,8 +401,7 @@ femur?",
             "answer": "Tibia"
         },
         {
-            "question": "Which of the following is a type of white blood cell that produces 
-antibodies?",
+            "question": "Which of the following is a type of white blood cell that produces antibodies?",
             "options": [
                 "T Cell",
                 "B Cell",
@@ -447,8 +441,7 @@ antibodies?",
             "answer": "Myocyte"
         },
         {
-            "question": "What is the name of the muscle that separates the abdominal cavity from the 
-pelvic cavity?",
+            "question": "What is the name of the muscle that separates the abdominal cavity from the pelvic cavity?",
             "options": [
                 "Rectus Abdominis",
                 "Obliquus Externus",
@@ -458,8 +451,7 @@ pelvic cavity?",
             "answer": "Obliquus Externus"
         },
         {
-            "question": "What is the name of the hormone that prevents excessive blood sugar 
-levels?",
+            "question": "What is the name of the hormone that prevents excessive blood sugar levels?",
             "options": [
                 "Insulin",
                 "Glucagon",
@@ -490,4 +482,3 @@ levels?",
         }
     ]
 }
-
