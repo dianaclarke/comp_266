@@ -2,7 +2,7 @@
 // On page load, render a randomized quiz.
 //
 $(function() {
-    Quiz.generate('bank').shuffle();
+    Quiz.generate('bank');
 });
 
 
@@ -25,25 +25,10 @@ $(function() {
 // Use OpenAI quiz bank to generate a chapter quiz.
 //
 function bank() {
-    // wait for quiz
-    $('#quiz-form').hide();
-    $('#quiz-form').parent().removeClass('quiz');
-    const please = $('<h4>Please wait... this should only take a few seconds.</h4>');
-    $('#quiz-form').parent().prepend(please);
-    const wait = $('<h3>Atrificial intelligence is creating a new quiz just for you!</h3>');
-    please.append(wait);
-
-    // grab quiz from bank
-    fetch('ai-bank.json').then((response) => response.json()).then((answer) => {
-        render(answer);
-        sleep(3000);
-
-        // quiz is ready
-        $('#quiz-form').parent().addClass('quiz');
-        $('#quiz-form').show();
-        please.hide();
-        wait.hide();
-    });
+    fetch('ai-bank.json').then(
+        (response) => response.json()).then(
+            (answer) => render(answer)).then(
+                (_) => new Quiz($('#quiz-form')).shuffle());
 }
 
 
@@ -96,6 +81,7 @@ function make() {
         const answer = data['choices'][0]['message']['content'];
         console.log(answer);  // intentionally logging
         render(JSON.parse(answer));
+        new Quiz($('#quiz-form')).shuffle();
 
         // quiz is ready
         $('#quiz-form').parent().addClass('quiz');
@@ -182,27 +168,26 @@ class Quiz extends Moveable {
     // Generate a new quiz using AI.
     // (unless one is already defined in the HTML)
     //
-    static generate(source) {
+    static generate(strategy) {
         const quiz = new Quiz($('#quiz-form'));
         if (quiz.questions.length == 0) {
-            if (source === 'bank') {
+            if (strategy === 'bank') {
                 // no questions, generate quiz from AI bank
                 bank();
-            } else if (source === 'make') {
+            } else if (strategy === 'make') {
                 // no questions, generate new quiz with AI
                 // (probably too slow – netflify timeout)
                 make();
             }
-            return new Quiz($('#quiz-form'));
+        } else {
+            quiz.shuffle();
         }
-        return quiz;
     }
 
     //
     // Shuffle the quiz: randomize if it passes validation.
     //
     shuffle() {
-        // window.alert(`shuffle ${this.questions.length}`);
         const warnings = this.validate();
         if (warnings.length > 0) {
             const ul = $('<ul></ul>');
