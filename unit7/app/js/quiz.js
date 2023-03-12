@@ -1,4 +1,27 @@
 //
+// On page load, render a randomized quiz.
+//
+$(function() {
+    Quiz.generate('bank').shuffle();
+});
+
+
+//
+// On page submit, grade the quiz.
+// Do not refresh page on submit from:
+//     https://stackoverflow.com/a/19454346
+//
+$(function() {
+    const form = $('#quiz-form');
+    function submit(event) {
+        event.preventDefault();
+        new Quiz(form).grade();
+    }
+    form.submit(submit);
+});
+
+
+//
 // Use OpenAI quiz bank to generate a chapter quiz.
 //
 function bank() {
@@ -95,7 +118,6 @@ async function openai(question) {
 //
 // Render a json formatted quiz.
 //
-
 function render(answer) {
     const questions = $('<ol></ol>');
     $('#quiz-form').prepend(questions);
@@ -122,73 +144,6 @@ function render(answer) {
 
 
 //
-// Sleep
-// https://www.sitepoint.com/delay-sleep-pause-wait/
-//
-function sleep(milliseconds) {
-    const date = Date.now();
-    let currentDate = null;
-    do {
-        currentDate = Date.now();
-    } while (currentDate - date < milliseconds);
-}
-
-
-//
-// On page load, randomize the quiz (if it passes validation).
-// If there are no quiz questions, generate them with AI.
-//
-$(function() {
-    const quiz = new Quiz($('#quiz-form'));
-    if (quiz.questions.length == 0) {
-        // no questions, generate quiz from AI bank
-        bank();
-        //    --or--
-        // no questions, generate new quiz with AI
-        //    (too slow)
-        // make();
-        return;
-    }
-    warnings = quiz.validate();
-    if (warnings.length > 0) {
-        const ul = $('<ul></ul>');
-        $('#dialog').append(ul);
-        for (let i = 0; i < warnings.length; i++) {
-            ul.append($('<li></li>').text(warnings[i]));
-        }
-
-        // https://stackoverflow.com/a/18276997
-        // TODO: figure out how to remove the blue in general
-        $.ui.dialog.prototype._focusTabbable = function() { };
-
-        // https://jqueryui.com/dialog/
-        $('#dialog').dialog({
-            title: 'Quiz Validation',
-        });
-    } else {
-        quiz.randomize();
-    }
-});
-
-
-//
-// Add an on submit event listener to the quiz form (to grade quiz).
-//
-// Do not refresh page on submit from:
-//     https://stackoverflow.com/a/19454346
-//
-$(function() {
-    const form = $('#quiz-form');
-    function submit(event) {
-        event.preventDefault();
-        const quiz = new Quiz(form);
-        quiz.grade();
-    }
-    form.submit(submit);
-});
-
-
-//
 // Moveable mixin (to reorder quiz questions and options).
 //
 class Moveable {
@@ -206,7 +161,9 @@ class Moveable {
     }
 
     move(index) {
-        $(this.list).append(this.list.children[index]);
+        if (typeof this.list !== 'undefined') {
+            $(this.list).append(this.list.children[index]);
+        }
     }
 }
 
@@ -219,6 +176,52 @@ class Quiz extends Moveable {
         super(quiz);
         this.questions = [];
         super.fill(this.questions, Question);
+    }
+
+    //
+    // Generate a new quiz using AI.
+    // (unless one is already defined in the HTML)
+    //
+    static generate(source) {
+        const quiz = new Quiz($('#quiz-form'));
+        if (quiz.questions.length == 0) {
+            if (source === 'bank') {
+                // no questions, generate quiz from AI bank
+                bank();
+            } else if (source === 'make') {
+                // no questions, generate new quiz with AI
+                // (probably too slow – netflify timeout)
+                make();
+            }
+            return new Quiz($('#quiz-form'));
+        }
+        return quiz;
+    }
+
+    //
+    // Shuffle the quiz: randomize if it passes validation.
+    //
+    shuffle() {
+        // window.alert(`shuffle ${this.questions.length}`);
+        const warnings = this.validate();
+        if (warnings.length > 0) {
+            const ul = $('<ul></ul>');
+            $('#dialog').append(ul);
+            for (let i = 0; i < warnings.length; i++) {
+                ul.append($('<li></li>').text(warnings[i]));
+            }
+
+            // https://stackoverflow.com/a/18276997
+            // TODO: figure out how to remove the blue in general
+            $.ui.dialog.prototype._focusTabbable = function() { };
+
+            // https://jqueryui.com/dialog/
+            $('#dialog').dialog({
+                title: 'Quiz Validation',
+            });
+        } else {
+            this.randomize();
+        }
     }
 
     //
@@ -320,7 +323,6 @@ class Quiz extends Moveable {
 }
 
 
-
 //
 // Question model.
 //
@@ -406,4 +408,16 @@ class Option {
         this.element.style.color = '#53565e';
         this.element.style.border = 'none';
     }
+}
+
+
+//
+// https://www.sitepoint.com/delay-sleep-pause-wait/
+//
+function sleep(milliseconds) {
+    const date = Date.now();
+    let currentDate = null;
+    do {
+        currentDate = Date.now();
+    } while (currentDate - date < milliseconds);
 }
