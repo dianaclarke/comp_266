@@ -1,8 +1,102 @@
 //
+// Use OpenAI to generate a chapter quiz based on the title subject.
+//
+function make() {
+    const subject = $('title').html().split(' - ')[1];
+    const question = `Create me a multiple choice anatomy 101 quiz about ${subject} with 4 questions.
+    There should be 4 options per question.
+    Format the questions and answers in json like so:
+
+{
+    "quiz": [
+        {
+            "question": "Where is Edmonton?",
+            "options": [
+                "Canada",
+                "Mexico",
+                "Germany",
+                "France"
+            ],
+            "answer": "Canada"
+        },
+        {
+            "question": "Where is Calgary?",
+            "options": [
+                "Germany",
+                "France",
+                "Canada",
+                "Mexico"
+            ],
+            "answer": "Canada"
+        }
+    ]
+}
+    `;
+    console.log(question); // intentionally logging
+
+    // wait for quiz
+    const please = $('<h4>Please wait... this should only take a few seconds.</h4>');
+    const wait = $('<h3>Atrificial intelligence is creating a new quiz just for you!</h3>');
+    please.append(wait);
+    $('#quiz-form').parent().append(please);
+    $('#quiz-form').parent().removeClass('quiz');
+    $('#quiz-form').hide();
+
+    // quiz is generating
+    openai(question).then((data) => {
+        const answer = data['choices'][0]['message']['content'];
+        console.log(answer);  // intentionally logging
+        const questions = $('<ol></ol>');
+        $('#quiz-form').prepend(questions);
+        const quiz = JSON.parse(answer)['quiz'];
+        for (let i = 0; i < quiz.length; i++) {
+            const question = $('<li></li>').text(quiz[i]['question']);
+            questions.append(question);
+            const options = $('<ol></ol>');
+            question.append(options);
+            for (let x = 0; x < quiz[i]['options'].length; x++) {
+                const input = $('<input></input>');
+                input.attr('name', `group-${i}`);
+                input.attr('type', 'radio');
+                const option = $('<li></li>');
+                option.text(quiz[i]['options'][x]);
+                options.append(option);
+                option.prepend(input);
+                if (quiz[i]['options'][x] === quiz[i]['answer']) {
+                    input.addClass('answer');
+                }
+            }
+        }
+
+        // quiz is ready
+        $('#quiz-form').parent().addClass('quiz');
+        $('#quiz-form').show();
+        please.hide();
+        wait.hide();
+    });
+}
+
+
+//
+// Using Netlify a function, query OpenAI.
+//
+async function openai(question) {
+    const response = await fetch(`/.netlify/functions/open-ai/open-ai.js?question=${question}`);
+    return response.json();
+};
+
+
+//
 // On page load, randomize the quiz (if it passes validation).
+// If there are no quiz questions, generate them with AI.
 //
 $(function() {
     const quiz = new Quiz($('#quiz-form'));
+    if (quiz.questions.length == 0) {
+        // no questions, generate quiz with AI
+        make();
+        return;
+    }
     warnings = quiz.validate();
     if (warnings.length > 0) {
         const ul = $('<ul></ul>');
@@ -52,8 +146,10 @@ class Moveable {
     }
 
     fill(array, type) {
-        for (let i = 0; i < this.list.children.length; i++) {
-            array.push(new type(this.list.children[i]));
+        if (typeof this.list !== 'undefined') {
+            for (let i = 0; i < this.list.children.length; i++) {
+                array.push(new type(this.list.children[i]));
+            }
         }
     }
 

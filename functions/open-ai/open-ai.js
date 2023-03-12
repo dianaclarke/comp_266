@@ -19,7 +19,7 @@ const handler = async (event) => {
     const config = {
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${OPEN_AI_API_KEY}`
+            'Authorization': `Bearer ${OPEN_AI_API_KEY}`,
         }
     };
 
