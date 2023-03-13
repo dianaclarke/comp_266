@@ -47,3 +47,7 @@ input[type=text], input[type=email], textarea {
     padding: 10px;
     opacity: 0.8;
 }
+
+.g-recaptcha {
+    padding-left: 5px;
+}

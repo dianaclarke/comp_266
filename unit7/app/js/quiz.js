@@ -22,13 +22,43 @@ $(function() {
 
 
 //
+// Display quiz error.
+//
+function quizError(message) {
+    const msg = $('<h3>Quiz could not be loaded.</h3>');
+    const why = $(`<h5>${message}</h5>`);
+    msg.append(why);
+    $('#quiz-form').hide();
+    $('#quiz-form').parent().prepend(msg);
+    $('#quiz-form').parent().removeClass('quiz');
+}
+
+//
 // Use OpenAI quiz bank to generate a chapter quiz.
 //
 function bank() {
+    if (window.location.href.startsWith('file://')) {
+        quizError('because URL starts with file://');
+        return;
+    }
+
     fetch('ai-bank.json').then(
-        (response) => response.json()).then(
-            (answer) => render(answer)).then(
-                (_) => new Quiz($('#quiz-form')).shuffle());
+        (response) => {
+            if (response.ok) {
+                return response.json();
+            } else {
+                throw new Error(`${response.status}: ${response.statusText}`);
+            }
+        }).then(
+            (answer) => {
+                render(answer);
+            }).then(
+                (_) => {
+                    new Quiz($('#quiz-form')).shuffle();
+                }).catch(
+                    (error) => {
+                        quizError(error.message);
+                    });
 }
 
 
@@ -36,6 +66,11 @@ function bank() {
 // Use OpenAI to generate a chapter quiz based on the title subject.
 //
 function make() {
+    if (window.location.href.startsWith('file://')) {
+        quizError('because URL starts with file://');
+        return;
+    }
+
     const subject = $('title').html().split(' - ')[1];
     const question = `Create me a multiple choice anatomy 101 quiz about ${subject} with 2 questions.
     There should be 4 options per question.
@@ -71,24 +106,30 @@ function make() {
     // wait for quiz
     $('#quiz-form').hide();
     $('#quiz-form').parent().removeClass('quiz');
-    const please = $('<h4>Please wait... this should only take a few seconds.</h4>');
+    const please = $('<h3>Atrificial intelligence is creating a new quiz just for you!</h3>');
     $('#quiz-form').parent().prepend(please);
-    const wait = $('<h3>Atrificial intelligence is creating a new quiz just for you!</h3>');
+    const wait = $('<h5>Please wait... this should only take a few seconds.</h5>');
     please.append(wait);
 
     // quiz is generating
-    openai(question).then((data) => {
-        const answer = data['choices'][0]['message']['content'];
-        console.log(answer);  // intentionally logging
-        render(JSON.parse(answer));
-        new Quiz($('#quiz-form')).shuffle();
+    openai(encodeURIComponent(question).then(
+        (data) => {
+            const answer = data['choices'][0]['message']['content'];
+            console.log(answer);  // intentionally logging
+            render(JSON.parse(answer));
+            new Quiz($('#quiz-form')).shuffle();
 
-        // quiz is ready
-        $('#quiz-form').parent().addClass('quiz');
-        $('#quiz-form').show();
-        please.hide();
-        wait.hide();
-    });
+            // quiz is ready
+            please.hide();
+            wait.hide();
+            $('#quiz-form').parent().addClass('quiz');
+            $('#quiz-form').show();
+        }).catch(
+            (error) => {
+                please.hide();
+                wait.hide();
+                quizError(error.message);
+            });
 }
 
 
@@ -96,7 +137,14 @@ function make() {
 // Using a Netlify function, query OpenAI.
 //
 async function openai(question) {
-    const response = await fetch(`/.netlify/functions/open-ai/open-ai.js?question=${question}`);
+    const netlify = `/.netlify/functions/open-ai/open-ai.js?question=${question}`;
+    const response = await fetch(netlify).catch(
+        (error) => {
+            throw new Error(error.message);
+        });
+    if (!response.ok) {
+        throw new Error(`${response.status}: ${response.statusText}`);
+    }
     return response.json();
 };
 
@@ -393,16 +441,4 @@ class Option {
         this.element.style.color = '#53565e';
         this.element.style.border = 'none';
     }
-}
-
-
-//
-// https://www.sitepoint.com/delay-sleep-pause-wait/
-//
-function sleep(milliseconds) {
-    const date = Date.now();
-    let currentDate = null;
-    do {
-        currentDate = Date.now();
-    } while (currentDate - date < milliseconds);
 }

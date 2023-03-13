@@ -23,6 +23,16 @@ h3 {
     color: #77a352;
 }
 
+h5 {
+    text-align: center;
+    margin-top: 10px;
+    color: #53565e;
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
+}
+
 /*
  * https://blog.hubspot.com/website/center-div-css
  */

@@ -8,39 +8,59 @@ $(function() {
     function submit(event) {
         event.preventDefault();
 
+        if (window.location.href.startsWith('file://')) {
+            contactError('because URL starts with file://');
+            return;
+        }
+
         // get the user input
         const name = event.target.elements['name'].value;
         const email = event.target.elements['email'].value;
         const message = event.target.elements['message'].value;
-
-        // let the user know we sent the email
-        $('#contact-form').hide();
-        $('#contact-form').parent().find('p').hide();
-        const sent = $('<h3>Message sent, thanks!</h3>');
-        $('#contact-form').parent().prepend(sent);
-        const confirm = $(`<div style="text-align: left;"><p>
-          <pre><b>name</b>: ${name}</pre>
-          <pre><b>email</b>: ${email}</pre>
-          <pre><b>message</b>:</pre>
-          <pre style="white-space: pre-wrap;">${message}</pre>
-          </p></div>`
-        );
-        $('#contact-form').parent().append(confirm);
+        const recaptcha = event.target.elements['g-recaptcha-response'].value;
+        console.log(recaptcha);  // intentionally logging
+        console.log(message);  // intentionally logging
 
         // send the email
-        send(name, email, message);
+        sendgrid(
+            encodeURIComponent(name),
+            encodeURIComponent(email),
+            encodeURIComponent(message),
+        ).then(
+            (_) => {
+                // let the user know we sent the email
+                $('#contact-form').hide();
+                $('#contact-form').parent().find('p').hide();
+                const sent = $('<h3>Message sent, thanks!</h3>');
+                $('#contact-form').parent().prepend(sent);
+                const confirm = $(`<div style="text-align: left;"><p>
+                    <pre><b>name</b>: ${name}</pre>
+                    <pre><b>email</b>: ${email}</pre>
+                    <pre><b>message</b>:</pre>
+                    <pre style="white-space: pre-wrap;">${message}</pre>
+                    </p></div>`
+                );
+                $('#contact-form').parent().append(confirm);
+            }).catch(
+                (error) => {
+                    contactError(error.message);
+                });
     }
     form.submit(submit);
 });
 
 
 //
-// Using Sendgrid, send an email.
+// Display contact form error.
 //
-function send(name, email, message) {
-    sendgrid(name, email, message).then((data) => {
-        console.log(message);
-    });
+function contactError(message) {
+    const msg = $('<h3>Message could not be sent.</h3>');
+    const why = $(`<h5>${message}</h5>`);
+    msg.append(why);
+    $('#contact-form').hide();
+    $('#contact-form').parent().find('p').hide();
+    $('#contact-form').parent().prepend(msg);
+    $('#contact-form').parent().removeClass('quiz');
 }
 
 
@@ -48,6 +68,13 @@ function send(name, email, message) {
 // Using a Netlify function, send an email.
 //
 async function sendgrid(name, email, message) {
-    const response = await fetch(`/.netlify/functions/sendgrid/sendgrid.js?message=${message}&name=${name}&email=${email}`);
+    const netlify = `/.netlify/functions/sendgrid/sendgrid.js?message=${message}&name=${name}&email=${email}`;
+    const response = await fetch(netlify).catch(
+        (error) => {
+            throw new Error(error.message);
+        });
+    if (!response.ok) {
+        throw new Error(`${response.status}: ${response.statusText}`);
+    }
     return response.json();
 };
