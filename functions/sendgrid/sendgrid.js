@@ -16,7 +16,7 @@ const handler = async (event) => {
         }],
         'from': { 'email': from },
         'subject': `Contact read-watch-test: ${name}`,
-        'content': [{ 'type': 'text/plain', msg }],
+        'content': [{ 'type': 'text/plain', 'value': msg }],
     }
     const config = {
         headers: {
