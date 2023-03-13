@@ -93,7 +93,7 @@ function make() {
 
 
 //
-// Using Netlify a function, query OpenAI.
+// Using a Netlify function, query OpenAI.
 //
 async function openai(question) {
     const response = await fetch(`/.netlify/functions/open-ai/open-ai.js?question=${question}`);

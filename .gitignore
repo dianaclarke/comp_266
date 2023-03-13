@@ -7,4 +7,4 @@ node_modules
 .netlify
 
 chat.sh
-
+sendgrid.sh
