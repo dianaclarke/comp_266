@@ -129,7 +129,8 @@ function make() {
                 please.hide();
                 wait.hide();
                 quizError(error.message);
-            });
+            })
+    );
 }
 
 
@@ -417,6 +418,7 @@ class Option {
     // Display right answer.
     //
     right() {
+        // TODO: $(this.element).addClass('right-answer');
         this.element.style.color = '#77a352';
         this.element.style.border = '1px solid grey';
         this.element.style.borderRadius = '25px';
@@ -426,8 +428,9 @@ class Option {
     // Display wrong answer.
     //
     wrong() {
+        // TODO: $(this.element).addClass('wrong-answer');
         this.element.style.color = '#e46e4e';
-        this.element.style.borderRadius = '25px';
+        this.element.style.border = 'none';
     }
 
     //
@@ -438,6 +441,7 @@ class Option {
         //   1. select a wrong answer, submit
         //   2. select the right answer instead, submit
         //   3. the wrong answer would still be red w/o unstyle
+        // TODO: $(this.element).addClass('clear-answer');
         this.element.style.color = '#53565e';
         this.element.style.border = 'none';
     }

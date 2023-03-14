@@ -6,7 +6,6 @@
     background-position: top 40px right 40px;
     background-size: 30%;
     text-align: left;
-
     /* https://stackoverflow.com/a/40366996 */
     background-blend-mode: lighten;
     background-color: rgba(255, 255, 255, 0.7);
@@ -34,6 +33,22 @@ li>ol {
 li>ol>li {
     /* question option */
     font-weight: normal;
+}
+
+.right-answer {
+    color: #77a352;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+
+.wrong-answer {
+    color: #e46e4e;
+    border: none;
+}
+
+.clear-answer {
+    color: #53565e;
+    border: none;
 }
 
 /*

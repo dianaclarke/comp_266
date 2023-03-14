@@ -9,7 +9,16 @@
 }
 
 .learn-how {
-    width: 60%;
+    width: 70%;
+}
+
+.beta {
+    color: white;
+    border-radius: 5px;
+    background-color: #eccd42;
+    padding: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
 }
 
 .chapters {
@@ -83,7 +92,7 @@
 .ui-icon {
     /* https://stackoverflow.com/a/41034918 */
     background-image:
-        url(http://download.jqueryui.com/themeroller/images/ui-icons_black_256x240.png)
+        url(https://download.jqueryui.com/themeroller/images/ui-icons_black_256x240.png)
         !important;
 }
 
@@ -97,7 +106,7 @@
 .ui-accordion .ui-accordion-content {
     background-color: white;
     text-align: left;
-    font-size: 0.9em;
+    font-size: 0.85rem;
     border: none;
 }
 
@@ -107,17 +116,5 @@
 }
 
 .ui-accordion-content>li>a:hover {
-    color: #e46e4e;
-}
-
-#accordion>ul>li {
-    /* if jquery ui js/css not enabled */
-    text-align: left;
-    padding: 10px;
-    font-size: 0.8em;
-}
-
-#accordion>ul>li>a:hover {
-    /* if jquery ui js/css not enabled */
     color: #e46e4e;
 }

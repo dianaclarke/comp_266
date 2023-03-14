@@ -1,3 +1,7 @@
+html {
+    font-size: 100%;
+}
+
 body {
     color: #53565e;
     background-color: white;
@@ -8,8 +12,20 @@ a {
     color: #53565e;
 }
 
+i {
+    color: #e46e4e;
+}
+
 p {
     margin: 30px;
+}
+
+h1 {
+    width: 80%;
+    padding: 25px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
 }
 
 h1 a {
@@ -87,9 +103,12 @@ h5 {
 
 .footer {
     clear: both;
-    font-size: 75%;
+    font-size: 0.75rem;
     color: grey;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
     background-color: #F0F0F0;
     margin-top: 100px;
     margin-bottom: -10px;
