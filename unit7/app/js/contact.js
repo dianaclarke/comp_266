@@ -17,30 +17,29 @@ $(function() {
         const name = event.target.elements['name'].value;
         const email = event.target.elements['email'].value;
         const message = event.target.elements['message'].value;
-        const recaptcha = event.target.elements['g-recaptcha-response'].value;
-        console.log(recaptcha);  // intentionally logging
-        console.log(message);  // intentionally logging
+        const token = event.target.elements['g-recaptcha-response'].value;
 
-        // send the email
-        sendgrid(
-            encodeURIComponent(name),
-            encodeURIComponent(email),
-            encodeURIComponent(message),
-        ).then(
-            (_) => {
-                // let the user know we sent the email
-                $('#contact-form').hide();
-                $('#contact-form').parent().find('p').hide();
-                const sent = $('<h3>Message sent, thanks!</h3>');
-                $('#contact-form').parent().prepend(sent);
-                const confirm = $(`<div style="text-align: left;"><p>
-                    <pre><b>name</b>: ${name}</pre>
-                    <pre><b>email</b>: ${email}</pre>
-                    <pre><b>message</b>:</pre>
-                    <pre style="white-space: pre-wrap;">${message}</pre>
-                    </p></div>`
-                );
-                $('#contact-form').parent().append(confirm);
+        // verify the user & send email
+        recaptcha(encodeURIComponent(token)).then(
+            (response) => {
+                if (!response.success) {
+                    // did not pass recaptcha
+                    contactError('Are you a robot?');
+                    return;
+                }
+                // send the email
+                sendgrid(
+                    encodeURIComponent(name),
+                    encodeURIComponent(email),
+                    encodeURIComponent(message),
+                ).then(
+                    (_) => {
+                        // let the user know we sent the email
+                        display(name, email, message);
+                    }).catch(
+                        (error) => {
+                            contactError(error.message);
+                        });
             }).catch(
                 (error) => {
                     contactError(error.message);
@@ -48,6 +47,26 @@ $(function() {
     }
     form.submit(submit);
 });
+
+
+//
+// Display the sent email
+//
+function display(name, email, message) {
+    $('#contact-form').hide();
+    $('#contact-form').parent().find('p').hide();
+    const sent = $('<h3>Message sent, thanks!</h3>');
+    $('#contact-form').parent().prepend(sent);
+    const confirm = $(`
+        <div style="text-align: left;"><p>
+        <pre><b>name</b>: ${name}</pre>
+        <pre><b>email</b>: ${email}</pre>
+        <pre><b>message</b>:</pre>
+        <pre style="white-space: pre-wrap;">${message}</pre>
+        </p></div>
+    `);
+    $('#contact-form').parent().append(confirm);
+}
 
 
 //
@@ -69,6 +88,22 @@ function contactError(message) {
 //
 async function sendgrid(name, email, message) {
     const netlify = `/.netlify/functions/sendgrid/sendgrid.js?message=${message}&name=${name}&email=${email}`;
+    const response = await fetch(netlify).catch(
+        (error) => {
+            throw new Error(error.message);
+        });
+    if (!response.ok) {
+        throw new Error(`${response.status}: ${response.statusText}`);
+    }
+    return response.json();
+};
+
+
+//
+// Using a Netlify function, verify recaptcha.
+//
+async function recaptcha(token) {
+    const netlify = `/.netlify/functions/recaptcha/recaptcha.js?token=${token}`;
     const response = await fetch(netlify).catch(
         (error) => {
             throw new Error(error.message);
